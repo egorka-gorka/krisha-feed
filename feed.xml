@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06" xmlns:krisha="urn:krisha-parser:details:1">
-  <generation-date>2026-11-20T23:02:08+03:00</generation-date>
+  <generation-date>2026-11-21T00:03:24+03:00</generation-date>
   <offer internal-id="676154677">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -461,6 +461,55 @@
       <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
     </krisha:details>
   </offer>
+  <offer internal-id="1003950602">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1003950602</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Каныша Сатпаева 90/55Б</address>
+      <latitude>43.22932605262</latitude>
+      <longitude>76.876928973299</longitude>
+    </location>
+    <price>
+      <value>73840000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Riviera PLUS, 16 этажей, 2026 г.п., потолки 2.85м., санузел 2 с/у и более, Преимущества💥Расположение домов формирует уютные, закрытые от посторонних car-free-дворы, где безопаснос…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6af6919c-c4d7-40be-a143-167e20188952/22-full.jpg</image>
+    <area>
+      <value>88.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2025-07-30</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>835294</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">2.85 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2026</krisha:attribute>
+      <krisha:attribute name="Город">Алматы, Бостандыкский р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Riviera PLUS</krisha:attribute>
+      <krisha:attribute name="Площадь">88.4 м²</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+    </krisha:details>
+  </offer>
   <offer internal-id="1004088726">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -879,6 +928,371 @@
       <krisha:attribute name="Площадь">74.13 м²</krisha:attribute>
       <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
       <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1009355143">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1009355143</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, мкр Нуркент, Турара Рыскулова 2Б/1</address>
+      <latitude>43.25394003279</latitude>
+      <longitude>76.815244505906</longitude>
+    </location>
+    <price>
+      <value>29500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс OLYMPIC PARK, монолитный дом, 2026 г.п., потолки 3м., Продаётся 1-комнатная квартира 39 м² в ЖК OLYMPIC PARK от Sensata Group. Дом сдан, ключи и документы на руках. 9 этаж из 9. Восточная сторона — утром много естественного света. Никто не живёт сверху. Квартира в предчистовой отделке…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f5/f5f50246-5771-46d3-84df-4acba4c0d86d/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f5/f5f50246-5771-46d3-84df-4acba4c0d86d/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f5/f5f50246-5771-46d3-84df-4acba4c0d86d/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f5/f5f50246-5771-46d3-84df-4acba4c0d86d/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f5/f5f50246-5771-46d3-84df-4acba4c0d86d/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f5/f5f50246-5771-46d3-84df-4acba4c0d86d/3-full.jpg</image>
+    <area>
+      <value>39</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-02-05</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>756410</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2026</krisha:attribute>
+      <krisha:attribute name="Город">Алматы, Алатауский р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">OLYMPIC PARK</krisha:attribute>
+      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
+      <krisha:attribute name="Площадь">39 м²</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+      <krisha:attribute name="Этаж">9 из 9</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1010162569">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1010162569</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Уральск</locality-name>
+      <address>Уральск, Молдагулова 5/5</address>
+      <latitude>51.226459617783</latitude>
+      <longitude>51.364980309955</longitude>
+    </location>
+    <price>
+      <value>30739500</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Орталык, 9 этажей, 2022 г.п., потолки 3м., Уютный комплекс в центре Уральска предлагает комфортные жилье из высококачественных материалов, возведенное с применением новейших технологий. Шесть домов в 9 этажей окружены развитой инфраструктурой и всем необходимым…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d275195b-c9d8-4708-acf9-c6ccc5e89bd9/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d275195b-c9d8-4708-acf9-c6ccc5e89bd9/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d275195b-c9d8-4708-acf9-c6ccc5e89bd9/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d275195b-c9d8-4708-acf9-c6ccc5e89bd9/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d275195b-c9d8-4708-acf9-c6ccc5e89bd9/5-full.jpg</image>
+    <area>
+      <value>75.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-03-04</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>405000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2022</krisha:attribute>
+      <krisha:attribute name="Город">Уральск, Западно-Казахстанская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Орталык</krisha:attribute>
+      <krisha:attribute name="Площадь">75.9 м²</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1010162741">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1010162741</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Уральск</locality-name>
+      <address>Уральск, Молдагулова 5/5</address>
+      <latitude>51.226459617783</latitude>
+      <longitude>51.364980309955</longitude>
+    </location>
+    <price>
+      <value>45603000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Орталык, 9 этажей, 2022 г.п., потолки 3м., Уютный комплекс в центре Уральска предлагает комфортные жилье из высококачественных материалов, возведенное с применением новейших технологий. Шесть домов в 9 этажей окружены развитой инфраструктурой и всем необходимым…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/38/38dc1b5a-30ec-4f47-a479-145ad3a579e6/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/38/38dc1b5a-30ec-4f47-a479-145ad3a579e6/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/38/38dc1b5a-30ec-4f47-a479-145ad3a579e6/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/38/38dc1b5a-30ec-4f47-a479-145ad3a579e6/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/38/38dc1b5a-30ec-4f47-a479-145ad3a579e6/4-full.jpg</image>
+    <area>
+      <value>112.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-03-04</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>405000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2022</krisha:attribute>
+      <krisha:attribute name="Город">Уральск, Западно-Казахстанская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Орталык</krisha:attribute>
+      <krisha:attribute name="Площадь">112.6 м²</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1011265882">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1011265882</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Талдыкорган</locality-name>
+      <address>Талдыкорган, Кунаева — Кунаева /желтоқсан</address>
+      <latitude>44.99719</latitude>
+      <longitude>78.385168</longitude>
+    </location>
+    <price>
+      <value>15100000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 1985 г.п., состояние: свежий ремонт, потолки 2.5м., санузел совмещенный, меблирована частично, Квартира расположена в хорошем районе, рядом коммунальный рынок, магнум, smoll, Дәулет, школы 14, 16. 12, садики, новая баня Арасан, Баглаулет, все в шаговой доступности. Квартира посл…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/95/95315c86-40ab-4601-a3d5-78d1afea4804/24-full.jpg</image>
+    <area>
+      <value>45</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-04-12</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>335556</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">балкон</krisha:attribute>
+      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">1985</krisha:attribute>
+      <krisha:attribute name="Город">Талдыкорган, мкр Жастар показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
+      <krisha:attribute name="Площадь">45 м², Площадь кухни — 9.5 м²</krisha:attribute>
+      <krisha:attribute name="Пол">линолеум</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">5 из 5</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1011871855">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1011871855</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, мкр Калкаман-2 22 — Ашимова</address>
+      <latitude>43.231672</latitude>
+      <longitude>76.801295</longitude>
+    </location>
+    <price>
+      <value>30500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 2008 г.п., потолки 2.8м., санузел совмещенный, телефон: нет, интернет ADSL, меблирована полностью, Продается светлая однокомнатная квартира, с удобной планировкой. Просторная кухня позволяет использовать её как кухню-гостиную. Дом расположен в спокойном удобном районе, удобный выез…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c7/c7154b48-e1f4-4443-884c-2cf38c1e56dc/8-full.jpg</image>
+    <area>
+      <value>51</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-05-02</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>598039</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">балкон</krisha:attribute>
+      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
+      <krisha:attribute name="Безопасность">видеонаблюдение</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">2.8 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2008</krisha:attribute>
+      <krisha:attribute name="Город">Алматы, Наурызбайский р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
+      <krisha:attribute name="Парковка">рядом охраняемая стоянка</krisha:attribute>
+      <krisha:attribute name="Площадь">51 м², Площадь кухни — 19.5 м²</krisha:attribute>
+      <krisha:attribute name="Пол">ламинат</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Телефон">нет</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+      <krisha:attribute name="Этаж">3 из 9</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1012090489">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012090489</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Актау</locality-name>
+      <address>Актау, 32Б мкр 5</address>
+      <latitude>43.686950689327</latitude>
+      <longitude>51.176445984058</longitude>
+    </location>
+    <price>
+      <value>20500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>&lt;span class="a-is-mortgaged"&gt;В залоге&lt;/span&gt;, кирпичный дом, 2017 г.п., состояние: свежий ремонт, потолки 3м., санузел совмещенный, меблирована частично, Ақтау қаласы, 32Б шағын ауданында орналасқан кең әрі жарық 2 бөлмелі пәтер. ✅ 77 м² ✅ 5/6 қабат ✅ 2017 жылы салынған кірпіш үй ✅ Жақында сапалы жөндеу жасалған ✅ Кең асүй – 16 м²…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d6a716d-1ebe-41d6-a7f3-6524dcb4188c/27-full.jpg</image>
+    <area>
+      <value>77</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>6</floor>
+    <floors-total>6</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-05-11</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>266234</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
+      <krisha:attribute name="Безопасность">видеонаблюдение</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2017</krisha:attribute>
+      <krisha:attribute name="Город">Актау, 32Б мкр показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
+      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
+      <krisha:attribute name="Площадь">77 м², Площадь кухни — 16 м²</krisha:attribute>
+      <krisha:attribute name="Пол">ламинат</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">5 из 6</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1012344027">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012344027</url>
+    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Петропавловск</locality-name>
+      <address>Петропавловск, Ул.Ш.Уалиханова 42</address>
+      <latitude>54.903101</latitude>
+      <longitude>69.141603</longitude>
+    </location>
+    <price>
+      <value>28032000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 2026 г.п., состояние: черновая отделка, потолки 3м., 2-КОМНАТНАЯ КВАРТИРА 58, 4 М² | НОВЫЙ КИРПИЧНЫЙ ДОМ | ОТ ЗАСТРОЙЩИКА Просторная 2-комнатная квартира площадью 58, 4 м² в новом кирпичном доме ЖК Eurasia De Luxe. Удачная планировка для комфортной жизни: отдельная спальня, просто…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b5/b5cf4974-6bad-4bf6-b352-8d15b595321b/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b5/b5cf4974-6bad-4bf6-b352-8d15b595321b/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b5/b5cf4974-6bad-4bf6-b352-8d15b595321b/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b5/b5cf4974-6bad-4bf6-b352-8d15b595321b/1-full.jpg</image>
+    <area>
+      <value>58.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-05-19</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>480000</krisha:price-per-m2>
+      <krisha:seller-type>specialist</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2026</krisha:attribute>
+      <krisha:attribute name="Город">Петропавловск, Северо-Казахстанская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Площадь">58.4 м²</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">черновая отделка</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">8 из 9</krisha:attribute>
     </krisha:details>
   </offer>
 </realty-feed>

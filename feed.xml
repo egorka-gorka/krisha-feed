@@ -1,16 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-20T18:01:27+03:00</generation-date>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06" xmlns:krisha="https://egorka-gorka.github.io/krisha-feed/schema/details/1">
+  <generation-date>2026-11-20T18:39:34+03:00</generation-date>
   <offer internal-id="663928092">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/663928092</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Караганда</locality-name>
       <address>Караганда, ​Микрорайон Оазис, 44</address>
+      <latitude>49.787265374458</latitude>
+      <longitude>73.127059936523</longitude>
     </location>
     <price>
       <value>38491200</value>
@@ -18,22 +20,47 @@
     </price>
     <description>жил. комплекс Британский комфортный квартал, 13 этажей, 2026 г.п., потолки 3м., санузел 2 с/у и более, Преимущества:💥Уникально красивые авторские подъезды</description>
     <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/20-full.jpg</image>
     <area>
       <value>97.2</value>
       <unit>кв. м</unit>
     </area>
     <rooms>4</rooms>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2020-12-15</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>396000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2026</krisha:attribute>
+      <krisha:attribute name="Город">Караганда, Карагандинская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Британский комфортный квартал</krisha:attribute>
+      <krisha:attribute name="Площадь">97.2 м²</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="666337436">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/666337436</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Косшы</locality-name>
       <address>Косшы, Республика 40</address>
+      <latitude>50.993174228097</latitude>
+      <longitude>71.368469494625</longitude>
     </location>
     <price>
       <value>23992000</value>
@@ -41,22 +68,48 @@
     </price>
     <description>жил. комплекс Aq Shanyraq, 6 этажей, 2024 г.п., потолки 2.8м., санузел совмещенный, Возможность приобретения через ЖилСтройСбербанк с дополнительным залогом. ИПОТЕК НЕТ: 7-20-25, ШаныракИменно поэ…</description>
     <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/17-full.jpg</image>
     <area>
       <value>59.98</value>
       <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2021-04-06</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>400000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">2.8 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2024</krisha:attribute>
+      <krisha:attribute name="Город">Косшы, Акмолинская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Aq Shanyraq</krisha:attribute>
+      <krisha:attribute name="Площадь">59.98 м²</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="679559057">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/679559057</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
-      <address>Астана, Сарайшык р-н, А102</address>
+      <address>Астана, А102</address>
+      <latitude>51.130536844516</latitude>
+      <longitude>71.547069849374</longitude>
     </location>
     <price>
       <value>29163600</value>
@@ -64,22 +117,42 @@
     </price>
     <description>жил. комплекс Амирель, 9 этажей, 2023 г.п., потолки 2.7м., санузел 2 с/у и более, Жилой комплекс Амирель – это новый ЖК с квартирами большой площади и улучшенной планировки. Грамотное подобранный дизайн, коммуникации и инфраструктура делают проживание в ЖК осо…</description>
     <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5b5db304-beb4-42ad-8326-e8fa8784ef14/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5b5db304-beb4-42ad-8326-e8fa8784ef14/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5b5db304-beb4-42ad-8326-e8fa8784ef14/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5b5db304-beb4-42ad-8326-e8fa8784ef14/4-full.jpg</image>
     <area>
       <value>81.01</value>
       <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2022-10-13</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>360000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">2.7 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2023</krisha:attribute>
+      <krisha:attribute name="Город">Астана, Сарайшык р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Амирель</krisha:attribute>
+      <krisha:attribute name="Площадь">81.01 м²</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="692390062">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/692390062</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
-      <address>Алматы, Медеуский р-н, Кунаева — ТРЦ ГУМ</address>
+      <address>Алматы, Кунаева — ТРЦ ГУМ</address>
+      <latitude>43.266022</latitude>
+      <longitude>76.948483</longitude>
     </location>
     <price>
       <value>18000000</value>
@@ -87,13 +160,43 @@
     </price>
     <description>кирпичный дом, 1979 г.п., состояние: свежий ремонт, потолки 2.7м., санузел совмещенный, меблирована частично, Продается комната в общежитии в центре города — отличное решение для бизнеса или проживания! ✅ Секционного типа, проходите в закрытый коридор, с коридора две комнаты, вторая соседская комна…</description>
     <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/30-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/31-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/33-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/34-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/32-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/35-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/36-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/37-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/38-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/39-full.jpg</image>
     <area>
       <value>25.1</value>
       <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
-    <floor>3</floor>
+    <floor>5</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2024-03-23</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>717131</krisha:price-per-m2>
+      <krisha:seller-type>specialist</krisha:seller-type>
+      <krisha:is-agent>True</krisha:is-agent>
+      <krisha:attribute name="Балкон остеклён">нет</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">да</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">2.7 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">1979</krisha:attribute>
+      <krisha:attribute name="Город">Алматы, Медеуский р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
+      <krisha:attribute name="Площадь">25.1 м²</krisha:attribute>
+      <krisha:attribute name="Пол">ламинат</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">3 из 5</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="694197086">
     <type>продажа</type>
@@ -119,17 +222,20 @@
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="697187973">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/697187973</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
-      <address>Алматы, Алатауский р-н, Басаркобыз</address>
+      <address>Алматы, Басаркобыз</address>
+      <latitude>43.297969490553</latitude>
+      <longitude>76.832912672311</longitude>
     </location>
     <price>
       <value>23950000</value>
@@ -137,11 +243,40 @@
     </price>
     <description>жил. комплекс Aisafi, 5 этажей, 2025 г.п., потолки 3м., санузел совмещенный, 1 и 2 очереди до 9 блока - комфорт классс 10 по 13 бл…</description>
     <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/15-full.jpg</image>
     <area>
       <value>47.9</value>
       <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2024-09-13</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>500000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2025</krisha:attribute>
+      <krisha:attribute name="Город">Алматы, Алатауский р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Aisafi</krisha:attribute>
+      <krisha:attribute name="Площадь">47.9 м²</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="697889636">
     <type>продажа</type>
@@ -167,17 +302,20 @@
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="698966429">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/698966429</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
-      <address>Астана, Сарыарка р-н, проспект Сарыарка — Золотой квадрат</address>
+      <address>Астана, проспект Сарыарка — Золотой квадрат</address>
+      <latitude>51.161866523218</latitude>
+      <longitude>71.408458778813</longitude>
     </location>
     <price>
       <value>80000000</value>
@@ -185,13 +323,64 @@
     </price>
     <description>жил. комплекс Edel, кирпичный дом, 2017 г.п., состояние: свежий ремонт, потолки 3.2м., санузел 2 с/у и более, интернет оптика, 🔥 Продаётся шикарная, очень светлая и тёплая 3-комнатная квартира в престижном ЖК бизнес-класса Edel (от надежного застройщика SANA GROUP, 2017 г.п. ) ! ​🏡 Главное о…</description>
     <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/319-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/313-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/314-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/315-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/316-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/317-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/318-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/320-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/321-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/322-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/323-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/324-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/325-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/326-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/327-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/328-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/329-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/330-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/331-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/332-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/333-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/334-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/335-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/336-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/337-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/338-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/339-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/340-full.jpg</image>
     <area>
       <value>111</value>
       <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
-    <floor>20</floor>
+    <floor>21</floor>
     <floors-total>21</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2024-11-19</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>720721</krisha:price-per-m2>
+      <krisha:seller-type>specialist</krisha:seller-type>
+      <krisha:is-agent>True</krisha:is-agent>
+      <krisha:attribute name="Балкон">несколько балконов или лоджий</krisha:attribute>
+      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3.2 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2017</krisha:attribute>
+      <krisha:attribute name="Город">Астана, Сарыарка р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Edel</krisha:attribute>
+      <krisha:attribute name="Интернет">оптика</krisha:attribute>
+      <krisha:attribute name="Площадь">111 м², Площадь кухни — 15.5 м²</krisha:attribute>
+      <krisha:attribute name="Пол">паркет</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">20 из 21</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="761404995">
     <type>продажа</type>
@@ -217,6 +406,7 @@
     <rooms>2</rooms>
     <floor>10</floor>
     <floors-total>19</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="761669666">
     <type>продажа</type>
@@ -242,6 +432,7 @@
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>13</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1002031571">
     <type>продажа</type>
@@ -267,6 +458,7 @@
     <rooms>4</rooms>
     <floor>1</floor>
     <floors-total>4</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1002142023">
     <type>продажа</type>
@@ -292,31 +484,64 @@
     <rooms>2</rooms>
     <floor>9</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1003204591">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1003204591</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
-      <address>Астана, Сарыарка р-н, Бейбитшилик 45</address>
+      <address>Астана, Бейбитшилик 45</address>
+      <latitude>51.179549</latitude>
+      <longitude>71.417242</longitude>
     </location>
     <price>
       <value>25500000</value>
       <currency>KZT</currency>
     </price>
-    <description>В залоге , 1964 г.п., санузел совмещенный, меблирована полностью, Продам 3х комнатную квартиру в центре старого города, мебель и бытовая техника остаётся, зимой тепло, летом прохладно, очень хорошее рассположение, хорошая транспортная развязка, остановки рядом, тихий закрытый двор на 3 д…</description>
+    <description>&lt;span class="a-is-mortgaged"&gt;В залоге&lt;/span&gt;, 1964 г.п., санузел совмещенный, меблирована полностью, Продам 3х комнатную квартиру в центре старого города, мебель и бытовая техника остаётся, зимой тепло, летом прохладно, очень хорошее рассположение, хорошая транспортная развязка, остановки рядом, тихий закрытый двор на 3 д…</description>
     <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/65-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/66-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/67-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/68-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/69-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/70-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/71-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/72-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/60-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/61-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/62-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/63-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/64-full.jpg</image>
     <area>
       <value>54.9</value>
       <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
-    <floor>2</floor>
+    <floor>5</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2025-07-06</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>464481</krisha:price-per-m2>
+      <krisha:seller-type>specialist</krisha:seller-type>
+      <krisha:is-agent>True</krisha:is-agent>
+      <krisha:attribute name="Балкон">балкон</krisha:attribute>
+      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
+      <krisha:attribute name="Безопасность">домофон, кодовый замок, видеонаблюдение</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Год постройки">1964</krisha:attribute>
+      <krisha:attribute name="Город">Астана, Сарыарка р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
+      <krisha:attribute name="Площадь">54.9 м², Площадь кухни — 5.3 м²</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Этаж">2 из 5</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="1004180104">
     <type>продажа</type>
@@ -342,6 +567,7 @@
     <rooms>3</rooms>
     <floor>1</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1004192973">
     <type>продажа</type>
@@ -367,6 +593,7 @@
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1005129624">
     <type>продажа</type>
@@ -392,6 +619,7 @@
     <rooms>3</rooms>
     <floor>7</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1005301620">
     <type>продажа</type>
@@ -417,6 +645,7 @@
     <rooms>5</rooms>
     <floor>1</floor>
     <floors-total>3</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1005774259">
     <type>продажа</type>
@@ -442,6 +671,7 @@
     <rooms>3</rooms>
     <floor>17</floor>
     <floors-total>17</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1006407063">
     <type>продажа</type>
@@ -467,6 +697,7 @@
     <rooms>2</rooms>
     <floor>1</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1006850746">
     <type>продажа</type>
@@ -492,6 +723,7 @@
     <rooms>1</rooms>
     <floor>13</floor>
     <floors-total>15</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1007009294">
     <type>продажа</type>
@@ -517,6 +749,7 @@
     <rooms>1</rooms>
     <floor>3</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1007414997">
     <type>продажа</type>
@@ -540,6 +773,7 @@
       <unit>кв. м</unit>
     </area>
     <rooms>4</rooms>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1007686553">
     <type>продажа</type>
@@ -565,6 +799,7 @@
     <rooms>2</rooms>
     <floor>6</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1008948840">
     <type>продажа</type>
@@ -590,6 +825,7 @@
     <rooms>3</rooms>
     <floor>14</floor>
     <floors-total>18</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1009059898">
     <type>продажа</type>
@@ -615,6 +851,7 @@
     <rooms>3</rooms>
     <floor>14</floor>
     <floors-total>25</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1009251394">
     <type>продажа</type>
@@ -640,6 +877,7 @@
     <rooms>1</rooms>
     <floor>7</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1009344105">
     <type>продажа</type>
@@ -665,6 +903,7 @@
     <rooms>1</rooms>
     <floor>5</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1009608167">
     <type>продажа</type>
@@ -690,6 +929,7 @@
     <rooms>3</rooms>
     <floor>2</floor>
     <floors-total>7</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1009628875">
     <type>продажа</type>
@@ -715,6 +955,7 @@
     <rooms>2</rooms>
     <floor>2</floor>
     <floors-total>3</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1009691146">
     <type>продажа</type>
@@ -740,6 +981,7 @@
     <rooms>3</rooms>
     <floor>11</floor>
     <floors-total>18</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1010039717">
     <type>продажа</type>
@@ -765,6 +1007,7 @@
     <rooms>2</rooms>
     <floor>12</floor>
     <floors-total>17</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1010056340">
     <type>продажа</type>
@@ -790,6 +1033,7 @@
     <rooms>4</rooms>
     <floor>5</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1010227491">
     <type>продажа</type>
@@ -815,6 +1059,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>14</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1011288638">
     <type>продажа</type>
@@ -840,6 +1085,7 @@
     <rooms>3</rooms>
     <floor>16</floor>
     <floors-total>19</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1011541438">
     <type>продажа</type>
@@ -865,6 +1111,7 @@
     <rooms>1</rooms>
     <floor>9</floor>
     <floors-total>10</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1011662498">
     <type>продажа</type>
@@ -890,6 +1137,7 @@
     <rooms>4</rooms>
     <floor>4</floor>
     <floors-total>4</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1011669021">
     <type>продажа</type>
@@ -915,6 +1163,7 @@
     <rooms>3</rooms>
     <floor>3</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1011707795">
     <type>продажа</type>
@@ -940,6 +1189,7 @@
     <rooms>2</rooms>
     <floor>8</floor>
     <floors-total>18</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012108348">
     <type>продажа</type>
@@ -965,6 +1215,7 @@
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012286832">
     <type>продажа</type>
@@ -990,6 +1241,7 @@
     <rooms>2</rooms>
     <floor>4</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012309188">
     <type>продажа</type>
@@ -1014,6 +1266,7 @@
     </area>
     <rooms>3</rooms>
     <floor>3</floor>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012444588">
     <type>продажа</type>
@@ -1039,6 +1292,7 @@
     <rooms>1</rooms>
     <floor>1</floor>
     <floors-total>4</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012457007">
     <type>продажа</type>
@@ -1064,6 +1318,7 @@
     <rooms>1</rooms>
     <floor>1</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012469927">
     <type>продажа</type>
@@ -1089,6 +1344,7 @@
     <rooms>3</rooms>
     <floor>2</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012484583">
     <type>продажа</type>
@@ -1114,6 +1370,7 @@
     <rooms>3</rooms>
     <floor>12</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012730243">
     <type>продажа</type>
@@ -1139,6 +1396,7 @@
     <rooms>2</rooms>
     <floor>3</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1012798819">
     <type>продажа</type>
@@ -1164,6 +1422,7 @@
     <rooms>3</rooms>
     <floor>10</floor>
     <floors-total>11</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013045213">
     <type>продажа</type>
@@ -1189,6 +1448,7 @@
     <rooms>3</rooms>
     <floor>1</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013142491">
     <type>продажа</type>
@@ -1214,6 +1474,7 @@
     <rooms>1</rooms>
     <floor>6</floor>
     <floors-total>10</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013237270">
     <type>продажа</type>
@@ -1239,6 +1500,7 @@
     <rooms>2</rooms>
     <floor>2</floor>
     <floors-total>7</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013250823">
     <type>продажа</type>
@@ -1264,6 +1526,7 @@
     <rooms>2</rooms>
     <floor>1</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013392234">
     <type>продажа</type>
@@ -1289,6 +1552,7 @@
     <rooms>2</rooms>
     <floor>1</floor>
     <floors-total>3</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013394520">
     <type>продажа</type>
@@ -1314,6 +1578,7 @@
     <rooms>3</rooms>
     <floor>2</floor>
     <floors-total>3</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013492308">
     <type>продажа</type>
@@ -1339,6 +1604,7 @@
     <rooms>1</rooms>
     <floor>2</floor>
     <floors-total>4</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013550356">
     <type>продажа</type>
@@ -1364,6 +1630,7 @@
     <rooms>1</rooms>
     <floor>8</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013600572">
     <type>продажа</type>
@@ -1389,6 +1656,7 @@
     <rooms>3</rooms>
     <floor>10</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013651717">
     <type>продажа</type>
@@ -1414,6 +1682,7 @@
     <rooms>2</rooms>
     <floor>3</floor>
     <floors-total>7</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013684858">
     <type>продажа</type>
@@ -1439,6 +1708,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013712367">
     <type>продажа</type>
@@ -1464,6 +1734,7 @@
     <rooms>3</rooms>
     <floor>12</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013770893">
     <type>продажа</type>
@@ -1489,6 +1760,7 @@
     <rooms>2</rooms>
     <floor>2</floor>
     <floors-total>7</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013820088">
     <type>продажа</type>
@@ -1514,6 +1786,7 @@
     <rooms>3</rooms>
     <floor>3</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013834377">
     <type>продажа</type>
@@ -1539,6 +1812,7 @@
     <rooms>3</rooms>
     <floor>2</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013859549">
     <type>продажа</type>
@@ -1564,6 +1838,7 @@
     <rooms>1</rooms>
     <floor>4</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1013957887">
     <type>продажа</type>
@@ -1589,6 +1864,7 @@
     <rooms>2</rooms>
     <floor>7</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014020940">
     <type>продажа</type>
@@ -1614,6 +1890,7 @@
     <rooms>3</rooms>
     <floor>16</floor>
     <floors-total>16</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014277516">
     <type>продажа</type>
@@ -1639,6 +1916,7 @@
     <rooms>2</rooms>
     <floor>17</floor>
     <floors-total>18</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014521247">
     <type>продажа</type>
@@ -1664,6 +1942,7 @@
     <rooms>3</rooms>
     <floor>3</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014548973">
     <type>продажа</type>
@@ -1689,6 +1968,7 @@
     <rooms>2</rooms>
     <floor>8</floor>
     <floors-total>17</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014756566">
     <type>продажа</type>
@@ -1714,6 +1994,7 @@
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014774105">
     <type>продажа</type>
@@ -1739,6 +2020,7 @@
     <rooms>4</rooms>
     <floor>2</floor>
     <floors-total>8</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014876114">
     <type>продажа</type>
@@ -1764,6 +2046,7 @@
     <rooms>2</rooms>
     <floor>4</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1014942007">
     <type>продажа</type>
@@ -1789,6 +2072,7 @@
     <rooms>3</rooms>
     <floor>3</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015010702">
     <type>продажа</type>
@@ -1814,6 +2098,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>16</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015069354">
     <type>продажа</type>
@@ -1839,6 +2124,7 @@
     <rooms>2</rooms>
     <floor>12</floor>
     <floors-total>14</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015104724">
     <type>продажа</type>
@@ -1864,6 +2150,7 @@
     <rooms>1</rooms>
     <floor>8</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015143497">
     <type>продажа</type>
@@ -1887,6 +2174,7 @@
       <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015147621">
     <type>продажа</type>
@@ -1912,6 +2200,7 @@
     <rooms>1</rooms>
     <floor>4</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015181715">
     <type>продажа</type>
@@ -1937,6 +2226,7 @@
     <rooms>3</rooms>
     <floor>6</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015273670">
     <type>продажа</type>
@@ -1962,6 +2252,7 @@
     <rooms>2</rooms>
     <floor>12</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015308482">
     <type>продажа</type>
@@ -1987,6 +2278,7 @@
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>8</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015351264">
     <type>продажа</type>
@@ -2012,6 +2304,7 @@
     <rooms>3</rooms>
     <floor>1</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015444046">
     <type>продажа</type>
@@ -2037,6 +2330,7 @@
     <rooms>2</rooms>
     <floor>6</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015670932">
     <type>продажа</type>
@@ -2062,6 +2356,7 @@
     <rooms>3</rooms>
     <floor>3</floor>
     <floors-total>8</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015713667">
     <type>продажа</type>
@@ -2085,6 +2380,7 @@
       <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015746652">
     <type>продажа</type>
@@ -2110,6 +2406,7 @@
     <rooms>3</rooms>
     <floor>11</floor>
     <floors-total>13</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015802650">
     <type>продажа</type>
@@ -2135,6 +2432,7 @@
     <rooms>1</rooms>
     <floor>1</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015826403">
     <type>продажа</type>
@@ -2160,6 +2458,7 @@
     <rooms>3</rooms>
     <floor>13</floor>
     <floors-total>18</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1015956213">
     <type>продажа</type>
@@ -2185,6 +2484,7 @@
     <rooms>2</rooms>
     <floor>16</floor>
     <floors-total>16</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016080506">
     <type>продажа</type>
@@ -2210,6 +2510,7 @@
     <rooms>4</rooms>
     <floor>16</floor>
     <floors-total>16</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016141381">
     <type>продажа</type>
@@ -2235,6 +2536,7 @@
     <rooms>2</rooms>
     <floor>1</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016145567">
     <type>продажа</type>
@@ -2260,6 +2562,7 @@
     <rooms>1</rooms>
     <floor>9</floor>
     <floors-total>10</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016173525">
     <type>продажа</type>
@@ -2285,6 +2588,7 @@
     <rooms>3</rooms>
     <floor>1</floor>
     <floors-total>3</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016274116">
     <type>продажа</type>
@@ -2310,6 +2614,7 @@
     <rooms>2</rooms>
     <floor>4</floor>
     <floors-total>13</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016286807">
     <type>продажа</type>
@@ -2335,6 +2640,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>10</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016322431">
     <type>продажа</type>
@@ -2360,6 +2666,7 @@
     <rooms>2</rooms>
     <floor>18</floor>
     <floors-total>20</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016447917">
     <type>продажа</type>
@@ -2385,6 +2692,7 @@
     <rooms>1</rooms>
     <floor>16</floor>
     <floors-total>17</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016466612">
     <type>продажа</type>
@@ -2410,6 +2718,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016515183">
     <type>продажа</type>
@@ -2433,6 +2742,7 @@
       <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016542270">
     <type>продажа</type>
@@ -2458,6 +2768,7 @@
     <rooms>3</rooms>
     <floor>8</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016547279">
     <type>продажа</type>
@@ -2489,6 +2800,7 @@
     </area>
     <rooms>1</rooms>
     <floor>11</floor>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016560840">
     <type>продажа</type>
@@ -2514,6 +2826,7 @@
     <rooms>3</rooms>
     <floor>2</floor>
     <floors-total>3</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016587388">
     <type>продажа</type>
@@ -2539,6 +2852,7 @@
     <rooms>2</rooms>
     <floor>1</floor>
     <floors-total>3</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016592582">
     <type>продажа</type>
@@ -2564,6 +2878,7 @@
     <rooms>1</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016612763">
     <type>продажа</type>
@@ -2589,17 +2904,20 @@
     <rooms>1</rooms>
     <floor>3</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016613714">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016613714</url>
-    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <updated_at>2026-11-20T15:39:34+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
-      <address>Астана, Сарайшык р-н, Калдаяков — Возле нового вокзала</address>
+      <address>Астана, Калдаяков — Возле нового вокзала</address>
+      <latitude>51.111309630042</latitude>
+      <longitude>71.492801377358</longitude>
     </location>
     <price>
       <value>15500000</value>
@@ -2614,6 +2932,31 @@
     <rooms>1</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-10-15</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>738095</krisha:price-per-m2>
+      <krisha:seller-type>specialist</krisha:seller-type>
+      <krisha:is-agent>True</krisha:is-agent>
+      <krisha:attribute name="Балкон">балкон</krisha:attribute>
+      <krisha:attribute name="Безопасность">видеонаблюдение</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Да</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2025</krisha:attribute>
+      <krisha:attribute name="Город">Астана, Сарайшык р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Баскару 2, 3, 4, 5</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
+      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
+      <krisha:attribute name="Площадь">21 м²</krisha:attribute>
+      <krisha:attribute name="Пол">ламинат</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+      <krisha:attribute name="Этаж">9 из 9</krisha:attribute>
+    </krisha:details>
   </offer>
   <offer internal-id="1016621294">
     <type>продажа</type>
@@ -2639,6 +2982,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>14</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016672383">
     <type>продажа</type>
@@ -2663,6 +3007,7 @@
     </area>
     <rooms>3</rooms>
     <floor>5</floor>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016717314">
     <type>продажа</type>
@@ -2688,6 +3033,7 @@
     <rooms>1</rooms>
     <floor>4</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016819617">
     <type>продажа</type>
@@ -2711,6 +3057,7 @@
       <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016855907">
     <type>продажа</type>
@@ -2735,6 +3082,7 @@
     </area>
     <rooms>2</rooms>
     <floor>12</floor>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016871338">
     <type>продажа</type>
@@ -2760,6 +3108,7 @@
     <rooms>3</rooms>
     <floor>10</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016903242">
     <type>продажа</type>
@@ -2785,6 +3134,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016937046">
     <type>продажа</type>
@@ -2810,6 +3160,7 @@
     <rooms>1</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016982030">
     <type>продажа</type>
@@ -2835,6 +3186,7 @@
     <rooms>2</rooms>
     <floor>4</floor>
     <floors-total>10</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1016995868">
     <type>продажа</type>
@@ -2860,6 +3212,7 @@
     <rooms>3</rooms>
     <floor>4</floor>
     <floors-total>13</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017016073">
     <type>продажа</type>
@@ -2885,6 +3238,7 @@
     <rooms>4</rooms>
     <floor>5</floor>
     <floors-total>6</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017152224">
     <type>продажа</type>
@@ -2910,6 +3264,7 @@
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>10</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017223027">
     <type>продажа</type>
@@ -2935,6 +3290,7 @@
     <rooms>3</rooms>
     <floor>6</floor>
     <floors-total>8</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017244302">
     <type>продажа</type>
@@ -2960,6 +3316,7 @@
     <rooms>4</rooms>
     <floor>17</floor>
     <floors-total>22</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017256131">
     <type>продажа</type>
@@ -2985,6 +3342,7 @@
     <rooms>2</rooms>
     <floor>11</floor>
     <floors-total>17</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017342655">
     <type>продажа</type>
@@ -3010,6 +3368,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017344334">
     <type>продажа</type>
@@ -3035,6 +3394,7 @@
     <rooms>3</rooms>
     <floor>11</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017373828">
     <type>продажа</type>
@@ -3060,6 +3420,7 @@
     <rooms>2</rooms>
     <floor>15</floor>
     <floors-total>18</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017383852">
     <type>продажа</type>
@@ -3085,6 +3446,7 @@
     <rooms>3</rooms>
     <floor>3</floor>
     <floors-total>4</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017472187">
     <type>продажа</type>
@@ -3110,6 +3472,7 @@
     <rooms>2</rooms>
     <floor>8</floor>
     <floors-total>10</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017527538">
     <type>продажа</type>
@@ -3135,6 +3498,7 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017533633">
     <type>продажа</type>
@@ -3160,6 +3524,7 @@
     <rooms>2</rooms>
     <floor>4</floor>
     <floors-total>5</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017579225">
     <type>продажа</type>
@@ -3185,6 +3550,7 @@
     <rooms>3</rooms>
     <floor>11</floor>
     <floors-total>15</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017599873">
     <type>продажа</type>
@@ -3210,6 +3576,7 @@
     <rooms>2</rooms>
     <floor>7</floor>
     <floors-total>12</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017604054">
     <type>продажа</type>
@@ -3235,6 +3602,7 @@
     <rooms>2</rooms>
     <floor>14</floor>
     <floors-total>16</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
   <offer internal-id="1017604327">
     <type>продажа</type>
@@ -3260,5 +3628,6 @@
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
+    <krisha:detail-status>catalog_only</krisha:detail-status>
   </offer>
 </realty-feed>

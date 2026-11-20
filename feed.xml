@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06" xmlns:krisha="urn:krisha-parser:details:1">
-  <generation-date>2026-11-21T00:16:52+03:00</generation-date>
-  <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
+  <generation-date>2026-11-21T00:56:13+03:00</generation-date>
+  <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
   <offer internal-id="676154677">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1294,6 +1294,485 @@
       <krisha:attribute name="Состояние квартиры">черновая отделка</krisha:attribute>
       <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
       <krisha:attribute name="Этаж">8 из 9</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1012459376">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012459376</url>
+    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Панфилова 80 — Гоголя</address>
+      <latitude>43.260501</latitude>
+      <longitude>76.944576</longitude>
+    </location>
+    <price>
+      <value>73000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 1975 г.п., потолки 2.8м., санузел 2 с/у и более, интернет ADSL, меблирована частично, Удобное месторасположение, отличная квартира с хорошей планировкой, ухоженная заезжай и живи! Порядочные соседи, двор закрыт шлагбаумом, рядом метро, школы, дет сады. Новый двор. Документы в полном…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/58966962-2089-4340-a7bb-702ee12630e1/29-full.jpg</image>
+    <area>
+      <value>108.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>8</floor>
+    <floors-total>8</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-05-22</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>670956</krisha:price-per-m2>
+      <krisha:seller-type>specialist</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
+      <krisha:attribute name="Безопасность">домофон, видеонаблюдение</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">2.8 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">1975</krisha:attribute>
+      <krisha:attribute name="Город">Алматы, Алмалинский р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
+      <krisha:attribute name="Парковка">рядом охраняемая стоянка</krisha:attribute>
+      <krisha:attribute name="Площадь">108.8 м², Площадь кухни — 14.6 м²</krisha:attribute>
+      <krisha:attribute name="Пол">ламинат</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">7 из 8</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1012712532">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012712532</url>
+    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Кокшетау</locality-name>
+      <address>Кокшетау, Старый аэропорт 1у — Болашак сарайы</address>
+      <latitude>53.314035</latitude>
+      <longitude>69.379252</longitude>
+    </location>
+    <price>
+      <value>85000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>&lt;span class="a-is-mortgaged"&gt;В залоге&lt;/span&gt;, кирпичный дом, 2018 г.п., потолки 3м., санузел 2 с/у и более, интернет оптика, без мебели, За 100% наличку торг хороший! авто (желательно внедорожник) + доплата квартира + доплата дом + доплата залог 25 млн (Нурбанк можно переуступку сделать) при погашении наличными остальное можно по…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/55/55ab615d-7c33-427e-a90a-827bde3d6316/21-full.jpg</image>
+    <area>
+      <value>179</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-06-01</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>474860</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">несколько балконов или лоджий</krisha:attribute>
+      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
+      <krisha:attribute name="Безопасность">решетки на окнах, домофон</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Да</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2018</krisha:attribute>
+      <krisha:attribute name="Город">Кокшетау, Акмолинская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Интернет">оптика</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
+      <krisha:attribute name="Площадь">179 м²</krisha:attribute>
+      <krisha:attribute name="Пол">ламинат</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">9 из 9</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1012886298">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012886298</url>
+    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Атырау</locality-name>
+      <address>Атырау, мкр Центральный, Абая 28а</address>
+      <latitude>47.104444</latitude>
+      <longitude>51.932658</longitude>
+    </location>
+    <price>
+      <value>87000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 2006 г.п., состояние: свежий ремонт, потолки 3м., санузел 2 с/у и более, телефон: есть возможность подключения, интернет оптика, меблирована частично, 🏡 Квартира в центре Атырау с видом на Драматический театр Предлагается просторная квартира со свежим ремонтом в самом центре город…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d3/d34c4737-a16a-408a-b2ad-35582c556b42/17-full.jpg</image>
+    <area>
+      <value>178</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>10</floor>
+    <floors-total>10</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-06-06</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>488764</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
+      <krisha:attribute name="Безопасность">домофон, видеонаблюдение, консьерж</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2006</krisha:attribute>
+      <krisha:attribute name="Город">Атырау, мкр Центральный показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Интернет">оптика</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
+      <krisha:attribute name="Площадь">178 м²</krisha:attribute>
+      <krisha:attribute name="Пол">ламинат</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
+      <krisha:attribute name="Телефон">есть возможность подключения</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">2 из 10</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1013363039">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013363039</url>
+    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Улы Дала 31</address>
+      <latitude>51.101004509663</latitude>
+      <longitude>71.40182605911</longitude>
+    </location>
+    <price>
+      <value>28000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Alpamys, кирпичный дом, 2020 г.п., состояние: не новый, но аккуратный ремонт, потолки 3м., меблирована полностью, БЕЗ КОМИССИИ ! Без торга 26-27.5 не предлагать Торга нет. Цена окончательная. 🏡 Продаётся уютная 1-комнатная квартира в ЖК «Алпамыс»! 📐 Площадь квартиры — 39, 3 м². Квар…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e2/e295b7d9-0bc9-4619-99f4-594bbc12efbf/26-full.jpg</image>
+    <area>
+      <value>39.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>12</floor>
+    <floors-total>12</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-06-23</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>712468</krisha:price-per-m2>
+      <krisha:seller-type>specialist</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2020</krisha:attribute>
+      <krisha:attribute name="Город">Астана, Нура р-н показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Alpamys</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
+      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
+      <krisha:attribute name="Площадь">39.3 м²</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">6 из 12</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1013779570">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013779570</url>
+    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Тараз</locality-name>
+      <address>Тараз, Иманалиева 1</address>
+      <latitude>42.929944</latitude>
+      <longitude>71.38219</longitude>
+    </location>
+    <price>
+      <value>83900000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 2022 г.п., потолки 3.3м., санузел 2 с/у и более, телефон: есть возможность подключения, интернет проводной, меблирована полностью, Срочно продается роскошная 6-комнатная квартира (пентхаус) ! Просторная квартира ПЕНТХАУС площадью 256 м² с продуманной планировкой. Расположена на 4 эт…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/46-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/29-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/30-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/31-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/32-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/33-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/34-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/35-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/36-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/37-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/38-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/39-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/40-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/41-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/42-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/43-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/44-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/45-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/47-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/48-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/49-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/50-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/51-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/da3ccfa1-5896-4db5-8ecc-0711f82ddab0/52-full.jpg</image>
+    <area>
+      <value>256</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>6</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-07-08</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>327734</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">несколько балконов или лоджий</krisha:attribute>
+      <krisha:attribute name="Безопасность">решетки на окнах, охрана, домофон, кодовый замок, сигнализация, видеонаблюдение, видеодомофон</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">3.3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2022</krisha:attribute>
+      <krisha:attribute name="Город">Тараз, Жамбылская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
+      <krisha:attribute name="Интернет">проводной</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
+      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
+      <krisha:attribute name="Площадь">256 м²</krisha:attribute>
+      <krisha:attribute name="Пол">паркет</krisha:attribute>
+      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
+      <krisha:attribute name="Телефон">есть возможность подключения</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">4 из 5</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1014019017">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014019017</url>
+    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Атырау</locality-name>
+      <address>Атырау, Абулхайыр Хана 64</address>
+      <latitude>47.1087885802</latitude>
+      <longitude>51.850610331791</longitude>
+    </location>
+    <price>
+      <value>23188080</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Samgar, 9 этажей, 2027 г.п., потолки 3м., Samğar — пространство, где комфорт поднимается на новую высоту. Этот жилой комплекс объединяет современную архитектуру и продуманную среду для жизни.</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6d/6d22f7dd-939e-45b7-8429-b66d349e6fab/9-full.jpg</image>
+    <area>
+      <value>36.69</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-07-17</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>632000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2027</krisha:attribute>
+      <krisha:attribute name="Город">Атырау, Атырауская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Samgar</krisha:attribute>
+      <krisha:attribute name="Площадь">36.69 м²</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+      <krisha:attribute name="Этаж">9</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1014020941">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014020941</url>
+    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Караганда</locality-name>
+      <address>Караганда, ул. Букетова, в сторону мкрн. Кунгей и объездной трассы</address>
+      <latitude>49.783279649022</latitude>
+      <longitude>73.165625657976</longitude>
+    </location>
+    <price>
+      <value>39760950</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Arman Town, 16 этажей, 2027 г.п., потолки 2.7м., Преимущества: 💥Класс Comfort и Comfort+</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/40/4086c6f6-24ab-4917-b6eb-6d43a8121e0f/11-full.jpg</image>
+    <area>
+      <value>95.35</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>16</floor>
+    <floors-total>16</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-07-17</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-20</krisha:listing-added-at>
+      <krisha:price-per-m2>417000</krisha:price-per-m2>
+      <krisha:seller-type>complex</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Высота потолков">2.7 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">2027</krisha:attribute>
+      <krisha:attribute name="Город">Караганда, Карагандинская обл. показать на карте</krisha:attribute>
+      <krisha:attribute name="Жилой комплекс">Arman Town</krisha:attribute>
+      <krisha:attribute name="Площадь">95.35 м²</krisha:attribute>
+      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
+      <krisha:attribute name="Этаж">14</krisha:attribute>
     </krisha:details>
   </offer>
 </realty-feed>

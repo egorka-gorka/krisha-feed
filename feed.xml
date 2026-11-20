@@ -1,6 +1,100 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-20T12:29:58+00:00</generation-date>
+  <generation-date>2026-11-20T18:01:27+03:00</generation-date>
+  <offer internal-id="663928092">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/663928092</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Караганда</locality-name>
+      <address>Караганда, ​Микрорайон Оазис, 44</address>
+    </location>
+    <price>
+      <value>38491200</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Британский комфортный квартал, 13 этажей, 2026 г.п., потолки 3м., санузел 2 с/у и более, Преимущества:💥Уникально красивые авторские подъезды</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7f/7f681ec6-e1b6-424a-b66f-176355199c27/13-full.jpg</image>
+    <area>
+      <value>97.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+  </offer>
+  <offer internal-id="666337436">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/666337436</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Косшы</locality-name>
+      <address>Косшы, Республика 40</address>
+    </location>
+    <price>
+      <value>23992000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Aq Shanyraq, 6 этажей, 2024 г.п., потолки 2.8м., санузел совмещенный, Возможность приобретения через ЖилСтройСбербанк с дополнительным залогом. ИПОТЕК НЕТ: 7-20-25, ШаныракИменно поэ…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8a/8aaf26b9-f82b-433d-a61d-bd328a5f9709/11-full.jpg</image>
+    <area>
+      <value>59.98</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+  </offer>
+  <offer internal-id="679559057">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/679559057</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Сарайшык р-н, А102</address>
+    </location>
+    <price>
+      <value>29163600</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Амирель, 9 этажей, 2023 г.п., потолки 2.7м., санузел 2 с/у и более, Жилой комплекс Амирель – это новый ЖК с квартирами большой площади и улучшенной планировки. Грамотное подобранный дизайн, коммуникации и инфраструктура делают проживание в ЖК осо…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5b5db304-beb4-42ad-8326-e8fa8784ef14/1-full.jpg</image>
+    <area>
+      <value>81.01</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+  </offer>
+  <offer internal-id="692390062">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/692390062</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Медеуский р-н, Кунаева — ТРЦ ГУМ</address>
+    </location>
+    <price>
+      <value>18000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 1979 г.п., состояние: свежий ремонт, потолки 2.7м., санузел совмещенный, меблирована частично, Продается комната в общежитии в центре города — отличное решение для бизнеса или проживания! ✅ Секционного типа, проходите в закрытый коридор, с коридора две комнаты, вторая соседская комна…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c3d7b3c-b5ca-4db5-bd53-eb8e0d5f2955/30-full.jpg</image>
+    <area>
+      <value>25.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+  </offer>
   <offer internal-id="694197086">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -26,6 +120,29 @@
     <floor>5</floor>
     <floors-total>5</floors-total>
   </offer>
+  <offer internal-id="697187973">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/697187973</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алатауский р-н, Басаркобыз</address>
+    </location>
+    <price>
+      <value>23950000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Aisafi, 5 этажей, 2025 г.п., потолки 3м., санузел совмещенный, 1 и 2 очереди до 9 блока - комфорт классс 10 по 13 бл…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c3/c3e4c0f7-341d-497c-97f8-34581a571592/9-full.jpg</image>
+    <area>
+      <value>47.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+  </offer>
   <offer internal-id="697889636">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -50,6 +167,31 @@
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>6</floors-total>
+  </offer>
+  <offer internal-id="698966429">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/698966429</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Сарыарка р-н, проспект Сарыарка — Золотой квадрат</address>
+    </location>
+    <price>
+      <value>80000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Edel, кирпичный дом, 2017 г.п., состояние: свежий ремонт, потолки 3.2м., санузел 2 с/у и более, интернет оптика, 🔥 Продаётся шикарная, очень светлая и тёплая 3-комнатная квартира в престижном ЖК бизнес-класса Edel (от надежного застройщика SANA GROUP, 2017 г.п. ) ! ​🏡 Главное о…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/42/42f2f10a-7b36-4230-8cfe-5f07b4e5ae4f/319-full.jpg</image>
+    <area>
+      <value>111</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>20</floor>
+    <floors-total>21</floors-total>
   </offer>
   <offer internal-id="761404995">
     <type>продажа</type>
@@ -151,6 +293,31 @@
     <floor>9</floor>
     <floors-total>12</floors-total>
   </offer>
+  <offer internal-id="1003204591">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1003204591</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Сарыарка р-н, Бейбитшилик 45</address>
+    </location>
+    <price>
+      <value>25500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>В залоге , 1964 г.п., санузел совмещенный, меблирована полностью, Продам 3х комнатную квартиру в центре старого города, мебель и бытовая техника остаётся, зимой тепло, летом прохладно, очень хорошее рассположение, хорошая транспортная развязка, остановки рядом, тихий закрытый двор на 3 д…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/65/652106d6-30b5-4d61-a0c0-fbb064f0e3da/65-full.jpg</image>
+    <area>
+      <value>54.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+  </offer>
   <offer internal-id="1004180104">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -174,6 +341,31 @@
     </area>
     <rooms>3</rooms>
     <floor>1</floor>
+    <floors-total>5</floors-total>
+  </offer>
+  <offer internal-id="1004192973">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1004192973</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Бостандыкский р-н, мкр Алмагуль, Розыбакиева — Басенова -Розыбакиева</address>
+    </location>
+    <price>
+      <value>45900000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1985 г.п., состояние: не новый, но аккуратный ремонт, санузел раздельный, телефон: отдельный, интернет оптика, меблирована частично, ✅Шикарный район ✅ Проверенная квартира ✅ Подходит в ипотеку 🏡 Продаётся уютная квартира в отличном районе Светлая, чистая, не угловая квартира с х…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9c/9ceefe31-de5a-4cbb-9355-42be8650a5ee/104-full.jpg</image>
+    <area>
+      <value>60</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
     <floors-total>5</floors-total>
   </offer>
   <offer internal-id="1005129624">
@@ -200,6 +392,81 @@
     <rooms>3</rooms>
     <floor>7</floor>
     <floors-total>9</floors-total>
+  </offer>
+  <offer internal-id="1005301620">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1005301620</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Медеуский р-н, Камар Сулу 55</address>
+    </location>
+    <price>
+      <value>211000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Family Club, монолитный дом, 2020 г.п., потолки 3.3м., санузел 2 с/у и более, телефон: отдельный, интернет ADSL, меблирована полностью, Двухуровневая квартира · 157 м² · Family Club · Камар Сулу 55 Редкое предложение в одной из самых престижных локаций Алматы — двухуровневая квар…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ba/bafc68e8-afed-413e-9a04-3f097da8f83b/12-full.jpg</image>
+    <area>
+      <value>157</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>5</rooms>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+  </offer>
+  <offer internal-id="1005774259">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1005774259</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алмалинский р-н, Абая — Тургут Озала</address>
+    </location>
+    <price>
+      <value>129999999</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс O'NER Towers, монолитный дом, 2024 г.п., потолки 3.3м., санузел 2 с/у и более, меблирована полностью, Представляем Вашему вниманию эксклюзивный вариант 3 комнатной квартиры в бизнес классе Жк O’NER TOWERS! 🔸Квартира заезжай и живи! Просторные комнаты с панорамными окнами! Квартира све…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3e/3e764ac4-71f5-4923-bf38-c3a95b7152b1/3-full.jpg</image>
+    <area>
+      <value>95</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>17</floor>
+    <floors-total>17</floors-total>
+  </offer>
+  <offer internal-id="1006407063">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1006407063</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Костанай</locality-name>
+      <address>Костанай, Амангельды 47</address>
+    </location>
+    <price>
+      <value>16500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1979 г.п., потолки 2.5м., санузел раздельный, интернет оптика, меблирована частично, Центр. Продается двухкомнатная квартира в центре города. Ремонт средний. Сантехника в хорошем состоянии, трубы заменены. Удобная транспортная доступность, рядом остановка. Рядом МАРТ, ЦУМ, рынок, шк…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ab/ab81486b-4f88-4dcc-adb8-7223d9df4d8d/10-full.jpg</image>
+    <area>
+      <value>44.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
   </offer>
   <offer internal-id="1006850746">
     <type>продажа</type>
@@ -251,6 +518,29 @@
     <floor>3</floor>
     <floors-total>9</floors-total>
   </offer>
+  <offer internal-id="1007414997">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1007414997</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Усть-Каменогорск, Кокжал Барака 18 а, б, в</address>
+    </location>
+    <price>
+      <value>59719680</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс ASYLYM, 5 этажей, 2026 г.п., потолки 3м., санузел раздельный, ASYLYM — это дом, который создаёт ощущение ценности и уюта. Название означает «моя драгоценность», и именно таким жилой комплекс задуман: тёплым, надёжным и особен…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c9/c98b33ae-9134-497e-a11e-89f2f474b6f6/6-full.jpg</image>
+    <area>
+      <value>122.88</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+  </offer>
   <offer internal-id="1007686553">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -300,6 +590,31 @@
     <rooms>3</rooms>
     <floor>14</floor>
     <floors-total>18</floors-total>
+  </offer>
+  <offer internal-id="1009059898">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1009059898</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Сарыарка р-н, Богенбай батыр 30</address>
+    </location>
+    <price>
+      <value>32500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 1998 г.п., потолки 2.7м., санузел 2 с/у и более, телефон: нет, интернет проводной, меблирована полностью, 📐91 м2 — 3-комнатная квартира — Просторная и правильная планировка — С ремонтом и мебелью. Все что на фото, все остается. — Дом очень теплый зимой В шаговой доступно…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/85/856e096c-188f-4712-b4cd-ee4f3704d7e4/64-full.jpg</image>
+    <area>
+      <value>91</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>14</floor>
+    <floors-total>25</floors-total>
   </offer>
   <offer internal-id="1009251394">
     <type>продажа</type>
@@ -351,6 +666,31 @@
     <floor>5</floor>
     <floors-total>6</floors-total>
   </offer>
+  <offer internal-id="1009608167">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1009608167</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Турксибский р-н, Кульджинский тракт 153 — Бухтарминская</address>
+    </location>
+    <price>
+      <value>68000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>В залоге , жил. комплекс Altyn City, монолитный дом, 2025 г.п., состояние: свежий ремонт, потолки 2.85м., санузел совмещенный, интернет проводной, меблирована полностью, 🔷️Продаётся эксклюзивная 3-комнатная квартира с дизайнерским ремонтом в современном ЖК Алтын Сити. ✅️Площадь — 88, 7 м² ✅️Этаж — 2…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5bf97b85-3d5b-4016-beae-c400e3f5d09c/18-full.jpg</image>
+    <area>
+      <value>88.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <floors-total>7</floors-total>
+  </offer>
   <offer internal-id="1009628875">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -376,6 +716,31 @@
     <floor>2</floor>
     <floors-total>3</floors-total>
   </offer>
+  <offer internal-id="1009691146">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1009691146</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алмалинский р-н, Прокофьева 144/2</address>
+    </location>
+    <price>
+      <value>56000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Манхеттен (29 квартал), монолитный дом, 2011 г.п., состояние: требует ремонта, потолки 2.8м., санузел раздельный, телефон: есть возможность подключения, интернет оптика, меблирована частично, ✨ Продаётся роскошная 3-комнатная квартира в ЖК Manhattan ✨ 📐 Площадь: 90 м² 🛏️ 3 просторн…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef1e06f2-236a-4dc3-ad77-cce04bfb8f1c/68-full.jpg</image>
+    <area>
+      <value>90</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>11</floor>
+    <floors-total>18</floors-total>
+  </offer>
   <offer internal-id="1010039717">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -400,6 +765,31 @@
     <rooms>2</rooms>
     <floor>12</floor>
     <floors-total>17</floors-total>
+  </offer>
+  <offer internal-id="1010056340">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1010056340</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Бостандыкский р-н, Жандосова 34 А</address>
+    </location>
+    <price>
+      <value>75990000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 1988 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.8м., санузел 2 с/у и более, телефон: есть возможность подключения, интернет через TV кабель, меблирована полностью, Просторная 4-комнатная квартира, 92 м² | ул. Жандосова / Ауэзова | 5/9 этаж Рассмотрим любое предложе…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16ceb307-3339-4ec1-bb0e-a76a7b8baf06/27-full.jpg</image>
+    <area>
+      <value>92.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
   </offer>
   <offer internal-id="1010227491">
     <type>продажа</type>
@@ -576,6 +966,55 @@
     <floor>5</floor>
     <floors-total>5</floors-total>
   </offer>
+  <offer internal-id="1012286832">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012286832</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Косшы</locality-name>
+      <address>Косшы, Республики 1/1Б</address>
+    </location>
+    <price>
+      <value>15000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Шоколад, кирпичный дом, 2018 г.п., потолки 2.7м., меблирована полностью, 🏡 Продаётся уютная евродвушка с мебелью и техникой по доступной цене! Квартира расположена в кирпичном доме — тёплая, комфортная и практичная для проживания. 📍 Отличная локация: • рядом Акимат • торговый центр •…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/99/994311cf-1190-4ede-9374-8c2965f6b5ba/21-full.jpg</image>
+    <area>
+      <value>30</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+  </offer>
+  <offer internal-id="1012309188">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012309188</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Коянкус</locality-name>
+      <address>Коянкус, Квартал 1 3860/1к3</address>
+    </location>
+    <price>
+      <value>53000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Gate City, 2023 г.п., санузел раздельный, меблирована полностью, 🏡 Просторная 3-комнатная квартира в развивающемся районе Алматы Уютная и светлая квартира площадью 85 м² в хорошем районе с отличной перспективой на будущее. Подойдёт для комфортной семейной жизни ✨ ✨ О квартире: ✔…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/99/99b9ed20-308b-41b9-9b2f-136b424d2b11/39-full.jpg</image>
+    <area>
+      <value>85</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>3</floor>
+  </offer>
   <offer internal-id="1012444588">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -601,6 +1040,81 @@
     <floor>1</floor>
     <floors-total>4</floors-total>
   </offer>
+  <offer internal-id="1012457007">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012457007</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Бостандыкский р-н, мкр Алмагуль, Си-синхая 18 — ⭐️АТАКЕНТ⭐️ ПАРК ЮЖНЫЙ⭐️</address>
+    </location>
+    <price>
+      <value>28000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1979 г.п., потолки 2.5м., санузел совмещенный, меблирована частично, Уютная 1-комнатная квартира в одном из самых зеленых и удобных районов Алматы — Бостандыкском (мкр. Алмагуль, ул. Си Синхая, 18). О квартире и доме: • Состояние: свежий косметический ремонт • Санузел совмещенный • Д…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fa/fa30dbc7-869a-4ad4-a4eb-20d2e00a6b3e/8-full.jpg</image>
+    <area>
+      <value>35</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+  </offer>
+  <offer internal-id="1012469927">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012469927</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Бесагаш</locality-name>
+      <address>Бесагаш, Аймауытова</address>
+    </location>
+    <price>
+      <value>38500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Nuria 2.0, монолитный дом, 2023 г.п., потолки 2.7м., СРОЧНО ПРОДАЁТСЯ 3-КОМНАТНУЮ КВАРТИРУ В ЖК NURIYA 2.0 — БЕСАГАШ по супер горящей цене 38, 5 млн тенге. Светлая и уютная 3-комнатная квартира в новом блоке ЖК NURIYA 2.0. Три больших комнаты, отличная планировка, при которой вс…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b0/b0aaf350-49d4-4034-bcf5-1f534446d2d1/14-full.jpg</image>
+    <area>
+      <value>77</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+  </offer>
+  <offer internal-id="1012484583">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012484583</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Бесагаш</locality-name>
+      <address>Бесагаш, Кошкарбаева</address>
+    </location>
+    <price>
+      <value>30500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Аспан Сити 2.0, монолитный дом, 2024 г.п., потолки 2.85м., Срочная продажа, 🏠Свободная планировка, черновая отделка, можно сделать 4ком квартиру. 🏠Новый дом. ☘️Документы в порядке, можно в ипотеку. ☘️Остановки, легко доезжать в центр города. 🚘 Отличная транспортная развязка. 💎 Рядо…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/73/7385670a-0c3f-41b9-89c3-f71bdac967de/15-full.jpg</image>
+    <area>
+      <value>79.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>12</floor>
+    <floors-total>12</floors-total>
+  </offer>
   <offer internal-id="1012730243">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -625,6 +1139,31 @@
     <rooms>2</rooms>
     <floor>3</floor>
     <floors-total>9</floors-total>
+  </offer>
+  <offer internal-id="1012798819">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012798819</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Сарайшык р-н, Касыма Аманжола 32 — Мечеть Хазрет Султан</address>
+    </location>
+    <price>
+      <value>50999999</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Сказочный мир, кирпичный дом, 2014 г.п., потолки 2.8м., санузел 2 с/у и более, меблирована частично, 🏡 Продаётся просторная 3-комнатная квартира в ЖК «Сказочный мир» ✨ Площадь: 105 м² ✨ Улучшенная планировка ✨ Комнаты изолированные ✨ Распашонка – окна выходят на две стороны ✨ 2…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d0/d07b1b05-0120-42fa-8821-5d776f106f22/12-full.jpg</image>
+    <area>
+      <value>105</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>10</floor>
+    <floors-total>11</floors-total>
   </offer>
   <offer internal-id="1013045213">
     <type>продажа</type>
@@ -676,6 +1215,31 @@
     <floor>6</floor>
     <floors-total>10</floors-total>
   </offer>
+  <offer internal-id="1013237270">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013237270</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Бесагаш</locality-name>
+      <address>Бесагаш, Алатауская трасса 28</address>
+    </location>
+    <price>
+      <value>26700000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс BUTA Mirai, кирпичный дом, 2026 г.п., состояние: черновая отделка, потолки 2.85м., 🔥 НОВОСТРОЙКА, КОТОРАЯ УЖЕ СДАНА! НИКАКОГО ОЖИДАНИЯ — КЛЮЧИ МОЖНО ПОЛУЧИТЬ СРАЗУ! ✅ Проходит по программе «Наурыз» и другим ипотечным программам. Отличная возможность приобрести собственное жильё…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/27/279b50e4-1ce9-4cbd-8425-d3bf4e736036/13-full.jpg</image>
+    <area>
+      <value>45.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>2</floor>
+    <floors-total>7</floors-total>
+  </offer>
   <offer internal-id="1013250823">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -700,6 +1264,31 @@
     <rooms>2</rooms>
     <floor>1</floor>
     <floors-total>6</floors-total>
+  </offer>
+  <offer internal-id="1013392234">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013392234</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Отеген батыр</locality-name>
+      <address>Отеген батыр, Аубакирова 12/45а</address>
+    </location>
+    <price>
+      <value>19500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Jana Omir, монолитный дом, 2025 г.п., состояние: свежий ремонт, потолки 2.8м., санузел совмещенный, телефон: есть возможность подключения, интернет через TV кабель, меблирована полностью, Евро-2 в ЖК Жана Омир — полностью готова к проживанию. Продаётся уютная евро-двушка площадью 35 м…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37a390b2-b2fa-45bc-b5e3-7e0e17e24b9a/14-full.jpg</image>
+    <area>
+      <value>35</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
   </offer>
   <offer internal-id="1013394520">
     <type>продажа</type>
@@ -726,6 +1315,281 @@
     <floor>2</floor>
     <floors-total>3</floors-total>
   </offer>
+  <offer internal-id="1013492308">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013492308</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Отеген батыр</locality-name>
+      <address>Отеген батыр, Мкр. Гульдер 1160 — 12блок</address>
+    </location>
+    <price>
+      <value>18500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Gres Park, монолитный дом, 2022 г.п., состояние: свежий ремонт, потолки 2.75м., 🏡 Просторная 1-комнатная квартира 48 м² — 18.5 млн ₸! Ищете квартиру с просторной кухней и удобной планировкой? Отличный вариант для жизни или инвестиций! ✨ Преимущества квартиры: * 📐 Общая площадь — 48 м²…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9c/9ccfef10-f7e3-495b-a9b9-bf97c66b1159/14-full.jpg</image>
+    <area>
+      <value>48</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>2</floor>
+    <floors-total>4</floors-total>
+  </offer>
+  <offer internal-id="1013550356">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013550356</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алатауский р-н, ул. Фадеева, 38г</address>
+    </location>
+    <price>
+      <value>24500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Jar-Jar, монолитный дом, 2026 г.п., состояние: свободная планировка, потолки 3м., 🏡 ПРОДАЁТСЯ 1-КОМНАТНАЯ КВАРТИРА В ЖК JAR-JAR Отличная возможность создать интерьер своей мечты! Предлагается к продаже 1-комнатная квартира в ЖК Jar-Jar. Прекрасный вариант как для собственно…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e4/e40f70bd-22bb-4b76-af38-22a09ab736a4/23-full.jpg</image>
+    <area>
+      <value>36</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>8</floor>
+    <floors-total>12</floors-total>
+  </offer>
+  <offer internal-id="1013600572">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013600572</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Есильский р-н, Абикен Бектуров 1/2 — ТЦ «Ханшатыр»</address>
+    </location>
+    <price>
+      <value>76000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс GreenLine.BI City Seoul, монолитный дом, 2019 г.п., состояние: свежий ремонт, потолки 3м., санузел совмещенный, интернет оптика, меблирована полностью, ПРЕМИАЛЬНАЯ 3-КОМНАТНАЯ КВАРТИРА С ВИДОМ НА ХАН ШАТЫР | ЖК GREENLINE. BI CITY SEOUL Предлагаем вашему вниманию полноценную 3-комна…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/dc/dc09020c-6be6-4ac1-9921-609d8fac76b5/21-full.jpg</image>
+    <area>
+      <value>90</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>10</floor>
+    <floors-total>12</floors-total>
+  </offer>
+  <offer internal-id="1013651717">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013651717</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Бесагаш</locality-name>
+      <address>Бесагаш, Естай — Кульджинский тракт</address>
+    </location>
+    <price>
+      <value>25000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс BUTA Zaman, монолитный дом, 2026 г.п., состояние: черновая отделка, потолки 2.85м., санузел совмещенный, интернет проводной, без мебели, Продается просторная 2-комнатная квартира в престижном ЖК «Buta Zaman» -Идеальный 3-й этаж: Комфортная высота, не зависящая от лифтов. -Чернов…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/52/52b96f55-fdf4-4df6-98d1-f84922a0e5f4/5-full.jpg</image>
+    <area>
+      <value>52.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>3</floor>
+    <floors-total>7</floors-total>
+  </offer>
+  <offer internal-id="1013684858">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013684858</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алмалинский р-н, мкр Тастак-3 201</address>
+    </location>
+    <price>
+      <value>37999990</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1986 г.п., состояние: требует ремонта, потолки 2.8м., санузел раздельный, интернет оптика, без мебели, Срочно продам полноценную 2-комнатную квартиру в самом центре города, на пересечении улиц Толе би и Розыбакиева, по супергорящей цене — 38 млн. тенге. Цена окончательная и суперго…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6c/6cc86f8f-e1f6-4b27-892e-a1e04da40f30/15-full.jpg</image>
+    <area>
+      <value>57.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+  </offer>
+  <offer internal-id="1013712367">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013712367</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Бесагаш</locality-name>
+      <address>Бесагаш, Кошкарбаева 39в/1</address>
+    </location>
+    <price>
+      <value>29990000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Аспан Сити 2.0, монолитный дом, 2025 г.п., состояние: черновая отделка, потолки 2.85м., О доме Класс комфорт Этажность 12 Высота потолков 2.85 м Тип дома монолитный Отделка черновая Паркинг надземный Лифт пассажирский, грузопассажирский Отопление автономное Материалы фасада вентили…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/46/46a9c905-c7dd-4ea8-b4a4-723c8bb6dc86/12-full.jpg</image>
+    <area>
+      <value>77.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>12</floor>
+    <floors-total>12</floors-total>
+  </offer>
+  <offer internal-id="1013770893">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013770893</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Бесагаш</locality-name>
+      <address>Бесагаш, Учетный квартал 1517</address>
+    </location>
+    <price>
+      <value>25500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс BUTA Zaman, монолитный дом, 2026 г.п., потолки 2.85м., ✅Проверенная квартира 🏡 О квартире: 📏 Площадь — 51, 2 м² 📍 ЖК Buta Zaman, дом №15, 1 подъезд ⬆️ 2 этаж 🏗️ Застройщик — Buta Group 📅 Сдача в эксплуатацию — конец 2026 года, возможно раньше ПРЕИМУЩЕСТВА: 📍 Удобное расположение —…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f6/f6411cff-e34e-4c59-af56-d4751b646327/1-full.jpg</image>
+    <area>
+      <value>52.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>2</floor>
+    <floors-total>7</floors-total>
+  </offer>
+  <offer internal-id="1013820088">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013820088</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Турксибский р-н, мкр Жас Канат 1/8 — Мечеть</address>
+    </location>
+    <price>
+      <value>56000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 2017 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.8м., санузел раздельный, телефон: есть возможность подключения, интернет через TV кабель, меблирована частично, 🏡 3-комнатная квартира в мкр. Жас Канат — отличный вариант! Продаётся просторная 3-комнатная квартира площа…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7b/7b78141d-caa5-4161-8081-0fdf3ab88669/15-full.jpg</image>
+    <area>
+      <value>85</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>3</floor>
+    <floors-total>9</floors-total>
+  </offer>
+  <offer internal-id="1013834377">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013834377</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Отеген батыр</locality-name>
+      <address>Отеген батыр, Гагарина 7</address>
+    </location>
+    <price>
+      <value>32000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1982 г.п</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f55f4da-ac5e-4aae-9f8c-481df87eca16/8-full.jpg</image>
+    <area>
+      <value>60</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+  </offer>
+  <offer internal-id="1013859549">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013859549</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Бесагаш</locality-name>
+      <address>Бесагаш, Ахметова БЕЗ ТОРГА! 45а</address>
+    </location>
+    <price>
+      <value>17500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс East Life, монолитный дом, 2026 г.п., состояние: свободная планировка, потолки 3м., санузел совмещенный, телефон: есть возможность подключения, без мебели, Предлагается к продаже полноценная 1-комнатная квартира в перспективном ЖК «East Life» (застройщик «Галерея новостроек»). Алм…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/70/70fc2899-831f-4bff-9fd8-f21d27c8e28b/23-full.jpg</image>
+    <area>
+      <value>38.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>4</floor>
+    <floors-total>6</floors-total>
+  </offer>
+  <offer internal-id="1013957887">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013957887</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Жанатурмыс</locality-name>
+      <address>Жанатурмыс, Учетный квартал 305 140/3</address>
+    </location>
+    <price>
+      <value>30000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 2025 г.п., состояние: свежий ремонт, потолки 2.7м., санузел совмещенный, без мебели, Агенство продает новую 2-комнатная квартира в ЖК Eco Park Alatau! Абсолютно новая, светлая и чистая квартира. После ремонта никто не проживал — вы станете первым владельцем. Подходит в ипотеку люб…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4d/4d9cae67-1163-4388-bdde-5827a66f5fbc/17-full.jpg</image>
+    <area>
+      <value>56.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>7</floor>
+    <floors-total>9</floors-total>
+  </offer>
   <offer internal-id="1014020940">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -750,6 +1614,31 @@
     <rooms>3</rooms>
     <floor>16</floor>
     <floors-total>16</floors-total>
+  </offer>
+  <offer internal-id="1014277516">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014277516</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Есильский р-н, Бухар Жырау 33/1 — Samal парк</address>
+    </location>
+    <price>
+      <value>40900000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Capital Park. Emotions, монолитный дом, 2026 г.п., потолки 3м., меблирована полностью, Продам квартиру в престижном районе, развитая инфраструктура, рядом Парк Самал, детский садик Мега кидс, Школа Бином, аптеки, магазины, кафе, рестораны. Все что нужно для комфортного проживания…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b88a48ed-328e-439c-9eb6-2cff7f2d1efe/10-full.jpg</image>
+    <area>
+      <value>41.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>17</floor>
+    <floors-total>18</floors-total>
   </offer>
   <offer internal-id="1014521247">
     <type>продажа</type>
@@ -875,6 +1764,31 @@
     <rooms>2</rooms>
     <floor>4</floor>
     <floors-total>12</floors-total>
+  </offer>
+  <offer internal-id="1014942007">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014942007</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Есильский р-н, Жошы хан 27 — Керей, Жанибек хандар</address>
+    </location>
+    <price>
+      <value>73500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Prime Garden, кирпичный дом, 2022 г.п., состояние: свежий ремонт, потолки 3м., санузел 2 с/у и более, интернет ADSL, меблирована полностью, Продам 3 комнатную квартиру. 3 этаж из 9. отличная планировка‼️ ✅Квартира в отличном состоянии ✅Шикарная локация ✅Сфера парк, Президентский парк…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3a/3aa1833c-2a8f-409a-bcc8-4b7f43c7f82b/3-full.jpg</image>
+    <area>
+      <value>90</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>3</floor>
+    <floors-total>9</floors-total>
   </offer>
   <offer internal-id="1015010702">
     <type>продажа</type>
@@ -1124,6 +2038,31 @@
     <floor>6</floor>
     <floors-total>9</floors-total>
   </offer>
+  <offer internal-id="1015670932">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015670932</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Есильский р-н, Баян сулу 42 — Кыз жибек</address>
+    </location>
+    <price>
+      <value>61500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Istanbul, кирпичный дом, 2026 г.п., состояние: черновая отделка, потолки 3м., санузел раздельный, 🔥 КЛУБНЫЙ ДОМ | БИЗНЕС-КЛАСС | КЛЮЧИ НА РУКАХ Редкое предложение для тех, кто ценит приватность и комфорт. Клубный дом бизнес-класса — всего 3 квартиры на площадке, благодаря чему зде…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/2066fb11-a81a-4893-b16a-92e6cfb670d1/14-full.jpg</image>
+    <area>
+      <value>84.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>3</floor>
+    <floors-total>8</floors-total>
+  </offer>
   <offer internal-id="1015713667">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1146,6 +2085,31 @@
       <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
+  </offer>
+  <offer internal-id="1015746652">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015746652</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алмалинский р-н, Муратбаева</address>
+    </location>
+    <price>
+      <value>52000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс 12 месяцев, монолитный дом, 2024 г.п., состояние: свежий ремонт, потолки 3м., санузел совмещенный, меблирована частично, Пластиковые окна, не угловая, улучшенная, комнаты изолированы, новая сантехника. Продаётся уютная Евро 3х-комнатная квартира в новом жилом комплексе ✨ Кварт…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/07/078f8696-ff92-4505-bddb-f55279d8ac27/18-full.jpg</image>
+    <area>
+      <value>66</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>11</floor>
+    <floors-total>13</floors-total>
   </offer>
   <offer internal-id="1015802650">
     <type>продажа</type>
@@ -1197,6 +2161,31 @@
     <floor>13</floor>
     <floors-total>18</floors-total>
   </offer>
+  <offer internal-id="1015956213">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015956213</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Есильский р-н, Орынбор 10/4</address>
+    </location>
+    <price>
+      <value>42300000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Inju Arena, монолитный дом, 2020 г.п., состояние: не новый, но аккуратный ремонт, потолки 3м., санузел совмещенный, меблирована частично, Продаётся 2-комнатная квартира в ЖК INJU Arena 💥Левый берег, район Ботанического сада. Продаётся уютная 2-комнатная квартира 📐-площадью 56, 4…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/6a/6ad56e06-fa07-4872-9f7d-20d22bebd21d/25-full.jpg</image>
+    <area>
+      <value>56.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>16</floor>
+    <floors-total>16</floors-total>
+  </offer>
   <offer internal-id="1016080506">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1221,6 +2210,81 @@
     <rooms>4</rooms>
     <floor>16</floor>
     <floors-total>16</floors-total>
+  </offer>
+  <offer internal-id="1016141381">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016141381</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Турксибский р-н, мкр Кайрат, Тараз — ‼️Проходит в ипотеку‼️</address>
+    </location>
+    <price>
+      <value>41500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс BUTA Legacy, монолитный дом, 2023 г.п., состояние: свежий ремонт, потолки 2.85м., санузел совмещенный, меблирована полностью, 🏡 Продаётся полноценная 2-комнатная квартира в ЖК BUTA Legacy! 📍 Турксибский район, микрорайон Кайрат ✨ Отличный вариант для комфортного проживания!…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/69/693e0ca7-6781-47ab-9d7a-baeadcfdd9f0/1-full.jpg</image>
+    <area>
+      <value>70</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+  </offer>
+  <offer internal-id="1016145567">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016145567</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Алматы р-н, Сатпаева 21 — Сатпаева - Майлина</address>
+    </location>
+    <price>
+      <value>26900000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Жас Кайрат, монолитный дом, 2010 г.п., состояние: свежий ремонт, потолки 2.7м., санузел совмещенный, интернет проводной, Евродвушка в ЖК «Жас Қайрат» — уютное пространство для жизни в районе Евразии. 📍 Сатпаева, 21, пересечение с Майлина 📐 53, 8 м² | 9 этаж из 10 🏗 Монолитный дом 20…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/93fa480d-3d8b-46d8-bf34-03f4e6cc9948/19-full.jpg</image>
+    <area>
+      <value>54</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>9</floor>
+    <floors-total>10</floors-total>
+  </offer>
+  <offer internal-id="1016173525">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016173525</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Бостандыкский р-н, Мкрн. Нурлытау — Розы Жамановой</address>
+    </location>
+    <price>
+      <value>68800000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Jardin, монолитный дом, 2024 г.п., состояние: свежий ремонт, потолки 3м., санузел совмещенный, интернет ADSL, меблирована полностью, Продаётся уютная квартира в ЖК Jardin Квартира для тех, кто ценит комфорт, тишину и возможность жить в окружении чистого воздуха. ✨ Главные преимуществ…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3cfc8fe1-6305-4ddd-b4c6-3cf75b06bb5e/13-full.jpg</image>
+    <area>
+      <value>65</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
   </offer>
   <offer internal-id="1016274116">
     <type>продажа</type>
@@ -1272,6 +2336,31 @@
     <floor>5</floor>
     <floors-total>10</floors-total>
   </offer>
+  <offer internal-id="1016322431">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016322431</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Ауэзовский р-н, мкр Мамыр-1 26/1</address>
+    </location>
+    <price>
+      <value>72000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Megapolis, монолитный дом, 2022 г.п., состояние: свежий ремонт, потолки 3м., санузел совмещенный, интернет проводной, меблирована полностью, 🏡 ПРОДАЁТСЯ СТИЛЬНАЯ 2-КОМНАТНАЯ КВАРТИРА В ЖК MEGAPOLIS! ✨ Современный ремонт • Полная меблировка • Панорамные окна • Отличная локация 🏡…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/19/19cf454f-4b99-4462-8b56-c51cc287f523/13-full.jpg</image>
+    <area>
+      <value>90</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>18</floor>
+    <floors-total>20</floors-total>
+  </offer>
   <offer internal-id="1016447917">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1296,6 +2385,31 @@
     <rooms>1</rooms>
     <floor>16</floor>
     <floors-total>17</floors-total>
+  </offer>
+  <offer internal-id="1016466612">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016466612</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Алматы р-н, Кюйши Дины 28</address>
+    </location>
+    <price>
+      <value>27700000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Кайнар, панельный дом, 2005 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.7м., санузел раздельный, телефон: отдельный, интернет проводной, меблирована частично, Хорошая квартира рядом три школы детский сад поликлиника торговый центр тихий район Дом от BI Group 2005 год…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4c/4cee7b82-d429-4fd9-9f1c-4622121f3405/1-full.jpg</image>
+    <area>
+      <value>63.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
   </offer>
   <offer internal-id="1016515183">
     <type>продажа</type>
@@ -1376,6 +2490,31 @@
     <rooms>1</rooms>
     <floor>11</floor>
   </offer>
+  <offer internal-id="1016560840">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016560840</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Бостандыкский р-н, мкр Мирас</address>
+    </location>
+    <price>
+      <value>181000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Benelux, монолитный дом, 2025 г.п., потолки 3.1м., Предлагается 3-х комнатная квартира в одном из самых статусных жилых комплексов Алматы ЖК "Benelux" от BAZIS-A О квартире • Панорамные витражные окна - максимум света и ощущение простора • Террасы с захватывающим видом на гор…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/90/90a791a0-4bd0-4c44-b93c-1326ba2e3789/19-full.jpg</image>
+    <area>
+      <value>115</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <floors-total>3</floors-total>
+  </offer>
   <offer internal-id="1016587388">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1400,6 +2539,31 @@
     <rooms>2</rooms>
     <floor>1</floor>
     <floors-total>3</floors-total>
+  </offer>
+  <offer internal-id="1016592582">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016592582</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Турксибский р-н, мкр Кайрат — ЖК Jeti Qazyna</address>
+    </location>
+    <price>
+      <value>17785000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 2026 г.п., состояние: черновая отделка, потолки 2.9м., санузел совмещенный, Продается 1-комнатная квартира в Турксибском районе в ЖК Jeti Qazyna от Застройщика Qazaq Stroy — по переуступке прав: сейчас - 5 200 000 тг, остаток - 12 585 000 тг застройщику после ввода в эксплуатацию —…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/187cdad8-54e3-43ca-98f9-14c276f01c9d/7-full.jpg</image>
+    <area>
+      <value>32.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
   </offer>
   <offer internal-id="1016612763">
     <type>продажа</type>
@@ -1431,7 +2595,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016613714</url>
-    <updated_at>2026-11-20T12:29:58+00:00</updated_at>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
@@ -1442,7 +2606,7 @@
       <currency>KZT</currency>
     </price>
     <description>жил. комплекс Баскару 2, 3, 4, 5, монолитный дом, 2025 г.п., состояние: свежий ремонт, потолки 3м., санузел совмещенный, меблирована частично, Продаётся уютная и тёплая квартира в новом доме с современным ремонтом! Квартира светлая, ухоженная и комфортная для проживания. Выполнен современный ремон…</description>
-    <image>https://krisha-photos.kcdn.online/webp/70/70fbe9eb-adeb-4fba-8eaf-c802a192211a/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/70/70fbe9eb-adeb-4fba-8eaf-c802a192211a/16-full.jpg</image>
     <area>
       <value>21</value>
       <unit>кв. м</unit>
@@ -1499,6 +2663,31 @@
     </area>
     <rooms>3</rooms>
     <floor>5</floor>
+  </offer>
+  <offer internal-id="1016717314">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016717314</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Турксибский р-н, мкр Кайрат уч. 377</address>
+    </location>
+    <price>
+      <value>24500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс BUTA Albion, монолитный дом, 2026 г.п., потолки 2.85м., Продаётся квартира площадью 41, 8 мг НЕ УГЛОВАЯ в современном жилом комплексе с отличной перспективой для комфортного проживания и выгодного инвестирования. Покупка оформляется как первичное жильё. СДАЧА ДОМА: Ноябрь-декабрь 202…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b2/b26b9f8e-053c-41c3-aa29-cbf7e4b9da3c/9-full.jpg</image>
+    <area>
+      <value>41.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>4</floor>
+    <floors-total>6</floors-total>
   </offer>
   <offer internal-id="1016819617">
     <type>продажа</type>
@@ -1572,6 +2761,156 @@
     <floor>10</floor>
     <floors-total>12</floors-total>
   </offer>
+  <offer internal-id="1016903242">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016903242</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Усть-Каменогорск, Михаэлиса 1</address>
+    </location>
+    <price>
+      <value>17400000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1971 г.п., потолки 2.5м., 🏡 ПРОДАЁТСЯ 2-КОМНАТНАЯ КВАРТИРА | МИХАЭЛИСА, 1 📍 Адрес: Михаэлиса, 1 ✨ ПРЕИМУЩЕСТВА КВАРТИРЫ 🔹 Панельный дом 1971 года постройки 🔹 5 этаж из 5 🔹 Парковочные места во дворе 🔹 Новая детская площадка 🔹 Востребованный район 🔹 Топовая локация и развитая…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ee/ee07cbd1-0bab-44e2-85af-08181f1c1afa/35-full.jpg</image>
+    <area>
+      <value>45</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+  </offer>
+  <offer internal-id="1016937046">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016937046</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Нура р-н, Розы Баглановой 23 — Баглановой-Айтматова</address>
+    </location>
+    <price>
+      <value>24400000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Galaxy Star, кирпичный дом, 2026 г.п., состояние: черновая отделка, потолки 3м., санузел совмещенный, интернет оптика, без мебели, Продается полноценная 1ком квартира в предчистовой отделке. Квартира просторная, теплая, увеличенные окна. Застройщик Galamat group. Развитый район Нур…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/49/49be567d-2331-4994-8bd8-6f3415f9171c/28-full.jpg</image>
+    <area>
+      <value>39.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+  </offer>
+  <offer internal-id="1016982030">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016982030</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алатауский р-н, мкр Акбулак — Чуланова</address>
+    </location>
+    <price>
+      <value>40500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 2012 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.9м., санузел раздельный, интернет проводной, меблирована частично, Торг уместен</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/24/24245775-1326-4026-9e81-ca86a2b48f49/5-full.jpg</image>
+    <area>
+      <value>75</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>4</floor>
+    <floors-total>10</floors-total>
+  </offer>
+  <offer internal-id="1016995868">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016995868</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Тулебаева 5 — Возле Жеруйык парка</address>
+    </location>
+    <price>
+      <value>33900000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 2020 г.п., состояние: свежий ремонт, потолки 2.7м., Документы на руках. Свежий ремонт. БЕЗ ТОРГА, ЦЕНА указана без мебели, с мебелью на 1млн дороже • Евро 3-х комнатная студия, 76.3 м2 • В новом доме, ЖК Арстан. • Состояние заезжай и живи • Ремонт свежий и современный, качествен…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/29/293f9f9a-0aa2-4536-8021-d51a01904f9f/8-full.jpg</image>
+    <area>
+      <value>76.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>4</floor>
+    <floors-total>13</floors-total>
+  </offer>
+  <offer internal-id="1017016073">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017016073</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Турксибский р-н, мкр Кайрат 716/16</address>
+    </location>
+    <price>
+      <value>58500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Dream City. Eco, монолитный дом, 2026 г.п., состояние: черновая отделка, потолки 2.7м., Отличная квартира для дружной семьи! Дом сдан! Ключи на руках ! Преимущества: 💥Круглосуточное видеонаблюдение 💥Зона барбекю 💥Закрытый двор 💥Workout зона 💥Игровые зоны 💥Ландшафтный дизайн ﻿Локаци…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cb/cb9af318-103f-43b9-99c7-2bcbf5c10466/1-full.jpg</image>
+    <area>
+      <value>105.99</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>5</floor>
+    <floors-total>6</floors-total>
+  </offer>
+  <offer internal-id="1017152224">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017152224</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Медеуский р-н, Кажымукана 10 — Отличное предложение видовой квартиры!!</address>
+    </location>
+    <price>
+      <value>68500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1986 г.п., состояние: не новый, но аккуратный ремонт, санузел раздельный, 🏡 3-комнатная видовая квартира в Самал-3 — 70 м², Кажымукана 10 📌 Просторная 3-комнатная квартира на 9 этаже с красивыми видами на горы и город. Окна выходят на восток и запад, благодаря чему квартира напо…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/978da18b-4375-4db7-a53a-3b0330ba4b54/3-full.jpg</image>
+    <area>
+      <value>70</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>9</floor>
+    <floors-total>10</floors-total>
+  </offer>
   <offer internal-id="1017223027">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1597,6 +2936,56 @@
     <floor>6</floor>
     <floors-total>8</floors-total>
   </offer>
+  <offer internal-id="1017244302">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017244302</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Нура р-н, Туран 41/1</address>
+    </location>
+    <price>
+      <value>106000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Grand Turan Business, монолитный дом, 2022 г.п., состояние: свежий ремонт, потолки 3м., Продается 4-х ком. кв. 💠ЖК «Grand Turan Buisenes» 💠Дом Бизнес класса 💠130 кв. м. 💠17 этаж (22) 💠2022 г.п. 💠документы в порядке 💠Никто не живет 💠мебель и техника остается 💠рядом школа, садик, ТЦ «Ха…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8829c83-c681-4600-b5b2-818b4eb2d998/1-full.jpg</image>
+    <area>
+      <value>130</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>17</floor>
+    <floors-total>22</floors-total>
+  </offer>
+  <offer internal-id="1017256131">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017256131</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Нура р-н, Е 882 — Дом на набережной</address>
+    </location>
+    <price>
+      <value>33500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс ABAI JOLY AVENUE, монолитный дом, 2026 г.п., потолки 3м., Продаётся евро двух комнатная квартира вдоль Набережной в ЖК ABAI JOLY AVENUE ⚜️54, 56 кв. м ⚜️в пред чистовой отделке ⚜️ 11 этаж из 17 ⚜️ комфорт + ⚜️ застройщик ULYTAU GROUP ⚜️ вдоль набережной ⚜️ район Нура ⚜️ высота потолка…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fe/fee7c50a-eeb7-4774-9504-8ea27eb936ca/17-full.jpg</image>
+    <area>
+      <value>54.56</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>11</floor>
+    <floors-total>17</floors-total>
+  </offer>
   <offer internal-id="1017342655">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1621,6 +3010,56 @@
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>9</floors-total>
+  </offer>
+  <offer internal-id="1017344334">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017344334</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Есильский р-н, 23-ая улица 7 стр — Букар Жырау-А.Бокейхана</address>
+    </location>
+    <price>
+      <value>67500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс ZAMAN, кирпичный дом, 2024 г.п., потолки 3м., санузел раздельный, телефон: отдельный, интернет оптика, ПРОДАЁТСЯ ВИДОВАЯ 3-КОМНАТНАЯ КВАРТИРА | ЖК Zaman ✨ Просторная квартира студийной планировки площадью 82 м². Преимущества квартиры: • Окна выходят на две стороны — больше естеств…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c0/c0dc9b94-307a-44b2-bfd6-3ee6ae099a54/35-full.jpg</image>
+    <area>
+      <value>82</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>11</floor>
+    <floors-total>12</floors-total>
+  </offer>
+  <offer internal-id="1017373828">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017373828</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Алматы</locality-name>
+      <address>Алматы, Алмалинский р-н, Брусиловского — Брусиловского Карасай батыра</address>
+    </location>
+    <price>
+      <value>45000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Алтын Булак, монолитный дом, 2012 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.8м., санузел совмещенный, меблирована полностью, 2-комнатная квартира 65 м² в ЖК «Алтын Булак-1» Продаётся 2-комнатная квартира площадью 65 м² в жилом комплексе «Алтын Булак-1». Дом 2012 г…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/73/737bdbd6-e5cd-4297-8b4b-719987097812/29-full.jpg</image>
+    <area>
+      <value>65</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>15</floor>
+    <floors-total>18</floors-total>
   </offer>
   <offer internal-id="1017383852">
     <type>продажа</type>
@@ -1722,6 +3161,31 @@
     <floor>4</floor>
     <floors-total>5</floors-total>
   </offer>
+  <offer internal-id="1017579225">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017579225</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Сарайшык р-н, Ахмет Байтурсынулы 16/3</address>
+    </location>
+    <price>
+      <value>40400000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс Muz Tau, монолитный дом, 2025 г.п., потолки 3м., Продаётся евротрёхкомнатная квартира в ЖК Muz Tau Застройщик - Beles. Высота потолков - 3 метра. В квартире дизайнерский ремонт, делали для себя. Жилой комплекс расположен недалеко от вокзала Нурлы Жол и линии ЛРТ. Документы в порядк…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d27ab13d-e3f3-4d2c-9e4e-99352eb61e92/2-full.jpg</image>
+    <area>
+      <value>65.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>11</floor>
+    <floors-total>15</floors-total>
+  </offer>
   <offer internal-id="1017599873">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1746,5 +3210,55 @@
     <rooms>2</rooms>
     <floor>7</floor>
     <floors-total>12</floors-total>
+  </offer>
+  <offer internal-id="1017604054">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017604054</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Шымкент</locality-name>
+      <address>Шымкент, Абайский р-н, Шымкент Capital City</address>
+    </location>
+    <price>
+      <value>10000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>монолитный дом, 2026 г.п., потолки 3.1м., 🏡 ЖК CAPITAL CITY – 2 бөлмелі пәтер сатылады! 📍 ЖК Capital City, 2-кезек 📐 Ауданы: 64, 2 м² 🏢 14-қабат / 16 қабат 🏗 Монолитті үй 🌳 Терезелері аулаға қарайды. ✨ Еркін жоспарлау – пәтерді өз қалауыңыз бойынша жоспарлап, жөндеуге болады. 📄 Техпаспорт желтоқ…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/39/39df7fa2-f3b5-493e-96b3-c93077662da2/1-full.jpg</image>
+    <area>
+      <value>65</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>14</floor>
+    <floors-total>16</floors-total>
+  </offer>
+  <offer internal-id="1017604327">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017604327</url>
+    <updated_at>2026-11-20T15:01:27+00:00</updated_at>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Астана</locality-name>
+      <address>Астана, Сарыарка р-н, Шаймерден Косшыгулулы 27/1</address>
+    </location>
+    <price>
+      <value>45000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс SHYRAQ, монолитный дом, 2026 г.п., состояние: черновая отделка, потолки 3м., санузел 2 с/у и более, 3-х комнатная квартира всё документы есть не в залоге техпаспорт есть рядом эко мешит три школа две заправки всё необходимый есть хороший район</description>
+    <image>//krisha.kz/static/frontend/images/photo-moderation-big.png</image>
+    <area>
+      <value>87</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
   </offer>
 </realty-feed>

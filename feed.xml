@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06" xmlns:krisha="urn:krisha-parser:details:1">
-  <generation-date>2026-11-21T00:56:13+03:00</generation-date>
-  <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
+  <generation-date>2026-11-21T01:06:55+03:00</generation-date>
   <offer internal-id="676154677">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/676154677</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Актау</locality-name>
@@ -67,7 +66,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/685364088</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
@@ -148,7 +147,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/686655373</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Шымкент</locality-name>
@@ -194,7 +193,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/688647071</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -244,7 +243,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/694704263</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -294,7 +293,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1000622356</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -341,7 +340,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1002821588</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -413,7 +412,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1003290035</url>
-    <updated_at>2026-11-20T19:06:34+00:00</updated_at>
+    <last-update-date>2026-11-20T22:06:34+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -467,7 +466,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1003950602</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -516,7 +515,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1004088726</url>
-    <updated_at>2026-11-20T20:02:08+00:00</updated_at>
+    <last-update-date>2026-11-20T23:02:08+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Актау</locality-name>
@@ -598,7 +597,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1004380538</url>
-    <updated_at>2026-11-20T20:02:08+00:00</updated_at>
+    <last-update-date>2026-11-20T23:02:08+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
@@ -658,7 +657,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1004765922</url>
-    <updated_at>2026-11-20T20:02:08+00:00</updated_at>
+    <last-update-date>2026-11-20T23:02:08+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Караганда</locality-name>
@@ -712,7 +711,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1005293694</url>
-    <updated_at>2026-11-20T20:02:08+00:00</updated_at>
+    <last-update-date>2026-11-20T23:02:08+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -760,7 +759,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1005551052</url>
-    <updated_at>2026-11-20T20:02:08+00:00</updated_at>
+    <last-update-date>2026-11-20T23:02:08+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Шымкент</locality-name>
@@ -828,7 +827,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1007257399</url>
-    <updated_at>2026-11-20T20:02:08+00:00</updated_at>
+    <last-update-date>2026-11-20T23:02:08+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Актобе</locality-name>
@@ -887,7 +886,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1007414991</url>
-    <updated_at>2026-11-20T20:02:08+00:00</updated_at>
+    <last-update-date>2026-11-20T23:02:08+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
@@ -936,7 +935,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1009355143</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -986,7 +985,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1010162569</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Уральск</locality-name>
@@ -1029,7 +1028,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1010162741</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Уральск</locality-name>
@@ -1072,7 +1071,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1011265882</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Талдыкорган</locality-name>
@@ -1131,7 +1130,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1011871855</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -1191,7 +1190,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012090489</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Актау</locality-name>
@@ -1254,7 +1253,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012344027</url>
-    <updated_at>2026-11-20T21:03:24+00:00</updated_at>
+    <last-update-date>2026-11-21T00:03:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Петропавловск</locality-name>
@@ -1301,7 +1300,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012459376</url>
-    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Алматы</locality-name>
@@ -1373,7 +1372,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012712532</url>
-    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Кокшетау</locality-name>
@@ -1444,7 +1443,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012886298</url>
-    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Атырау</locality-name>
@@ -1512,7 +1511,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1013363039</url>
-    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Астана</locality-name>
@@ -1577,7 +1576,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1013779570</url>
-    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Тараз</locality-name>
@@ -1679,7 +1678,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1014019017</url>
-    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Атырау</locality-name>
@@ -1729,7 +1728,7 @@
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1014020941</url>
-    <updated_at>2026-11-20T21:56:13+00:00</updated_at>
+    <last-update-date>2026-11-21T00:56:13+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <locality-name>Караганда</locality-name>

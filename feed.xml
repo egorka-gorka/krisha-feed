@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06" xmlns:krisha="urn:krisha-parser:details:1">
-  <generation-date>2026-11-21T12:53:11+03:00</generation-date>
+  <generation-date>2026-11-21T12:57:06+03:00</generation-date>
   <offer internal-id="696641278">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1993,6 +1993,128 @@
       <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
       <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
       <krisha:attribute name="Этаж">3 из 5</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1017615291">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017615291</url>
+    <last-update-date>2026-11-21T12:55:54+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Усть-Каменогорск, Протозанова — В центре города рядом ОБЛ Больница, ЦДК,центральный рынок и т.д.</address>
+      <latitude>49.957457590618</latitude>
+      <longitude>82.628268820971</longitude>
+    </location>
+    <price>
+      <value>20000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 1963 г.п., состояние: не новый, но аккуратный ремонт, санузел совмещенный, без мебели, В центре города всё в доступной и шаговой меснтости. "ТОРГ"</description>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/8-full.jpg</image>
+    <area>
+      <value>59.8</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-11-21</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
+      <krisha:price-per-m2>334448</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">балкон</krisha:attribute>
+      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
+      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Год постройки">1963</krisha:attribute>
+      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
+      <krisha:attribute name="Площадь">59.8 м²</krisha:attribute>
+      <krisha:attribute name="Пол">линолеум</krisha:attribute>
+      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
+      <krisha:attribute name="Этаж">4 из 5</krisha:attribute>
+    </krisha:details>
+  </offer>
+  <offer internal-id="1017616765">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017616765</url>
+    <last-update-date>2026-11-21T12:57:06+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Усть-Каменогорск, Михаэлиса 9</address>
+      <latitude>49.965589999641</latitude>
+      <longitude>82.607475</longitude>
+    </location>
+    <price>
+      <value>25500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1972 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел раздельный, меблирована полностью, Продается 3х комнатная квартира в центре города. рядом находятся школа, садики, магазины, все необходимое для жизни. светлая, теплая, крыша не течет, тихие соседи. В кварт…</description>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/15-full.jpg</image>
+    <area>
+      <value>60</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <krisha:detail-status>complete</krisha:detail-status>
+    <krisha:details>
+      <krisha:listing-created-at>2026-11-21</krisha:listing-created-at>
+      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
+      <krisha:price-per-m2>425000</krisha:price-per-m2>
+      <krisha:seller-type>owner</krisha:seller-type>
+      <krisha:is-agent>False</krisha:is-agent>
+      <krisha:attribute name="Балкон">балкон</krisha:attribute>
+      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
+      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
+      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
+      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
+      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
+      <krisha:attribute name="Год постройки">1972</krisha:attribute>
+      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
+      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
+      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
+      <krisha:attribute name="Площадь">60 м²</krisha:attribute>
+      <krisha:attribute name="Пол">линолеум</krisha:attribute>
+      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
+      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
+      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
+      <krisha:attribute name="Этаж">5 из 5</krisha:attribute>
     </krisha:details>
   </offer>
 </realty-feed>

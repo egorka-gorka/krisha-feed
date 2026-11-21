@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06" xmlns:krisha="urn:krisha-parser:details:1">
-  <generation-date>2026-11-21T12:57:06+03:00</generation-date>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-11-21T13:17:10+03:00</generation-date>
   <offer internal-id="696641278">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -10,7 +10,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Амре Кашаубаева 16 — Астана</address>
+      <address>Амре Кашаубаева 16</address>
       <latitude>49.955634560622</latitude>
       <longitude>82.602145915344</longitude>
     </location>
@@ -42,35 +42,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/27/27e9c434-505d-4144-b0cc-93cccab4d5d7/23-full.jpg</image>
     <area>
       <value>58</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2024-08-23</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>315517</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1967</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Парковка">рядом охраняемая стоянка</krisha:attribute>
-      <krisha:attribute name="Площадь">58 м², Площадь кухни — 6 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Телефон">есть возможность подключения</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">5 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1967</built-year>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1003316542">
     <type>продажа</type>
@@ -81,7 +62,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Протозанова 99</address>
+      <address>Протозанова 99</address>
       <latitude>49.94953</latitude>
       <longitude>82.601105</longitude>
     </location>
@@ -114,33 +95,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/22-full.jpg</image>
     <area>
       <value>73.8</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2025-07-09</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>542005</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1995</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Площадь">73.8 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">8 из 9</krisha:attribute>
-    </krisha:details>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1995</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1005527215">
     <type>продажа</type>
@@ -151,7 +116,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Оралхан Бокей 31</address>
+      <address>Оралхан Бокей 31</address>
       <latitude>49.900577</latitude>
       <longitude>82.611867</longitude>
     </location>
@@ -173,34 +138,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/aa/aaa80da3-deca-4456-9b6f-e844c441976a/11-full.jpg</image>
     <area>
       <value>51.5</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2025-09-20</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>485437</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Год постройки">1988</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Интернет">через TV кабель</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">51.5 м², Площадь кухни — 7 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">5 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <built-year>1988</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1006658087">
     <type>продажа</type>
@@ -211,7 +158,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Казыбек Би 9/1 — Золотой квадрат</address>
+      <address>Казыбек Би 9/1</address>
       <latitude>49.896342</latitude>
       <longitude>82.610942</longitude>
     </location>
@@ -278,34 +225,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/d4/d40fa3e3-0310-48b6-bb6f-043a73a2433b/109-full.jpg</image>
     <area>
       <value>78</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>12</floor>
     <floors-total>12</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2025-10-28</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>551282</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">сигнализация, видеонаблюдение</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2022</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
-      <krisha:attribute name="Интернет">проводной</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">78 м², Площадь кухни — 10 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">10 из 12</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2022</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1007746892">
     <type>продажа</type>
@@ -316,7 +245,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Казахстан 161 — Гостиный двор</address>
+      <address>Казахстан 161</address>
       <latitude>49.962014</latitude>
       <longitude>82.638709</longitude>
     </location>
@@ -345,31 +274,14 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/b2/b2774e0c-41dd-4bb5-93a1-0b4ea40b9143/98-full.jpg</image>
     <area>
       <value>18</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2025-12-05</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>483333</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Безопасность">видеонаблюдение</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">да</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Год постройки">1975</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Площадь">18 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Этаж">4 из 5</krisha:attribute>
-    </krisha:details>
+    <built-year>1975</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
   </offer>
   <offer internal-id="1008626862">
     <type>продажа</type>
@@ -380,7 +292,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Энтузиастов 19</address>
+      <address>Энтузиастов 19</address>
       <latitude>49.892519087413</latitude>
       <longitude>82.65201495864</longitude>
     </location>
@@ -404,37 +316,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/df/df3d1c48-d7b9-4f3c-83c6-4035ac1db011/23-full.jpg</image>
     <area>
       <value>74</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>4</floor>
     <floors-total>4</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-01-10</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>418919</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Да</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1997</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Парковка">гараж</krisha:attribute>
-      <krisha:attribute name="Площадь">74 м², Площадь кухни — 12 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Телефон">есть возможность подключения</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">1 из 4</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1997</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1011247443">
     <type>продажа</type>
@@ -445,7 +337,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Сатпаева 50/1</address>
+      <address>Сатпаева 50/1</address>
       <latitude>49.905805</latitude>
       <longitude>82.625872</longitude>
     </location>
@@ -465,34 +357,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/f5/f5b7eb78-9713-4d7a-9dbc-89b01f710ac7/9-full.jpg</image>
     <area>
       <value>87</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>10</floor>
     <floors-total>10</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-04-11</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>551724</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">несколько балконов или лоджий</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон, видеонаблюдение</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Да</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2008</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
-      <krisha:attribute name="Интернет">оптика</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Парковка">рядом охраняемая стоянка</krisha:attribute>
-      <krisha:attribute name="Площадь">87 м²</krisha:attribute>
-      <krisha:attribute name="Пол">паркет</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">2 из 10</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2008</built-year>
+    <floor-covering>паркет</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1012024430">
     <type>продажа</type>
@@ -503,7 +377,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, ул. Жастар 23</address>
+      <address>ул. Жастар 23</address>
       <latitude>49.905654164878</latitude>
       <longitude>82.613917598092</longitude>
     </location>
@@ -542,37 +416,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dab00133-c308-43ba-bd36-7eae658d2a56/22-full.jpg</image>
     <area>
       <value>83</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>4</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-05-08</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>506024</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон, видеодомофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1991</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Парковка">рядом охраняемая стоянка</krisha:attribute>
-      <krisha:attribute name="Площадь">83 м², Площадь кухни — 9 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Телефон">отдельный</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">2 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1991</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1013982175">
     <type>продажа</type>
@@ -583,7 +437,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Базовая 4/6</address>
+      <address>Базовая 4/6</address>
       <latitude>49.926281</latitude>
       <longitude>82.632654</longitude>
     </location>
@@ -614,33 +468,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/d3/d3def4f0-fa47-4356-a58b-a9b463cf52a2/38-full.jpg</image>
     <area>
       <value>95</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-07-15</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>473684</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">несколько балконов или лоджий</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.8 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2023</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">Novy Bereg</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">95 м², Площадь кухни — 12 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">3 из 9</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>Novy Bereg</building-name>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1014509695">
     <type>продажа</type>
@@ -651,7 +488,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Льва Толстого 7</address>
+      <address>Льва Толстого 7</address>
       <latitude>49.948249</latitude>
       <longitude>82.651339</longitude>
     </location>
@@ -669,29 +506,15 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/4b/4b819e8a-b1f5-4cbd-93f4-80e8372247d4/7-full.jpg</image>
     <area>
       <value>52.4</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-08-03</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>295802</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1988</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Площадь">52.4 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">2 из 5</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1014733712">
     <type>продажа</type>
@@ -702,7 +525,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Оралхан Бокея 29</address>
+      <address>Оралхан Бокея 29</address>
       <latitude>49.901251</latitude>
       <longitude>82.613448</longitude>
     </location>
@@ -725,35 +548,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/12-full.jpg</image>
     <area>
       <value>54</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>6</floor>
     <floors-total>6</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-08-11</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>472222</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1988</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Площадь">54 м², Площадь кухни — 9 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">4 из 6</krisha:attribute>
-    </krisha:details>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1015313667">
     <type>продажа</type>
@@ -764,7 +569,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Каныша Сатпаева 53/3</address>
+      <address>Каныша Сатпаева 53/3</address>
       <latitude>49.92343671892</latitude>
       <longitude>82.631332084465</longitude>
     </location>
@@ -785,36 +590,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/58/58a2a4a4-6c41-4a87-9c62-b10688699a12/10-full.jpg</image>
     <area>
       <value>43</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>16</floor>
     <floors-total>16</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-09-01</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>627907</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">видеодомофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.8 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2025</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">Eco Polis</krisha:attribute>
-      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Площадь">43 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">8 из 16</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2025</built-year>
+    <building-name>Eco Polis</building-name>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1015535923">
     <type>продажа</type>
@@ -825,7 +611,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Б-Гагарина 6/2 8  кв</address>
+      <address>Б-Гагарина 6/2 8 кв</address>
       <latitude>49.973724</latitude>
       <longitude>82.585825</longitude>
     </location>
@@ -850,31 +636,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/14-full.jpg</image>
     <area>
       <value>33.2</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-09-08</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>240964</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1961</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">33.2 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">4 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1961</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1015668155">
     <type>продажа</type>
@@ -885,7 +657,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Жастар 39</address>
+      <address>Жастар 39</address>
       <latitude>49.907569</latitude>
       <longitude>82.612963</longitude>
     </location>
@@ -916,33 +688,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/20-full.jpg</image>
     <area>
       <value>70</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>12</floor>
     <floors-total>12</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-09-12</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>414286</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2000</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Площадь">70 м², Площадь кухни — 9 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">6 из 12</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2000</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1015721758">
     <type>продажа</type>
@@ -953,7 +709,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Славского 64/1</address>
+      <address>Славского 64/1</address>
       <latitude>49.948168</latitude>
       <longitude>82.590532</longitude>
     </location>
@@ -989,36 +745,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/ae/ae0827e6-e01b-4e3f-9cc6-bd483acfc77f/32-full.jpg</image>
     <area>
       <value>84</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>12</floor>
     <floors-total>12</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-09-14</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>666667</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Безопасность">решетки на окнах, охрана, домофон, видеонаблюдение, видеодомофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Да</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.7 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2006</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Интернет">оптика</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">84 м², Площадь кухни — 17 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Телефон">нет</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">11 из 12</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2006</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1015884803">
     <type>продажа</type>
@@ -1029,7 +766,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, САТПАЕВА 30 — КШТ</address>
+      <address>САТПАЕВА 30</address>
       <latitude>49.904119583169</latitude>
       <longitude>82.619921938237</longitude>
     </location>
@@ -1045,29 +782,14 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/b0/b05ba479-df6b-4fbe-b9e7-19590b0e272c/5-full.jpg</image>
     <area>
       <value>35</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-09-20</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>357143</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Год постройки">1985</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Площадь">35 м², Площадь кухни — 8 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">5 из 5</krisha:attribute>
-    </krisha:details>
+    <built-year>1985</built-year>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1016218133">
     <type>продажа</type>
@@ -1078,7 +800,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Каныша Сатпаева 55/12</address>
+      <address>Каныша Сатпаева 55/12</address>
       <latitude>49.926478104648</latitude>
       <longitude>82.628641869898</longitude>
     </location>
@@ -1103,37 +825,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/c4/c438f707-112f-4dc6-9135-3f6cfa2db5f6/14-full.jpg</image>
     <area>
       <value>93.2</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>16</floor>
     <floors-total>16</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-01</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>504292</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон и лоджия</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон, видеонаблюдение</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.7 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2022</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">Park city</krisha:attribute>
-      <krisha:attribute name="Интернет">проводной</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">93.2 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Телефон">нет</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">14 из 16</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2022</built-year>
+    <building-name>Park city</building-name>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1016583374">
     <type>продажа</type>
@@ -1144,7 +846,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Назарбаева 14</address>
+      <address>Назарбаева 14</address>
       <latitude>49.958885</latitude>
       <longitude>82.607528</longitude>
     </location>
@@ -1164,28 +866,14 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/92/927c4b27-8270-4c13-aa3d-ae21bd85390b/9-full.jpg</image>
     <area>
       <value>32.5</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-14</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>461538</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Да</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1962</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Площадь">32.5 м², Площадь кухни — 5.5 м²</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">3 из 5</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1962</built-year>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1016672815">
     <type>продажа</type>
@@ -1196,7 +884,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Карбышева 22 — Карбышева - Виноградова</address>
+      <address>Карбышева 22</address>
       <latitude>49.960154</latitude>
       <longitude>82.583525</longitude>
     </location>
@@ -1219,36 +907,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/80/80abb318-17e6-4a23-b64a-f57d1e7d6def/12-full.jpg</image>
     <area>
       <value>67</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-18</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>532836</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">несколько балконов или лоджий</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1990</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
-      <krisha:attribute name="Интернет">оптика</krisha:attribute>
-      <krisha:attribute name="Парковка">рядом охраняемая стоянка</krisha:attribute>
-      <krisha:attribute name="Площадь">67 м², Площадь кухни — 8 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">8 из 9</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1990</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1016696555">
     <type>продажа</type>
@@ -1259,7 +927,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Жибек Жолы 3</address>
+      <address>Жибек Жолы 3</address>
       <latitude>49.929754</latitude>
       <longitude>82.615858</longitude>
     </location>
@@ -1283,37 +951,18 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/79/79e145fb-626a-4d06-a161-603b58f09a23/13-full.jpg</image>
     <area>
       <value>65</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>10</floor>
     <floors-total>10</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-19</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>484615</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон, видеонаблюдение</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.7 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2018</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">Ertis City</krisha:attribute>
-      <krisha:attribute name="Интернет">оптика</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
-      <krisha:attribute name="Площадь">65 м², Площадь кухни — 11 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">5 из 10</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2018</built-year>
+    <building-name>Ertis City</building-name>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1016722321">
     <type>продажа</type>
@@ -1324,7 +973,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Сатпаева 17/2 — КШТ</address>
+      <address>Сатпаева 17/2</address>
       <latitude>49.902467199602</latitude>
       <longitude>82.628281809798</longitude>
     </location>
@@ -1339,29 +988,14 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/f7/f7163c85-0355-4589-bfbb-dcd74a68c8b9/5-full.jpg</image>
     <area>
       <value>35</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-20</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>422857</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Год постройки">1983</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Площадь">35 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">3 из 5</krisha:attribute>
-    </krisha:details>
+    <built-year>1983</built-year>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1016769411">
     <type>продажа</type>
@@ -1372,7 +1006,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Казыбек Би 12</address>
+      <address>Казыбек Би 12</address>
       <latitude>49.896422344434</latitude>
       <longitude>82.616647890217</longitude>
     </location>
@@ -1385,31 +1019,15 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/c6/c679a712-cbb9-4990-8196-88db5776b67e/2-full.jpg</image>
     <area>
       <value>171.9</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>4</rooms>
     <floor>10</floor>
     <floors-total>10</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-21</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>407039</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">3.2 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2022</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">DOSTAR-CITY</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">171.9 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">черновая отделка</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">5 из 10</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>3.2</ceiling-height>
+    <built-year>2022</built-year>
+    <building-name>DOSTAR-CITY</building-name>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1016928644">
     <type>продажа</type>
@@ -1420,7 +1038,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Пр, Казыбек би 7/4</address>
+      <address>Пр, Казыбек би 7/4</address>
       <latitude>49.895402</latitude>
       <longitude>82.611939</longitude>
     </location>
@@ -1437,36 +1055,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/3b/3b40b787-842c-48c8-8fc2-e14f7c7d49ae/6-full.jpg</image>
     <area>
       <value>86.2</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>10</floor>
     <floors-total>10</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-27</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>417633</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Безопасность">домофон, кодовый замок, видеонаблюдение</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Да</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2010</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
-      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Парковка">рядом охраняемая стоянка</krisha:attribute>
-      <krisha:attribute name="Площадь">86.2 м², Площадь кухни — 15 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Телефон">отдельный</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">10 из 10</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2010</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1016984035">
     <type>продажа</type>
@@ -1477,7 +1075,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Кабанбай Батыра 112</address>
+      <address>Кабанбай Батыра 112</address>
       <latitude>49.948742</latitude>
       <longitude>82.642482</longitude>
     </location>
@@ -1496,38 +1094,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/e1/e1798da2-3f9d-4513-aec4-9c0815e8d813/8-full.jpg</image>
     <area>
       <value>46.4</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-29</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>334052</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1972</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Интернет">проводной</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">46.4 м², Площадь кухни — 6 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Телефон">отдельный</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">5 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1972</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1017026131">
     <type>продажа</type>
@@ -1538,7 +1115,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Илияса Есенберлина 80</address>
+      <address>Илияса Есенберлина 80</address>
       <latitude>49.919262322768</latitude>
       <longitude>82.616447020564</longitude>
     </location>
@@ -1558,30 +1135,15 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/c3/c3cd9688-cece-4442-909f-658dbeff3a08/28-full.jpg</image>
     <area>
       <value>45</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
     <floor>7</floor>
     <floors-total>7</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-10-31</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>455556</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">3.2 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2026</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">Satti City 2</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">45 м², Площадь кухни — 21 м²</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свободная планировка</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">7 из 7</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>3.2</ceiling-height>
+    <built-year>2026</built-year>
+    <building-name>Satti City 2</building-name>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1017055290">
     <type>продажа</type>
@@ -1592,7 +1154,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Ильяс Есенберлин 6а — Продается 1,5 комнатная квартира</address>
+      <address>Ильяс Есенберлин 6а</address>
       <latitude>49.89315</latitude>
       <longitude>82.596883</longitude>
     </location>
@@ -1610,30 +1172,15 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/6c/6c44f2cf-5fb0-4d40-ad37-0a3db92a95be/7-full.jpg</image>
     <area>
       <value>44.2</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>1</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-01</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>395928</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон и лоджия</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2017</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Площадь">44.2 м², Площадь кухни — 14.2 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">1 из 9</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2017</built-year>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1017102317">
     <type>продажа</type>
@@ -1644,7 +1191,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, АМРЕ КАШАУБАЕВА 24 — ПОТАНИНА АСТАНА</address>
+      <address>АМРЕ КАШАУБАЕВА 24</address>
       <latitude>49.954753</latitude>
       <longitude>82.600333</longitude>
     </location>
@@ -1662,28 +1209,14 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/a2/a2f15167-440c-49a5-9735-6f7a924536d5/11-full.jpg</image>
     <area>
       <value>47</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-03</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>340426</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Год постройки">1969</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Площадь">47 м²</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">1 из 5</krisha:attribute>
-    </krisha:details>
+    <built-year>1969</built-year>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1017191519">
     <type>продажа</type>
@@ -1694,7 +1227,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Ильяса Есенберлина 46</address>
+      <address>Ильяса Есенберлина 46</address>
       <latitude>49.916363574575</latitude>
       <longitude>82.61467</longitude>
     </location>
@@ -1720,34 +1253,15 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/f4/f4ec7f51-2a63-4aac-87d6-069ba1b0bda9/12-full.jpg</image>
     <area>
       <value>91.7</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>10</floor>
     <floors-total>10</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-05</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>316249</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">несколько балконов или лоджий</krisha:attribute>
-      <krisha:attribute name="Безопасность">охрана, домофон, видеонаблюдение, видеодомофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.8 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2024</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">Deluxe Town</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">91.7 м², Площадь кухни — 11.4 м²</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свободная планировка</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">10 из 10</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2024</built-year>
+    <building-name>Deluxe Town</building-name>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1017317900">
     <type>продажа</type>
@@ -1758,7 +1272,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, проспект Абая 1</address>
+      <address>проспект Абая 1</address>
       <latitude>49.958781</latitude>
       <longitude>82.613969</longitude>
     </location>
@@ -1775,37 +1289,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/67/675ad878-6f76-42fa-9604-a16c34672ed7/6-full.jpg</image>
     <area>
       <value>68</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>9</floor>
     <floors-total>9</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-10</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>434853</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">решетки на окнах, домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1990</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">частично</krisha:attribute>
-      <krisha:attribute name="Площадь">68 м², Площадь кухни — 12 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Телефон">нет</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">6 из 9</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1990</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1017324198">
     <type>продажа</type>
@@ -1816,7 +1310,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Кокжал Барака 19, 19/1</address>
+      <address>Кокжал Барака 19, 19/1</address>
       <latitude>49.890625714342</latitude>
       <longitude>82.619864207689</longitude>
     </location>
@@ -1838,35 +1332,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/1a/1a4686ff-ca05-4904-8b0a-dc2aa59d6fda/11-full.jpg</image>
     <area>
       <value>114</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>8</floor>
     <floors-total>8</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-10</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>1184211</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2025</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Восточно-Казахстанская обл. показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">бронированная</krisha:attribute>
-      <krisha:attribute name="Жилой комплекс">Оазис</krisha:attribute>
-      <krisha:attribute name="Интернет">через TV кабель</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Парковка">паркинг</krisha:attribute>
-      <krisha:attribute name="Площадь">114 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">2 с/у и более</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">монолитный</krisha:attribute>
-      <krisha:attribute name="Этаж">2 из 8</krisha:attribute>
-    </krisha:details>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2025</built-year>
+    <building-name>Оазис</building-name>
+    <floor-covering>ламинат</floor-covering>
+    <building-type>монолит</building-type>
   </offer>
   <offer internal-id="1017336933">
     <type>продажа</type>
@@ -1877,7 +1352,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Льва Толстого 16</address>
+      <address>Льва Толстого 16</address>
       <latitude>49.945289602254</latitude>
       <longitude>82.653718155996</longitude>
     </location>
@@ -1908,26 +1383,13 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/de/dee2ceee-5743-484c-a754-04bff6a83883/20-full.jpg</image>
     <area>
       <value>69</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-11</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>391304</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Год постройки">1986</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Площадь">69 м², Площадь кухни — 9 м²</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">1 из 5</krisha:attribute>
-    </krisha:details>
+    <built-year>1986</built-year>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1017546098">
     <type>продажа</type>
@@ -1938,7 +1400,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Увалиева 13</address>
+      <address>Увалиева 13</address>
       <latitude>49.887534168916</latitude>
       <longitude>82.616972719175</longitude>
     </location>
@@ -1964,36 +1426,17 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/01/012d4d9f-0e9e-4e86-bb20-e17bf2886148/15-full.jpg</image>
     <area>
       <value>45</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>2</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-18</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>711111</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">лоджия</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон, видеонаблюдение, видеодомофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">3 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">2023</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Интернет">ADSL</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Площадь">45 м²</krisha:attribute>
-      <krisha:attribute name="Пол">ламинат</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">свежий ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">3 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>лоджия</balcony>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2023</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1017615291">
     <type>продажа</type>
@@ -2004,7 +1447,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Протозанова — В центре города рядом ОБЛ Больница, ЦДК,центральный рынок и т.д.</address>
+      <address>Протозанова</address>
       <latitude>49.957457590618</latitude>
       <longitude>82.628268820971</longitude>
     </location>
@@ -2023,34 +1466,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/cb/cbd62f97-41ef-4c3e-8254-5fbac639f35b/8-full.jpg</image>
     <area>
       <value>59.8</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-21</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>334448</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Год постройки">1963</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">без мебели</krisha:attribute>
-      <krisha:attribute name="Площадь">59.8 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">совмещенный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">кирпичный</krisha:attribute>
-      <krisha:attribute name="Этаж">4 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>балкон</balcony>
+    <built-year>1963</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>кирпичный</building-type>
   </offer>
   <offer internal-id="1017616765">
     <type>продажа</type>
@@ -2061,7 +1486,7 @@
     <location>
       <country>Казахстан</country>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Усть-Каменогорск, Михаэлиса 9</address>
+      <address>Михаэлиса 9</address>
       <latitude>49.965589999641</latitude>
       <longitude>82.607475</longitude>
     </location>
@@ -2087,34 +1512,16 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/b3/b3416e9b-9719-4234-b9da-fa3225eb505e/15-full.jpg</image>
     <area>
       <value>60</value>
-      <unit>кв.м</unit>
+      <unit>кв. м</unit>
     </area>
     <rooms>3</rooms>
     <floor>5</floor>
     <floors-total>5</floors-total>
-    <krisha:detail-status>complete</krisha:detail-status>
-    <krisha:details>
-      <krisha:listing-created-at>2026-11-21</krisha:listing-created-at>
-      <krisha:listing-added-at>2026-11-21</krisha:listing-added-at>
-      <krisha:price-per-m2>425000</krisha:price-per-m2>
-      <krisha:seller-type>owner</krisha:seller-type>
-      <krisha:is-agent>False</krisha:is-agent>
-      <krisha:attribute name="Балкон">балкон</krisha:attribute>
-      <krisha:attribute name="Балкон остеклён">да</krisha:attribute>
-      <krisha:attribute name="Безопасность">домофон</krisha:attribute>
-      <krisha:attribute name="Бывшее общежитие">нет</krisha:attribute>
-      <krisha:attribute name="Возможен обмен">Нет</krisha:attribute>
-      <krisha:attribute name="Высота потолков">2.5 м</krisha:attribute>
-      <krisha:attribute name="Год постройки">1972</krisha:attribute>
-      <krisha:attribute name="Город">Усть-Каменогорск, Ульбинский показать на карте</krisha:attribute>
-      <krisha:attribute name="Дверь">металлическая</krisha:attribute>
-      <krisha:attribute name="Квартира меблирована">полностью</krisha:attribute>
-      <krisha:attribute name="Площадь">60 м²</krisha:attribute>
-      <krisha:attribute name="Пол">линолеум</krisha:attribute>
-      <krisha:attribute name="Санузел">раздельный</krisha:attribute>
-      <krisha:attribute name="Состояние квартиры">не новый, но аккуратный ремонт</krisha:attribute>
-      <krisha:attribute name="Тип дома">панельный</krisha:attribute>
-      <krisha:attribute name="Этаж">5 из 5</krisha:attribute>
-    </krisha:details>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1972</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
 </realty-feed>

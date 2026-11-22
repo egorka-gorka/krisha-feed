@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-22T20:46:47+03:00</generation-date>
+  <generation-date>2026-11-22T20:50:24+03:00</generation-date>
   <offer internal-id="682106589">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -4454,6 +4454,98 @@
     <built-year>2009</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1017451090">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017451090</url>
+    <newobject-id />
+    <last-update-date>2026-11-22T20:47:59+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Космическая, 13</address>
+      <latitude>49.962739</latitude>
+      <longitude>82.608436</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/10-full.jpg</image>
+    <description>кирпичный дом, 1968 г.п., состояние: свежий ремонт, потолки 2.5м., санузел совмещенный, меблирована частично, Продается светлая,теплая,уютная квартира со свежим ремонтом.В квартире новые пластиковые окна,радиаторы отопления,полотенцесушитель.Заменена электрическая проводка.Имеется всё необходимое…</description>
+    <area>
+      <value>31</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>4</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1968</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1017463964">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017463964</url>
+    <newobject-id />
+    <last-update-date>2026-11-22T20:49:11+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Назарбаева, 31/3</address>
+      <latitude>49.965787</latitude>
+      <longitude>82.595159</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/5-full.jpg</image>
+    <description>панельный дом, 1986 г.п., потолки 2.5м., санузел совмещенный, Свежий ремонт В шаговой доступности остановки, детсад, школа, университеты</description>
+    <area>
+      <value>34</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1986</built-year>
+  </offer>
   <offer internal-id="1017482241">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -5026,6 +5118,65 @@
     <ceiling-height>2.7</ceiling-height>
     <built-year>2018</built-year>
     <building-name>Ertis City</building-name>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1017631972">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017631972</url>
+    <newobject-id />
+    <last-update-date>2026-11-22T20:50:24+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Амурская, 10</address>
+      <latitude>49.964222</latitude>
+      <longitude>82.595922</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>17200000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/18-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37c7975a-ddb7-4606-8e2e-1ec79634f669/19-full.jpg</image>
+    <description>панельный дом, 1969 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел раздельный, телефон: отдельный, интернет ADSL, без мебели, Квартира находится в райне остановки 45 гастронома.рядом остановка.Дом находится в тихом месте.Рядом 37 школа не надо переходить детям дорогу.Шк…</description>
+    <area>
+      <value>48</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1969</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
 </realty-feed>

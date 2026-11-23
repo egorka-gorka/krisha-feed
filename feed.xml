@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-23T16:39:54+03:00</generation-date>
+  <generation-date>2026-11-23T16:41:06+03:00</generation-date>
   <offer internal-id="682106589">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -6488,6 +6488,54 @@
     <balcony>балкон</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1970</built-year>
+  </offer>
+  <offer internal-id="1017524375">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017524375</url>
+    <newobject-id />
+    <last-update-date>2026-11-23T16:41:06+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Шарипова, 2</address>
+      <latitude>49.891256154542</latitude>
+      <longitude>82.623405719638</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>13000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/27/27123714-0b64-49b9-ab59-3bfe915fbcfe/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/27/27123714-0b64-49b9-ab59-3bfe915fbcfe/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/27/27123714-0b64-49b9-ab59-3bfe915fbcfe/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/27/27123714-0b64-49b9-ab59-3bfe915fbcfe/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/27/27123714-0b64-49b9-ab59-3bfe915fbcfe/5-full.jpg</image>
+    <description>Кухня-студия, новая сантехника.
+
+Продаётся квартира. Удобное расположение, рядом необходимая инфраструктура. Торговый дом, остановка. Квартира подходит как для собственного проживания, так и для сдачи в аренду.
+По всем интересующим вопросам обращаться в личные сообщения или по телефону.
+Реальному покупателю возможен торг.</description>
+    <area>
+      <value>35.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>3</floor>
+    <building-type>панельный</building-type>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2019</built-year>
+    <building-name>Rich Family</building-name>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="1017531654">
     <type>продажа</type>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-23T16:06:52+03:00</generation-date>
+  <generation-date>2026-11-23T16:12:19+03:00</generation-date>
   <offer internal-id="682106589">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -260,7 +260,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/696641278</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:35:13+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -473,7 +473,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1003316542</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:01+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -585,7 +585,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1005687691</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:11:29+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -694,7 +694,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1006658087</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:01+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -1015,7 +1015,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1008626862</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:01+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -1789,7 +1789,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012798810</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:35:13+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -2517,7 +2517,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015094958</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:35:13+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:23+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -2863,7 +2863,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015535923</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:01+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3102,7 +3102,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015668155</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:35:13+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3288,7 +3288,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015722233</url>
     <newobject-id />
-    <last-update-date>2026-11-22T20:24:33+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:23+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3320,7 +3320,7 @@
       <unit>кв.м</unit>
     </area>
     <rooms>1</rooms>
-    <floor>9</floor>
+    <floor>5</floor>
     <floors-total>9</floors-total>
     <building-type>монолит</building-type>
     <ceiling-height>2.5</ceiling-height>
@@ -3524,7 +3524,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016073635</url>
     <newobject-id />
-    <last-update-date>2026-11-22T20:11:12+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:08:07+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3625,7 +3625,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016122466</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:35:13+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3956,6 +3956,167 @@
     <building-name>Riviera Residence</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1016309221">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016309221</url>
+    <newobject-id />
+    <last-update-date>2026-11-23T16:11:08+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Ауэзова, 11</address>
+      <latitude>49.947473</latitude>
+      <longitude>82.611724</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>21500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8614a6a8-f01c-44ea-9cde-8ab2841ae99c/16-full.jpg</image>
+    <description>Пластиковые окна, новая сантехника, кладовка, счётчики, кондиционер.
+
+Квартира в самом центре города — заезжай и живи!
+
+Продаётся тёплая и светлая квартира в самом центре города. Квартира продаётся полностью со всей мебелью, бытовой техникой и обстановкой, которые представлены на фотографиях — можно сразу заехать и жить без дополнительных вложений.
+
+Преимущества квартиры:
+— солнечная сторона, квартира очень светлая и тёплая;
+— отдельно оборудованная гардеробная;
+— вся мебель остаётся новым владельцам;
+— никаких долгов по квартире;
+— спокойный, неконфликтный КСК.
+
+Отличное расположение:
+— 3 школы — всего в 200 метрах;
+— торговые дома и вся необходимая инфраструктура — в шаговой доступности;
+— до набережной — около 500 метров.
+
+Квартира подлежит для ипотеки по всем банкам, кроме программ Отбасы банка
+
+Квартира отлично подойдёт как для комфортного проживания, так и для тех, кто ценит центральное расположение и готовое пространство без необходимости что-либо докупать или обустраивать с нуля.
+
+Пишите/звоните — расскажу подробнее и договоримся о просмотре. Риэлторов прошу не беспокоить</description>
+    <area>
+      <value>46</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1964</built-year>
+  </offer>
+  <offer internal-id="1016357707">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016357707</url>
+    <newobject-id />
+    <last-update-date>2026-11-23T16:12:19+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Набережная Иртыша им. Славского, 40</address>
+      <latitude>49.946452</latitude>
+      <longitude>82.598923</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>31500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/03/03774be2-2bab-486a-9300-38595c5583c6/29-full.jpg</image>
+    <renovation>требует ремонта</renovation>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, счётчики, тихий двор.
+
+Продам улучшенную 2-комнатную в знаменитой СОРОКОНОЖКЕ!
+52, 8 кв. м, 4 этаж из 9 — ЛЕГЕНДАРНЫЙ ДОМ
+ПОТРЯСАЮЩИЙ ПАНОРАМНЫЙ ВИД НА ИРТЫШ — такого вида больше нигде нет!
+
+Планировка улучшенная, не угловая, очень теплая и светлая. Комнаты изолированные.
+
+ЛОКАЦИЯ — МЕЧТА:
+Во дворе — школа №17 им. М. Ауэзова
+Под окнами — парк Саулетай
+Рядом — Андреевский собор и Свято-Троицкий монастырь
+5 минут пешком до Стрелки — самое сердце города
+
+Инфраструктура 100%: школы, сады, магазины, остановки — все в шаговой доступности.
+
+Документы в порядке, 1 собственник, без долгов и обременений.</description>
+    <area>
+      <value>52.8</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>9</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>1991</built-year>
+  </offer>
   <offer internal-id="1016480565">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -4022,7 +4183,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016523321</url>
     <newobject-id />
-    <last-update-date>2026-11-22T20:26:58+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:08:07+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4115,7 +4276,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016672815</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:01+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4212,7 +4373,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016696555</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:01+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4635,7 +4796,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017033470</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:14:16+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:08:07+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4920,7 +5081,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017102317</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:01+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -5282,7 +5443,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017317900</url>
     <newobject-id />
-    <last-update-date>2026-11-23T12:12:34+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -5865,7 +6026,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017531654</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:35:13+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:23+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -6235,7 +6396,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017626628</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:35:13+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -6513,7 +6674,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017665812</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:55:31+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:09:23+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -6561,7 +6722,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017667333</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:56:43+03:00</last-update-date>
+    <last-update-date>2026-11-23T16:08:50+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>

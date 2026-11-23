@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-23T12:18:45+03:00</generation-date>
+  <generation-date>2026-11-23T12:19:57+03:00</generation-date>
   <offer internal-id="682106589">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -4668,6 +4668,55 @@
     <built-year>2019</built-year>
     <building-name>Оазис</building-name>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1017404478">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017404478</url>
+    <newobject-id />
+    <last-update-date>2026-11-23T12:19:57+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Нурсултана Назарбаева, 14/1</address>
+      <latitude>49.959934518191</latitude>
+      <longitude>82.607992578226</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>19500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/08/08016ff1-6a45-4b09-ac8c-25a420d037b9/18-full.jpg</image>
+    <description>кирпичный дом, 1963 г.п., Хорошая квартира после кап ремонта, пластиковые окна, натяжной потолок, не угловая и не в залоге, балкон застеклён. квартира полностью пустая и готовая в любой момент к заселению. ключи отдадим в день сделки</description>
+    <area>
+      <value>58</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <built-year>1963</built-year>
   </offer>
   <offer internal-id="1017431459">
     <type>продажа</type>

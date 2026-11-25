@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T19:08:29+03:00</generation-date>
+  <generation-date>2026-11-25T19:13:36+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -8316,7 +8316,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017451090</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:05+03:00</last-update-date>
+    <last-update-date>2026-11-25T19:10:12+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -8335,17 +8335,19 @@
       <value>15000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/10-full.jpg</image>
-    <description>кирпичный дом, 1968 г.п., состояние: свежий ремонт, потолки 2.5м., санузел совмещенный, меблирована частично, Продается светлая,теплая,уютная квартира со свежим ремонтом.В квартире новые пластиковые окна,радиаторы отопления,полотенцесушитель.Заменена электрическая проводка.Имеется всё необходимое…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/505978aa-2553-4f37-88fb-05ad1e8ae0a7/10-full.jpg</image>
+    <description>Пластиковые окна, новая сантехника, кладовка, счётчики, тихий двор.
+
+Продается светлая,теплая,уютная квартира со свежим ремонтом.В квартире новые пластиковые окна,радиаторы отопления,полотенцесушитель.Заменена электрическая проводка.Имеется всё необходимое для проживания,заезжай и живи.Квартира находится недалеко от площади Ушанова.Рядом школа гимназия 34,оптовика пр.Независимости 8/1,рынок Заречный,много колледжей,недалеко студ.городок.Небольшой торг уместен.Риэлторов прошу не беспокоить!Звоните,договаривайтесь на просмотр.</description>
     <area>
       <value>31</value>
       <unit>кв.м</unit>
@@ -8365,7 +8367,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017463964</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:05+03:00</last-update-date>
+    <last-update-date>2026-11-25T19:11:54+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -8384,11 +8386,11 @@
       <value>15000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/5347b770-7074-430c-805e-c8d26b4aa955/5-full.jpg</image>
     <description>панельный дом, 1986 г.п., потолки 2.5м., санузел совмещенный, Свежий ремонт В шаговой доступности остановки, детсад, школа, университеты</description>
     <area>
       <value>34</value>
@@ -9725,6 +9727,54 @@
     <ceiling-height>2.5</ceiling-height>
     <built-year>1986</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1017666953">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017666953</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T19:13:36+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Набережная Славского, 26</address>
+      <latitude>49.944371</latitude>
+      <longitude>82.606388</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>22000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a7/a7c25a51-b0f4-4166-8bca-5c2435b3c79c/10-full.jpg</image>
+    <description>Продаётся 1 комн квартира в районе Набережной, красивый вид из окна. Просторная кухня 10.5 кв. м, лоджия 6 метров застекленая. Отличный вариант для тех, кто ценит комфорт, уют и удобное расположение. Квартира ухоженная, с хорошим ремонтом.</description>
+    <area>
+      <value>36</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>12</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1972</built-year>
   </offer>
   <offer internal-id="1017667333">
     <type>продажа</type>

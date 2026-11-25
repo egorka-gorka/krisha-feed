@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T23:33:56+03:00</generation-date>
+  <generation-date>2026-11-25T23:39:07+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -6503,6 +6503,63 @@ ____
     <built-year>2003</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1015755143">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015755143</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T23:35:43+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Илияса Есенберлина, 16</address>
+      <latitude>49.902295147214</latitude>
+      <longitude>82.605163270998</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>60900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/680cf2ae-5eb3-4166-bb14-cfb70fd22602/18-full.jpg</image>
+    <description>Просторная 3-комнатная квартира (100 м²) в современном ЖК «Көктем»!
+Продается светлая квартира в одном из самых востребованных районов Усть-Каменогорска-КШТ. Расположена на комфортном 4 этаже 7-этажного монолитного дома 2023 года постройки. Монолитная технология гарантирует отличную сейсмостойкость, долговечность, а также высокую тепло- и звукоизоляцию. Окна квартиры выходят на две стороны: окна зала и кухни смотрят на проспект Есенберлина, открывая красивый вид на ритм города, а спальня и детская комната обращены во двор, где всегда тихо и спокойно - идеальные условия для крепкого сна и отдыха. Ремонт выполнен в современном стиле с использованием качественных и долговечных материалов. Все выглядит безупречно и свежо. Готова к заселению (мебель по договоренности). Квартира полностью укомплектована всем необходимым. Жилой комплекс находится в районе с отличной локацией. Всё, что нужно для комфортной жизни - магазины, школы, детские сады, аптеки и остановки - находится в шаговой доступности.</description>
+    <area>
+      <value>100</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>4</floor>
+    <floors-total>7</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>2.75</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>Коктем</building-name>
+  </offer>
   <offer internal-id="1015847650">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -8676,6 +8733,83 @@ ____
     <ceiling-height>3</ceiling-height>
     <built-year>2023</built-year>
     <building-name>RENESANS</building-name>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1016879692">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016879692</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T23:39:07+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Ново-Ахмирого, 16</address>
+      <latitude>49.938027799789</latitude>
+      <longitude>82.498416530985</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>23000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f6/f69c1f2a-f8d1-4820-9111-0a5b5ed8bf67/9-full.jpg</image>
+    <description>Пластиковые окна, встроенная кухня, новая сантехника, кладовка, счётчики, тихий двор.
+
+Описание
+Пәтер экологиялық таза ауданда орналасқан. Мектеп, дүкен, балабақша 5 минуттық жерде жақын орналасқан. № 55, 42 қоғамдық автобус тоқтаусыз жүреді. Аялдамаға дейін 10 минуттық қашықтықта. Пәтер тыныш ауданда орналасқан, көршілер өте сыпайы, жақсы адамдар. Пәтер қыстың күні өте жылы.
+
+3-комнатная квартира — 68, 9 м²
+Уютная 3-комнатная квартира для комфортной жизни семьи
+Усть-Каменогорск, район Новое Ахмирова
+Продаётся светлая, тёплая и очень уютная 3-комнатная квартира с удобной планировкой. Идеальный вариант для семьи — заезжай и живи без лишних вложений.
+Площадь: 69, 9 м²
+Этаж: 1 из 5
+О квартире:
+Квартира в хорошем состоянии, с аккуратным ремонтом. Пространство продумано для комфортной жизни — все комнаты изолированы и имеют естественное освещение.
+Не угловая — тепло зимой и комфортно в любое время года.
+Пластиковые окна — тишина и хорошая теплоизоляция.
+1ый этаж из 5ти (удобно).
+Уютная атмосфера и приятная энергетика.
+Дом и двор:
+Тихий, спокойный двор.
+Парковка во дворе дома.
+Чистый подъезд.
+Дружелюбные и порядочные соседи.
+Инфраструктура:
+Всё необходимое рядом — удобно для повседневной жизни:
+Школы и детские сады.
+Магазины и аптеки.
+Остановки общественного транспорта.
+Документы:
+Полностью готовы к сделке, без обременений.
+Отличный вариант для тех, кто ищет уютное и готовое жильё в хорошем районе, а главное в экологический чистом районе!.
+Просьба писать только на номера, или звонить после 18:00.</description>
+    <area>
+      <value>70</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>1982</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1016882429">

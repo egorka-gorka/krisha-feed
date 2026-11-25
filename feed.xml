@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T19:13:36+03:00</generation-date>
+  <generation-date>2026-11-25T19:18:44+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -263,7 +263,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/690657852</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:05+03:00</last-update-date>
+    <last-update-date>2026-11-25T19:15:20+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -310,6 +310,80 @@
     <balcony>лоджия</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1990</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="692231757">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/692231757</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T19:17:02+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Дружбы народов, 2/2</address>
+      <latitude>49.902289</latitude>
+      <longitude>82.661634</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>55800000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/29-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/37/37867576-8755-41cc-b56b-c2ab96c176ae/24-full.jpg</image>
+    <description>Не угловая, комнаты изолированы, кухня-студия, встроенная кухня, новая сантехника, счётчики, тихий двор, кондиционер, удобно под коммерцию.
+
+Лифт. Экологически чистый район, территория огорожена.
+Паркинг отапливаемый (за доп оплату, если нужен).
+
+Детская комната в двух уровнях, подобрана оптимальная высота.
+Лестница из натурального дерева, продумана для безопасности детей.
+Высота потолков 4 метра. 2 сан узла, ванна и душевая.
+Сигнализация на окнах и дверях.
+Кондиционер, спутниковое тв. фильтр для воды аквофор.
+Встроенная кухня: посудмойка на 60 см большая, плита, вытяжка, духовой шкаф.
+Подогрев пола ванная, душевая, коридор.
+Шкаф встроенный длиной ~ 5 метров до потолка. Водонагреватель на случай отключения воды раз в год 3-7 дней.
+
+Частично с мебелью и техникой.
+
+Долгов нет. Ограничений на квартире нет. Не в залоге.</description>
+    <area>
+      <value>111</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>4</ceiling-height>
+    <built-year>2018</built-year>
+    <building-name>Riviera Residence</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="695779633">
@@ -484,7 +558,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/760498857</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:05+03:00</last-update-date>
+    <last-update-date>2026-11-25T19:18:44+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>

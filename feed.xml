@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T18:38:20+03:00</generation-date>
+  <generation-date>2026-11-25T18:43:28+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -3597,7 +3597,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1014843614</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:14:32+03:00</last-update-date>
+    <last-update-date>2026-11-25T18:40:03+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3616,20 +3616,24 @@
       <value>22000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/13-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/12-full.jpg</image>
-    <description>кирпичный дом, 1984 г.п., состояние: свежий ремонт, потолки 2.5м., меблирована полностью, ПРОДАЕТСЯ 1-КОМНАТНАЯ светлая и уютная квартира-студия в районе с развитой инфраструктурой. Большая застекленная лоджия. Продается с мебелью и бытовой техникой. Заезжай и живи без дополнительных вложений, пос…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/10/10404b93-c295-4d9b-802a-ec6a43fa7ea2/12-full.jpg</image>
+    <description>Пластиковые окна, не угловая, кухня-студия, новая сантехника, кладовка, тихий двор, кондиционер.
+
+ПРОДАЕТСЯ 1-КОМНАТНАЯ светлая и уютная квартира-студия в районе с развитой инфраструктурой.
+Большая застекленная лоджия. Продается с мебелью и бытовой техникой. Заезжай и живи без дополнительных вложений, после ремонта.
+Квартира отлично подойдет как для собственного проживания, так и для инвестиций. Благодаря удобной планировке и расположению объект идеально подходит для сдачи в аренду. Все вопросы по телефону, риэлторов прошу не беспокоить!</description>
     <area>
       <value>35</value>
       <unit>кв.м</unit>
@@ -3800,7 +3804,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015260251</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:14:32+03:00</last-update-date>
+    <last-update-date>2026-11-25T18:41:45+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3824,7 +3828,8 @@
     <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e6bcddf4-1593-4717-bc44-bf2b367b116f/3-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e6bcddf4-1593-4717-bc44-bf2b367b116f/4-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e6bcddf4-1593-4717-bc44-bf2b367b116f/5-full.jpg</image>
-    <description>кирпичный дом, 1982 г.п., потолки 2.9м., санузел совмещенный, телефон: есть возможность подключения, интернет проводной, меблирована частично, Продается просторная 2- х комнатная квартира в районе Согры. Или обмен с доплатой на кв в г. Шемонаиха - пос Усть- таловка. Косметический ремонт…</description>
+    <description>Продается просторная 2- х комнатная квартира в районе Согры.
+Или обмен с доплатой на кв в г. Шемонаиха - пос Усть- таловка. Косметический ремонт, окна пластиковые. Подъезд чистый, убирают 1 раз в неделю, соседи спокойные, в подъезде и на улице камеры видеонаблюдения. Дом теплый, солнечная сторона горячая вода летом. Рядом рынок, все в шаговой доступности, поликлиника и школа через 2 остановки, остановка от дома 6-7 минут ходьбы, автобусы ходят каждые 15 минут. т</description>
     <area>
       <value>50.9</value>
       <unit>кв.м</unit>
@@ -5328,7 +5333,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1016247482</url>
     <newobject-id />
-    <last-update-date>2026-11-22T20:25:46+03:00</last-update-date>
+    <last-update-date>2026-11-25T18:43:28+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -5344,24 +5349,38 @@
       <url />
     </sales-agent>
     <price>
-      <value>41500000</value>
+      <value>40000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/13-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/14-full.jpg</image>
-    <description>В залоге , кирпичный дом, 1977 г.п., потолки 2.5м., санузел раздельный, меблирована частично, Продаётся квартира в отличном состоянии — «заезжай и живи»! Квартира ухоженная, дополнительных вложений практически не требует — максимум потребуется освежить краску на потолках. Дополнительно: * установл…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bee18e6-85d0-411d-ba11-4f6e064b46a0/14-full.jpg</image>
+    <description>Продаётся квартира в отличном состоянии — «заезжай и живи»!
+
+Квартира ухоженная, дополнительных вложений практически не требует — максимум потребуется освежить краску на потолках.
+
+Дополнительно:
+
+* установлена дополнительная железная дверь в тамбур с доступом по магнитному ключу;
+* отдельное видеонаблюдение;
+* имеется кладовка на площадке;
+* в 2026 году обновили двор;
+* рядом предусмотрена стоянка.
+
+Квартира отлично подойдёт для комфортного проживания — можно заехать и жить без длительного ремонта.
+
+Торг уместен.</description>
     <area>
       <value>64.8</value>
       <unit>кв.м</unit>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T19:03:22+03:00</generation-date>
+  <generation-date>2026-11-25T19:08:29+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -7543,7 +7543,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017230974</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:05+03:00</last-update-date>
+    <last-update-date>2026-11-25T19:05:05+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -7562,20 +7562,20 @@
       <value>32000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/13-full.jpg</image>
-    <description>В залоге , кирпичный дом, 2018 г.п., состояние: свежий ремонт, потолки 3м., санузел раздельный, интернет проводной, меблирована полностью, Большая, уютная, теплая квартира, во вдоре детская площадка и футбольное поле, рядом магазины, аптеки, школа, сады и поликлиника. Экологический чистый рай…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/93/9369ebfa-3767-46ec-a1e6-59bb09c506ff/13-full.jpg</image>
+    <description>Большая, уютная, теплая квартира, во вдоре детская площадка и футбольное поле, рядом магазины, аптеки, школа, сады и поликлиника. Экологический чистый район. 3 лоджии, все застеклены, во всех окнах имеются рол-жалюзи.</description>
     <area>
       <value>90</value>
       <unit>кв.м</unit>
@@ -8113,13 +8113,78 @@
     <building-type>кирпичный</building-type>
     <built-year>1963</built-year>
   </offer>
+  <offer internal-id="1017410513">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017410513</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T19:06:47+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Жибек жолы, 7</address>
+      <latitude>49.930344806776</latitude>
+      <longitude>82.615090001203</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>30000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9e/9efdf7cc-7b56-41b8-ae61-5e773e1bfb13/12-full.jpg</image>
+    <description>Продается уютная 2-комнатная квартира в современном монолитном доме!
+Адрес: г. Усть-Каменогорск, ул. Жибек Жолы, 7.
+О квартире и доме:
+• Формат: полноценная 2-комнатная квартира.
+• Дом: современный, теплый и надежный монолитный дом.
+• Балкон: есть, полностью застеклен.
+• Комплектация: формат «заезжай и живи» — новым владельцам остается абсолютно вся мебель и бытовая техника. Вам не придется тратить время и деньги на обустройство.
+Инфраструктура — всё для комфортной жизни в шаговой доступности:
+• Для детей: прямо рядом с домом находятся детский сад и детский бассейн.
+• Для покупок: супермаркет «Магнум» в двух шагах.
+• Удобная транспортная развязка и развитый район.
+Юридическая чистота и условия:
+• Квартира не в залоге, документы полностью готовы к сделке.
+• Подходит под ипотеку и наличный расчет.
+Отличный вариант как для комфортного проживания семьи, так и для выгодной сдачи в аренду.
+Звоните или пишите, чтобы договориться о просмотре!</description>
+    <area>
+      <value>59</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2018</built-year>
+    <building-name>Ertis City</building-name>
+  </offer>
   <offer internal-id="1017431459">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017431459</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:14:32+03:00</last-update-date>
+    <last-update-date>2026-11-25T19:08:29+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -8138,20 +8203,32 @@
       <value>21000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/13-full.jpg</image>
-    <description>жил. комплекс Ertis City, монолитный дом, 2019 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.7м., санузел раздельный, телефон: есть возможность подключения, интернет оптика, меблирована частично, Светлая уютная просторная полуторка с хорошей энергетикой. Рядом: магнум, магазин, аптека…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/efe8ee2e-5f71-4222-b428-3f7882367481/13-full.jpg</image>
+    <description>Кладовка.
+
+Светлая уютная просторная полуторка с хорошей энергетикой.
+Рядом: магнум, магазин, аптека, остановка, мечеть, красивый парк, бассейн для маленьких детишек прям во дворе, садик, недалеко спортивные центры, также рядом развязка сатпаева/базовая/есенберлина/жибек жолы.
+Преимущества:
+• центральный район
+• удобная планировка (при желании можно сделать евродвушку)
+• светлая и уютная квартира
+• развитая инфраструктура
+• отличный вариант как для собственного проживания, так и для сдачи в аренду
+• нешумные приветливые соседи, ответственный ОСИ
+• без долгов/не в залоге /не в ипотеке рассмотрю варианты за наличные и в ипотеку.
+продаю в связи с переездом, торг в разумных пределах.</description>
     <area>
       <value>46.5</value>
       <unit>кв.м</unit>

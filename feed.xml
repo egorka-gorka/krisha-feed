@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T14:27:34+03:00</generation-date>
+  <generation-date>2026-11-25T14:32:14+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -2615,7 +2615,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012798810</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
+    <last-update-date>2026-11-25T14:28:49+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -2634,21 +2634,23 @@
       <value>29000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/13-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/14-full.jpg</image>
-    <description>кирпичный дом, 1954 г.п., потолки 2.77м., санузел раздельный, меблирована полностью, Продается светлая теплая трехкомнатная сталинка с удобной перепланировкой в центре города, квартира полностью мебелирована, с бытовой техникой, кондиционером. Подключено спутниковое телевидение, домофон. Ря…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/53/53201966-8826-47b0-a2fe-ab9e3e41b443/14-full.jpg</image>
+    <description>Пластиковые окна, комнаты изолированы, счётчики, тихий двор, кондиционер.
+
+Продается светлая теплая трехкомнатная сталинка с удобной перепланировкой в центре города, квартира полностью мебелирована, с бытовой техникой, кондиционером. Подключено спутниковое телевидение, домофон. Рядом находится парк, остановки в 2х минутах ходьбы, магазины, рынок и центральная площадь в 10ти минутах. Возможен обмен на 1.5 с доплатой.</description>
     <area>
       <value>78.2</value>
       <unit>кв.м</unit>
@@ -4296,7 +4298,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015668155</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
+    <last-update-date>2026-11-25T14:30:31+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4315,27 +4317,27 @@
       <value>29000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/13-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/14-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/15-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/16-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/17-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/18-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/19-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/20-full.jpg</image>
-    <description>&lt;span class="a-is-mortgaged"&gt;В залоге&lt;/span&gt;, монолитный дом, 2000 г.п., состояние: свежий ремонт, потолки 2.5м., санузел раздельный, меблирована полностью, Продам трехкомнатную, уютную, просторную квартиру, с хорошим и качественным ремонтом. Дом теплый, сейсмоустойчивый. Качественная мебель, техника</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafd8bb5-a841-4a1b-a417-9c45d8098d5a/20-full.jpg</image>
+    <description>В залоге , монолитный дом, 2000 г.п., состояние: свежий ремонт, потолки 2.5м., санузел раздельный, меблирована полностью, Продам трехкомнатную, уютную, просторную квартиру, с хорошим и качественным ремонтом. Дом теплый, сейсмоустойчивый. Качественная мебель, техника</description>
     <area>
       <value>70</value>
       <unit>кв.м</unit>
@@ -4511,7 +4513,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015722233</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:23+03:00</last-update-date>
+    <last-update-date>2026-11-25T14:32:14+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4527,17 +4529,19 @@
       <url />
     </sales-agent>
     <price>
-      <value>19500000</value>
+      <value>18500000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/1-full.jpg</image>
-    <description>монолитный дом, 2021 г.п., потолки 2.5м., Квартира 1, 5-комнатная, 39, 7 м², находится на 5 этаже из 9. Дом 2021 года, есть лифт. Кухня отдельная, санузел совмещённый. Вся мебель остается. Рядом школа, магазины и всё необходимое для проживания. Район удобный, дом относительно новый. По всем вопрос…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/58/583ab86c-a553-4efd-afe2-7875ac0589fd/1-full.jpg</image>
+    <description>Квартира 1, 5-комнатная, 39, 7 м², находится на 5 этаже из 9. Дом 2021 года, есть лифт. Кухня отдельная, санузел совмещённый. Вся мебель остается.
+Рядом школа, магазины и всё необходимое для проживания. Район удобный, дом относительно новый.
+По всем вопросам пишите .</description>
     <area>
       <value>39.7</value>
       <unit>кв.м</unit>

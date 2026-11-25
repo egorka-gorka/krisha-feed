@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T22:07:49+03:00</generation-date>
+  <generation-date>2026-11-25T22:12:56+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -6972,6 +6972,61 @@
     <built-year>2010</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1016932636">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016932636</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T22:09:31+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Амре Кашаубаева, 12</address>
+      <latitude>49.957013</latitude>
+      <longitude>82.602642</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>13800000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/dd/dd0204ea-2816-45dd-a519-3e5fbc7a9b25/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/dd/dd0204ea-2816-45dd-a519-3e5fbc7a9b25/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/dd/dd0204ea-2816-45dd-a519-3e5fbc7a9b25/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/dd/dd0204ea-2816-45dd-a519-3e5fbc7a9b25/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/dd/dd0204ea-2816-45dd-a519-3e5fbc7a9b25/5-full.jpg</image>
+    <description>Пластиковые окна, не угловая, счётчики.
+
+Прошу риэлторов не беспокоить.
+Продаётся светлая и уютная 1-комнатная квартира площадью 31 м², расположенная на 2 этаже.
+Преимущества квартиры:
+Хороший ремонт — можно заехать и жить.
+Частично меблирована.
+Есть балкон.
+Окна выходят на школу №10.
+Рядом ещё одна школа и детский сад.
+Квартира отлично подойдёт как для собственного проживания, так и для сдачи в аренду.
+Возможен торг.</description>
+    <area>
+      <value>31</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <built-year>1967</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1016984035">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -7388,7 +7443,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017045056</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:37:00+03:00</last-update-date>
+    <last-update-date>2026-11-25T22:11:14+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -7407,23 +7462,23 @@
       <value>27000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/1-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/2-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/3-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/4-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/5-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/6-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/7-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/8-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/9-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/10-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/11-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/12-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/13-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/14-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/15-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/16-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a9/a9cd8ff4-f62f-447f-9ab1-9f6bb83a6519/17-full.jpg</image>
     <description>кирпичный дом, 2010 г.п., потолки 2.5м., санузел раздельный, телефон: есть возможность подключения, интернет оптика, меблирована полностью</description>
     <area>
       <value>56.9</value>
@@ -7634,7 +7689,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017190872</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:37:00+03:00</last-update-date>
+    <last-update-date>2026-11-25T22:12:56+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -7650,20 +7705,28 @@
       <url />
     </sales-agent>
     <price>
-      <value>46500000</value>
+      <value>46000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/1-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/3-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/4-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/5-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/7-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/8-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/9-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/10-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/11-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/12-full.jpg</image>
-    <description>кирпичный дом, 1976 г.п., состояние: не новый, но аккуратный ремонт, санузел раздельный, меблирована частично, Продается 4-х комнатная квартира (бывш. Обкомовские) в отличном состоянии просторная, теплая, уютная и светлая. Мягкую мебель забираю, шкафы все остаются. Имеется лоджия по 6 метров…</description>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/17/1797a532-f852-4244-89be-091e19c246ac/12-full.jpg</image>
+    <description>Пластиковые окна, не угловая, кухня-студия, тихий двор, кондиционер.
+
+Продается 4-х комнатная квартира (бывш.
+Обкомовские) в отличном состоянии просторная, теплая, уютная и светлая.
+Мягкую мебель забираю, шкафы все остаются. Имеется лоджия по 6 метров, окна установлены этим летом.
+Кондиционер в зале работает.
+Подъезд чистый, соседи хорошие. Во дворе имеется детская площадка, место для парковки машин.
+Развитая инфраструктура в шаговой доступности находятся Центральный рынок, средние школы Nº 35, Nº39 детский садики "Арай", "Лада" Никаких Долгов по квартире нет!
+Обмена нет!</description>
     <area>
       <value>82</value>
       <unit>кв.м</unit>

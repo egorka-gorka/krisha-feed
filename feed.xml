@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T01:02:14+03:00</generation-date>
+  <generation-date>2026-11-26T01:05:39+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -5511,7 +5511,7 @@ ____
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1014699714</url>
     <newobject-id />
-    <last-update-date>2026-11-21T20:24:33+03:00</last-update-date>
+    <last-update-date>2026-11-26T01:03:57+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -5530,30 +5530,33 @@ ____
       <value>24000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/1-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/2-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/3-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/4-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/5-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/6-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/7-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/8-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/9-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/10-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/11-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/12-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/13-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/14-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/15-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/16-full.jpg</image>
-    <description>панельный дом, 1977 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел совмещенный, телефон: есть возможность подключения, интернет проводной, меблирована частично, Продается уютная, тёплая 3-х комнатная квартира с отличным ремонтом на 1 этаже из 5-этажного дома…</description>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/af/af998c87-6f09-48f1-8075-e603f9622f2f/16-full.jpg</image>
+    <description>Пластиковые окна, не угловая, комнаты изолированы, кухня-студия, встроенная кухня, новая сантехника, счётчики, тихий двор, удобно под коммерцию.
+
+Продается уютная, тёплая 3-х комнатная квартира с отличным ремонтом на 1 этаже из 5-этажного дома. Общая площадь-60.8кв. м. Комнаты изолированные, окна выходят на две стороны. В квартире сделан качественный косметический ремонт: пластиковые окна, натяжные потолки, ламинат, новая сантехника.
+Частично меблирована. Тихий благоустроенный двор с детской площадкой. В шаговой доступности школы 15, 7, 28. Детские сады Еркетай, Золотая рыбка. Магазины Доснар, Сити центр, Восход, Самал парк всё находится рядом. Автобусные остоновки всё рядом. Рядом с домом ещё находится больница ”Моя семейная амбулатория”. Документы полностью в порядке, без залогов и обременений. Подходит под ипотеку. Реальному покупателю уместен торг. РИЭЛТОРОВ ПРОШУ НЕ БЕСПОКОИТЬ!</description>
     <area>
       <value>60.8</value>
       <unit>кв.м</unit>
     </area>
     <rooms>3</rooms>
     <bathroom-unit>совмещенный</bathroom-unit>
-    <floor>5</floor>
+    <floor>1</floor>
     <floors-total>5</floors-total>
     <building-type>панельный</building-type>
     <ceiling-height>2.5</ceiling-height>
@@ -10815,6 +10818,50 @@ ____
     <built-year>2023</built-year>
     <building-name>Satti City 2</building-name>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1017041029">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017041029</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T01:05:39+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Егорова, 13</address>
+      <latitude>50.02872</latitude>
+      <longitude>82.738745</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/d7/d79a9817-bd97-45a8-b426-5bbe313d5942/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/d7/d79a9817-bd97-45a8-b426-5bbe313d5942/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/d7/d79a9817-bd97-45a8-b426-5bbe313d5942/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/d7/d79a9817-bd97-45a8-b426-5bbe313d5942/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/d7/d79a9817-bd97-45a8-b426-5bbe313d5942/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/d7/d79a9817-bd97-45a8-b426-5bbe313d5942/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/d7/d79a9817-bd97-45a8-b426-5bbe313d5942/7-full.jpg</image>
+    <description>кирпичный дом, 1956 г.п., потолки 3м</description>
+    <area>
+      <value>63.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <floors-total>3</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>3</ceiling-height>
+    <built-year>1956</built-year>
   </offer>
   <offer internal-id="1017042710">
     <type>продажа</type>

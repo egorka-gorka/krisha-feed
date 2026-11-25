@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T18:33:13+03:00</generation-date>
+  <generation-date>2026-11-25T18:38:20+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1901,7 +1901,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1011291799</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:24:35+03:00</last-update-date>
+    <last-update-date>2026-11-25T18:34:56+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -2450,7 +2450,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1012289775</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:05+03:00</last-update-date>
+    <last-update-date>2026-11-25T18:36:38+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -2469,15 +2469,85 @@
       <value>32000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/8-full.jpg</image>
-    <description>кирпичный дом, 1989 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел раздельный, телефон: есть возможность подключения, интернет ADSL, меблирована полностью, Продам 2-комнатную квартиру — район Стрелки, набережная Славского, 48 Усть-Каменогорск, район Стрелки, набере…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ca/cafbe280-e92b-4762-8fff-e94e136b6ad9/8-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, комнаты изолированы, встроенная кухня, счётчики, тихий двор, кондиционер.
+
+Продам 2-комнатную квартиру — район Стрелки, набережная Славского, 48
+
+Усть-Каменогорск, район Стрелки, набережная Славского, 48
+
+Продаётся уютная 2-комнатная квартира на 2 этаже 5-этажного дома.
+
+Квартира очень тёплая, светлая и сухая, с удобной планировкой и лоджией. Отличный вариант как для собственного проживания, так и для сдачи в аренду.
+
+Квартира полностью меблирована и оборудована:
+
+Гостиная:
+
+диван;
+
+кресло;
+
+комод;
+
+тумба под телевизор;
+
+кондиционер;
+
+шторы и тюль.
+
+Спальня:
+
+двухспальная кровать;
+
+прикроватная тумба;
+
+дополнительная мебель.
+
+Кухня:
+
+кухонный гарнитур;
+
+варочная плита;
+
+духовка;
+
+холодильник;
+
+вся необходимая посуда.
+
+Прихожая полностью меблирована.
+
+Квартира продаётся с мебелью и бытовой техникой — можно сразу заезжать и жить.
+
+Преимущества:
+
+район Стрелки;
+
+набережная Славского;
+
+2 этаж из 5;
+
+есть лоджия;
+
+очень тёплая;
+
+светлая и сухая;
+
+полностью меблирована;
+
+есть бытовая техника;
+
+всё необходимое для комфортного проживания уже имеется.
+
+Звоните, чтобы узнать подробности и договориться о просмотре.</description>
     <area>
       <value>48</value>
       <unit>кв.м</unit>
@@ -2798,7 +2868,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1013339492</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:05+03:00</last-update-date>
+    <last-update-date>2026-11-25T18:38:20+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -2817,34 +2887,36 @@
       <value>28500000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/27-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/18-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/13-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/15-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/16-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/17-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/19-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/20-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/21-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/22-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/23-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/24-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/25-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/26-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/14-full.jpg</image>
-    <description>кирпичный дом, 2017 г.п., потолки 2.8м., санузел раздельный, без мебели, Продается 2-х комнатная квартира в ЖК “Айымжан” (район КШТ, пр. Казыбек би). Не угловая, монолитный дом, кирпичные стены, дом 2017 г.п Установлены натяжные потолки. рядом ТД Кокжал, торговый дом ААА (Пападжим), школы N26…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bde08c3-5819-434d-841c-826f89ae11af/14-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, счётчики, тихий двор, кондиционер.
+
+Продается 2-х комнатная квартира в ЖК “Айымжан” (район КШТ, пр. Казыбек би). Не угловая, монолитный дом, кирпичные стены, дом 2017 г.п Установлены натяжные потолки. рядом ТД Кокжал, торговый дом ААА (Пападжим), школы N26, 40, 46, 48. Имеется 2 застекленные лоджии</description>
     <area>
       <value>58</value>
       <unit>кв.м</unit>

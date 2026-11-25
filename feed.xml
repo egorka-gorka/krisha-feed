@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T21:51:18+03:00</generation-date>
+  <generation-date>2026-11-25T21:56:25+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -617,7 +617,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1002331893</url>
     <newobject-id />
-    <last-update-date>2026-11-23T15:37:00+03:00</last-update-date>
+    <last-update-date>2026-11-25T21:54:43+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3720,6 +3720,55 @@
     <ceiling-height>2.5</ceiling-height>
     <built-year>1984</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1014998562">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014998562</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T21:56:25+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Есенберлина, 31/4</address>
+      <latitude>49.906867</latitude>
+      <longitude>82.601402</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>17000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/19/19adaaa7-da9f-43bb-99b4-3cd6ad618b2f/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/19/19adaaa7-da9f-43bb-99b4-3cd6ad618b2f/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/19/19adaaa7-da9f-43bb-99b4-3cd6ad618b2f/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/19/19adaaa7-da9f-43bb-99b4-3cd6ad618b2f/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/19/19adaaa7-da9f-43bb-99b4-3cd6ad618b2f/5-full.jpg</image>
+    <description>Пластиковые окна, не угловая.
+
+Квартира светлая, тёплая и уютная. Удобная планировка, просторная, кухня комфортного размера. Санузел совмещённый. Квартира подходит для собственного проживания.
+Дом расположен в удобном районе, рядом есть магазины, остановки общественного транспорта, школа.
+Хороший вариант для комфортного проживания. Звоните, чтобы узнать подробности и договориться о просмотре!</description>
+    <area>
+      <value>38</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2019</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1015094958">
     <type>продажа</type>
@@ -9574,7 +9623,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017628249</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:15:37+03:00</last-update-date>
+    <last-update-date>2026-11-25T21:53:00+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -9590,25 +9639,25 @@
       <url />
     </sales-agent>
     <price>
-      <value>12800000</value>
+      <value>12500000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/1-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/2-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/3-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/4-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/5-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/6-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/7-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/8-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/9-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/10-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/11-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/12-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/13-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/14-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/15-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ce/ceee7660-4384-425c-8408-64b7fc9ea720/16-full.jpg</image>
     <description>Пластиковые окна, не угловая, кладовка, счётчики, тихий двор.
 
 Продаётся квартира в удобном районе города. Рядом ТД «Металлург», парк «Металлург», ЦОН находится прямо напротив дома. В шаговой доступности школы, БСМП и остановки общественного транспорта. Хорошая транспортная развязка, тихий и спокойный двор. В доме хорошее отопление.

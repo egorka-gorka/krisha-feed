@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T14:05:10+03:00</generation-date>
+  <generation-date>2026-11-25T14:10:21+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -635,7 +635,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1003316542</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
+    <last-update-date>2026-11-25T14:06:52+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -654,29 +654,31 @@
       <value>40000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/13-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/14-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/15-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/16-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/17-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/18-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/19-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/20-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/21-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/22-full.jpg</image>
-    <description>кирпичный дом, 1995 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел раздельный, меблирована полностью, Продается 3-х комнатная квартира улучшенной планировки,в красивом районе нашего города. Ремонт не новый,но аккуратный,квартира в очень дорогем состоянии. Окна выходят во…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7dda5673-31d2-4ef7-bed1-818383a7c98b/22-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, кухня-студия, встроенная кухня, кондиционер.
+
+Продается 3-х комнатная квартира улучшенной планировки,в красивом районе нашего города. Ремонт не новый,но аккуратный,квартира в очень дорогем состоянии. Окна выходят во двор,дом кирпичный,очень теплый. Внутри двора большая парковка. Рядом набережная р.Ульба,школа #17,частная школа «Бриг». Продаем в связи с переездом в другую страну. Возможен небольшой торг от указанной стоимости. Все вопросы можно задать по телефону.</description>
     <area>
       <value>73.8</value>
       <unit>кв.м</unit>
@@ -801,7 +803,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1005687691</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
+    <last-update-date>2026-11-25T14:08:35+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -846,7 +848,53 @@
     <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/24-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/25-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/26-full.jpg</image>
-    <description>жил. комплекс AL-FARABI, кирпичный дом, 2022 г.п., состояние: свежий ремонт, потолки 3м., санузел раздельный, интернет проводной, меблирована полностью, Продаётся 3-комнатная квартира на КШТ в ЖК «Аль-Фараби» 🏡 📍 Удобное расположение в современном жилом комплексе 📐 Площадь — 105 м² 🛋 Квартира…</description>
+    <description>Улучшенная, комнаты изолированы, встроенная кухня, новая сантехника, счётчики, тихий двор, кондиционер.
+
+Продаётся 3-комнатная квартира на КШТ в ЖК «Аль-Фараби»
+
+Удобное расположение в современном жилом комплексе
+Площадь — 105 м²
+Квартира полностью укомплектована всей мебелью и техникой — заходи и живи!
+
+Просторная планировка:
+
+уютная гостиная с соединенным лоджием
+
+2 отдельные спальни
+
+современная кухня
+
+санузел в идеальном состоянии
+
+большой коридор и
+балкон
+
+У входа умный замок и камера
+
+Преимущества:
+
+качественный ремонт
+
+светлые и просторные комнаты
+
+Установлен кондиционер
+
+Территория огорожденная
+
+Заезд на территорию через кодовые ворота управления через мобильный телефон
+
+На территории гаражи и навесы на ваше авто
+
+Во дворе огромная игровая площадка
+
+охраняемая территория комплекса
+
+По территории камеры
+
+развитая инфраструктура (школы, детские сады, магазины, остановки рядом)
+
+Не в залоге, не в кредите
+Подходит под ипотеку</description>
     <area>
       <value>105</value>
       <unit>кв.м</unit>
@@ -1330,6 +1378,81 @@
     <ceiling-height>2.5</ceiling-height>
     <built-year>1997</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1009031299">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1009031299</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T14:10:21+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бульвар Гагарина, 27</address>
+      <latitude>49.965891</latitude>
+      <longitude>82.575881</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>37000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/45/4589d1c9-4065-4144-8a11-08df89543d3a/18-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, комнаты изолированы, кладовка, счётчики, тихий двор, кондиционер.
+
+Просторная 4-комнатная квартира удобном районе города. Отличный вариант для семьи, ценящей комфорт, тишину и развитую инфраструктуру.
+
+Преимущества квартиры:
+• удобная планировка, изолированные комнаты
+• светлая и тёплая квартира
+• подходит для большой семьи
+• спокойные соседи
+
+Развитая инфраструктура:
+• школы и детские сады в шаговой доступности
+• рядом супермаркеты, аптеки, банки, кафе
+• остановки общественного транспорта рядом с домом
+• благоустроенный бульвар для прогулок и отдыха
+• поликлиники и другие социально значимые объекты поблизости
+
+Отличное расположение позволяет быстро добраться в любую часть города, при этом район остаётся тихим и комфортным для проживания.</description>
+    <area>
+      <value>76.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1982</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1009394969">
     <type>продажа</type>

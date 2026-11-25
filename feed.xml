@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T15:18:04+03:00</generation-date>
+  <generation-date>2026-11-25T18:28:06+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -7735,7 +7735,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017370769</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:21:40+03:00</last-update-date>
+    <last-update-date>2026-11-25T18:26:24+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -7781,7 +7781,7 @@
     <image>https://alaps-photos-kr.kcdn.kz/webp/8f/8f5372eb-44d2-4328-93f2-b3a205a83b43/25-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/8f/8f5372eb-44d2-4328-93f2-b3a205a83b43/26-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/8f/8f5372eb-44d2-4328-93f2-b3a205a83b43/27-full.jpg</image>
-    <description>жил. комплекс Оазис, монолитный дом, 2019 г.п., состояние: свежий ремонт, потолки 3м., санузел 2 с/у и более, меблирована полностью, Продам 4-х комнатную квартиру в ЖК «Оазис». Ремонт по дизайн проекту. Удобная планировка, (зал, кухня отдельно, мастер спальня с гардеробом, 2 детские). Ремонт выпо…</description>
+    <description>Продам 4-х комнатную квартиру в ЖК «Оазис». Ремонт по дизайн проекту. Удобная планировка, (зал, кухня отдельно, мастер спальня с гардеробом, 2 детские). Ремонт выполнен с качественных материалов, для себя. В сумму включено: 1. Встроенная мебель; 2. Встроенная техника; 3. Два паркинг места для автомобиля; 4. Кладовая. Только продажа, без вариантов.</description>
     <area>
       <value>130</value>
       <unit>кв.м</unit>
@@ -8303,6 +8303,55 @@
     <balcony>лоджия</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1988</built-year>
+  </offer>
+  <offer internal-id="1017538024">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017538024</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T18:28:06+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Михаэлиса, 24</address>
+      <latitude>49.967809</latitude>
+      <longitude>82.602947</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>14800000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e6/e656b61c-6ace-4499-a585-b985fb6bfc92/11-full.jpg</image>
+    <description>панельный дом, 1978 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., Продам 1, 5ку не угловая, частично меблированная, тихий двор, приличные соседи, подьезд без неприятного запаха, в шаговой доступности школы больницы, документы в порядке</description>
+    <area>
+      <value>32</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1978</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1017540427">
     <type>продажа</type>

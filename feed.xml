@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T23:28:49+03:00</generation-date>
+  <generation-date>2026-11-25T23:33:56+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -5042,6 +5042,69 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1984</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1014887141">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014887141</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T23:33:56+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Есенберлина, 31/1</address>
+      <latitude>49.907041</latitude>
+      <longitude>82.60283</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>21000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e9/e9a95af1-488e-4fef-9089-51168e3b1bf8/13-full.jpg</image>
+    <description>Пластиковые окна, не угловая, тихий двор, удобно под коммерцию.
+
+Продается 1 комратная квартира с ремонтом.
+
+Локация:квартира находится в удобном районе во дворе школа N 41, детский сад “Балбөбек”, рядом маразины, остановки, детская площадка. Все необхадимое для комфортной жизни в шаговой доступности.
+
+О квартире: квартира светлая и просторная, свежый ремонт, на стенах современные обой. Удобный вариант для пожилых людей 2 этаж. Балкон лоджия застеклен и утеплен готовый ремонт, длина 6
+метра. Кухонный гарнитур, новый шкаф в зале остаются.
+
+Дополнительна :документы полностью в порядке, обмен не интересует.
+
+Риелторы- не беспокоить!</description>
+    <area>
+      <value>37</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2020</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1014998562">
     <type>продажа</type>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T22:38:15+03:00</generation-date>
+  <generation-date>2026-11-25T22:43:22+03:00</generation-date>
   <offer internal-id="663534509">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -10012,6 +10012,60 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1960</built-year>
   </offer>
+  <offer internal-id="1017557131">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017557131</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T22:39:57+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>назарбаева, 93</address>
+      <latitude>49.986463</latitude>
+      <longitude>82.568829</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>25500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/8825f6c1-744d-4ffc-bccf-09e2d9dd4a57/11-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, встроенная кухня, новая сантехника, счётчики, тихий двор.
+
+3-х комнатная квартира улучшенная 4этаж /5. Не угловая, квартира теплая, окна расположены с двух сторон. Остается мебель. Рядом детский сад, школа, магазины все необходимые в 5 минутах.
+Необходимые автотранспорты в доступных условиях
+Торг.</description>
+    <area>
+      <value>67</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1982</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1017561027">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -10216,6 +10270,62 @@ ____
     <built-year>1972</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1017618125">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017618125</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T22:41:39+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Аль-Фараби, 38/3</address>
+      <latitude>49.8943378383</latitude>
+      <longitude>82.587978993866</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>25000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/71/71b249c0-48a8-4d7a-b3a1-df9adf145096/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/71/71b249c0-48a8-4d7a-b3a1-df9adf145096/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/71/71b249c0-48a8-4d7a-b3a1-df9adf145096/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/71/71b249c0-48a8-4d7a-b3a1-df9adf145096/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/71/71b249c0-48a8-4d7a-b3a1-df9adf145096/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/71/71b249c0-48a8-4d7a-b3a1-df9adf145096/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/71/71b249c0-48a8-4d7a-b3a1-df9adf145096/6-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, комнаты изолированы, встроенная кухня, новая сантехника, кладовка, счётчики, тихий двор, кондиционер.
+
+Частично меблирована:
+- гардеробный шкаф белый
+- оборудованная гардеробная
+- встроенная прихожая с зеркалом
+- ⁠встроенный кухонный гарнитур с варочной плиткой и духовкой
+- ⁠микроволновка
+
+Квартира теплая, светлая, на солнечной стороне, имеется гардероб, частично меблирована, новая сантехника. Не в залоге, обмен не предлагать, только продажа. Подходит под ипотеку.</description>
+    <area>
+      <value>50.7</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2018</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1017623589">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -10383,7 +10493,7 @@ ____
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017626628</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
+    <last-update-date>2026-11-25T22:43:22+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>

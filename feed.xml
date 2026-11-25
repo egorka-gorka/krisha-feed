@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T01:16:09+03:00</generation-date>
+  <generation-date>2026-11-26T01:17:51+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1539,6 +1539,62 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1983</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1001151685">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1001151685</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T01:17:51+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Базовая, 2/7</address>
+      <latitude>49.924681127288</latitude>
+      <longitude>82.63057299235</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>56000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/18-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/19-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/20-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/21-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/22-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/23-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/24-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/25-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/26-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/27-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/28-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/29-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e4/e4f57c14-cead-4a5b-b622-80240ac1b7b5/30-full.jpg</image>
+    <description>жил. комплекс Novy Bereg, монолитный дом, 2023 г.п., потолки 2.8м., Рядом школа, детский сад, поликлиника, магазин, кафе Двор большой, перед домом красивая прогулочная зона. Свежий ремонт, делали для себя</description>
+    <area>
+      <value>96.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>3</floor>
+    <floors-total>10</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>Novy Bereg</building-name>
   </offer>
   <offer internal-id="1001241200">
     <type>продажа</type>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T14:59:23+03:00</generation-date>
+  <generation-date>2026-11-25T15:04:21+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -3334,7 +3334,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1014733712</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:14:32+03:00</last-update-date>
+    <last-update-date>2026-11-25T15:00:55+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -3353,19 +3353,21 @@
       <value>25500000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/12-full.jpg</image>
-    <description>панельный дом, 1988 г.п., состояние: свежий ремонт, потолки 2.5м., санузел раздельный, без мебели, Продам 2х комнатную квартиру в центре КШТ, этаж 4 из 6. Площадь 54 м2, кухня 9 м2. Санузел раздельный. Балкон застеклен. Квартира тёплая, солнечная, распашонка, новый кондиционер. Натяжные потолки…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5d/5dd635a2-1d25-403d-845e-8b8126b1f1d4/12-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, новая сантехника, счётчики, тихий двор, кондиционер.
+
+Продам 2х комнатную квартиру в центре КШТ, этаж 4 из 6. Площадь 54 м2, кухня 9 м2. Санузел раздельный. Балкон застеклен. Квартира тёплая, солнечная, распашонка, новый кондиционер. Натяжные потолки. В шаговой доступности школы, детские сады. Рядом несколько торговых домов, кафе, аптеки, баня. Общественный транспорт во все направления города. Удобный большой двор, парковка. Детские и спортивные площадки.</description>
     <area>
       <value>54</value>
       <unit>кв.м</unit>
@@ -4015,7 +4017,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015535923</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
+    <last-update-date>2026-11-25T15:02:38+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4034,20 +4036,20 @@
       <value>8000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/2-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/4-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/7-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/9-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/10-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/11-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/12-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/13-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad5a1069-dfdf-4935-b499-81083a967f23/14-full.jpg</image>
     <description>кирпичный дом, 1961 г.п., потолки 2.5м., санузел раздельный, Продается две комнаты бывшеи общ:есть свои бальшои балкон.4 этаж из 5 даное время перекрывают новую крышу: долгов и обременение нет; документы порядке к продаже. мебель по договорености</description>
     <area>
       <value>33.2</value>
@@ -4578,7 +4580,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1015742548</url>
     <newobject-id />
-    <last-update-date>2026-11-24T22:28:54+03:00</last-update-date>
+    <last-update-date>2026-11-25T15:04:21+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -4597,12 +4599,12 @@
       <value>24900000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/6-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/3-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/5-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/8-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/1-full.jpg</image>
-    <image>https://kzala2-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2a/2a486be8-b56e-46c2-b10f-b0033c66ae9d/1-full.jpg</image>
     <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, встроенная кухня, новая сантехника, счётчики, тихий двор, кондиционер.
 
 Срочно! Продается 2-комнатная квартира со свежим ремонтом и мебелью!
@@ -4619,6 +4621,7 @@
     <floor>3</floor>
     <building-type>панельный</building-type>
     <balcony>лоджия</balcony>
+    <ceiling-height>2.7</ceiling-height>
     <built-year>2003</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T00:16:08+03:00</generation-date>
+  <generation-date>2026-11-26T00:21:17+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -9100,6 +9100,52 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1962</built-year>
   </offer>
+  <offer internal-id="1016641917">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016641917</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T00:17:50+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Астана, 10</address>
+      <latitude>49.955257</latitude>
+      <longitude>82.610098</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>16000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dad41c03-18c2-48b1-a5ba-1da973d44173/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dad41c03-18c2-48b1-a5ba-1da973d44173/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dad41c03-18c2-48b1-a5ba-1da973d44173/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dad41c03-18c2-48b1-a5ba-1da973d44173/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dad41c03-18c2-48b1-a5ba-1da973d44173/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dad41c03-18c2-48b1-a5ba-1da973d44173/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/da/dad41c03-18c2-48b1-a5ba-1da973d44173/7-full.jpg</image>
+    <description>Пластиковые окна, не угловая, кухня-студия, счётчики, тихий двор.
+
+Продается 2х комнатная квартира 16 000 000. Панельный дом, 1/5, Астана, 10. Меблированная, счётчики воды, двойная входная дверь, пластиковые окна, на окнах решетки, интернет, бытовая техника (холодильник Indesit, стиральная машинка Midea на 6 кг). Без долгов и обременений, документы в порядке. Спокойный двор и подъезд. Развитая инфраструктура. Просьба ПИСА́ТЬ (звонки не всегда слышу)</description>
+    <area>
+      <value>45</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <built-year>1961</built-year>
+  </offer>
   <offer internal-id="1016672815">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -10152,6 +10198,60 @@ ____
     <building-type>панельный</building-type>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1969</built-year>
+  </offer>
+  <offer internal-id="1017000994">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017000994</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T00:19:33+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>проспект сатпаева, 15/2</address>
+      <latitude>49.901761</latitude>
+      <longitude>82.626923</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>6500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/74/740011f6-fecf-4029-b80c-63e13e67d583/12-full.jpg</image>
+    <description>Пластиковые окна, не угловая.
+
+продаётся комната17кв метров, в малосемейном общежитиии, район КШТ. Комната продаётся с мебелью и бытовой техникой (холодильник, стиральная машина, плита), туалет, раковина на 2хозяина! Рядом магазин "Астор", удобная транспортная развязка в любую точку города. Реальному покупателю хороший торг!</description>
+    <area>
+      <value>25</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1983</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1017002145">
     <type>продажа</type>
@@ -12673,6 +12773,49 @@ ____
     <building-type>кирпичный</building-type>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1960</built-year>
+  </offer>
+  <offer internal-id="1017553099">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017553099</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T00:21:17+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Нурсултана Назарбаева, 46/1</address>
+      <latitude>49.967575226461</latitude>
+      <longitude>82.597309935019</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>16200000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/34/342e422b-8c96-4da6-af85-f855bdc3b702/110-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/34/342e422b-8c96-4da6-af85-f855bdc3b702/168-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/34/342e422b-8c96-4da6-af85-f855bdc3b702/174-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/34/342e422b-8c96-4da6-af85-f855bdc3b702/175-full.jpg</image>
+    <description>кирпичный дом, 1959 г.п., состояние: не новый, но аккуратный ремонт, потолки 3.2м., санузел раздельный, меблирована частично, Сталинка. высокие потолки тёплая не угловая. шаговой доступности находится школы детсады торговые центры рынки остановки автобусные</description>
+    <area>
+      <value>55.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>3.2</ceiling-height>
+    <built-year>1959</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1017557131">
     <type>продажа</type>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T14:00:03+03:00</generation-date>
+  <generation-date>2026-11-25T14:05:10+03:00</generation-date>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -570,6 +570,64 @@
     <balcony>лоджия</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1987</built-year>
+  </offer>
+  <offer internal-id="1003210194">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1003210194</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T14:05:10+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Ново-Ахмирово, 3</address>
+      <latitude>49.938788</latitude>
+      <longitude>82.523473</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>20000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/fc/fc4d26db-7572-47e9-a6cb-b5aebe0f6fab/19-full.jpg</image>
+    <description>1978 г.п., потолки 2.5м., санузел раздельный, телефон: есть возможность подключения, интернет проводной, меблирована полностью, Продам квартиру по адресу Ново-Ахмирова 3 в квартире свежий ремонт в доме останется вся бытовая техника мебель спальный гарнитура диван телевизор</description>
+    <area>
+      <value>59</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1978</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1003316542">
     <type>продажа</type>
@@ -6950,7 +7008,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017264767</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:16:09+03:00</last-update-date>
+    <last-update-date>2026-11-25T14:01:45+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -6966,7 +7024,7 @@
       <url />
     </sales-agent>
     <price>
-      <value>15000000</value>
+      <value>14500000</value>
       <currency>KZT</currency>
     </price>
     <image>https://alaps-photos-kr.kcdn.kz/webp/62/626169be-417a-43f6-a892-3605333eec1a/1-full.jpg</image>
@@ -6980,7 +7038,7 @@
     <image>https://alaps-photos-kr.kcdn.kz/webp/62/626169be-417a-43f6-a892-3605333eec1a/9-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/62/626169be-417a-43f6-a892-3605333eec1a/10-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/62/626169be-417a-43f6-a892-3605333eec1a/11-full.jpg</image>
-    <description>панельный дом, 1963 г.п., потолки 2.5м., санузел совмещенный, меблирована полностью</description>
+    <description>панельный дом, 1963 г.п., потолки 2.5м., санузел совмещенный, меблирована полностью, Квартира светлая и теплая. Крыша недавно отремонтирована. Кладовка переоборудована под еще одну комнату. Остается мебель и вся необходимая бытовая техника. Возможен торг</description>
     <area>
       <value>44.7</value>
       <unit>кв.м</unit>
@@ -8913,7 +8971,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017676719</url>
     <newobject-id />
-    <last-update-date>2026-11-24T09:22:26+03:00</last-update-date>
+    <last-update-date>2026-11-25T14:03:28+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -8943,7 +9001,7 @@
     <renovation>требует ремонта</renovation>
     <description>Пластиковые окна, не угловая, комнаты изолированы, счётчики, тихий двор, удобно под коммерцию.
 
-Продается полноценная 1 комнатная квартира на первом этаже , санузел раздельный , соседи тихие , рядом платная охраняемая стоянка , двор расширенный с новым асфальтом ,с новыми детскими площадками и с парковкой, детей .Дом находится за магазином Самал , рядом имеется поликлиника в 10 минутах ходьбы , круглосуточные магазины , школа в 5 ти минутах , садики , аптеки , остановки ,рядом все что нужно для комфортного проживания .Дом 1980 г постройки .Зимой очень тепло , полы не холодные .Мебель в хорошем состоянии .Небольшой торг реальному покупателю .</description>
+Продается полноценная 1 комнатная квартира на первом этаже, санузел раздельный, соседи тихие, рядом платная охраняемая стоянка, двор расширенный с новым асфальтом, с новыми детскими площадками и с парковкой, детей. Дом находится за магазином Самал, рядом имеется поликлиника в 10 минутах ходьбы, круглосуточные магазины, школа в 5 ти минутах, садики, аптеки, остановки, рядом все что нужно для комфортного проживания. Дом 1980 г постройки. Зимой очень тепло, полы не холодные. Мебель в хорошем состоянии. Небольшой торг реальному покупателю. Помощь в оформлении ипотеки .</description>
     <area>
       <value>34.5</value>
       <unit>кв.м</unit>

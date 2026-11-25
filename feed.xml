@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T01:05:39+03:00</generation-date>
+  <generation-date>2026-11-26T01:10:47+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -167,6 +167,57 @@
     <ceiling-height>2.5</ceiling-height>
     <built-year>1983</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="671248925">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/671248925</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T01:09:04+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Дружбы народов, 2</address>
+      <latitude>49.902295146897</latitude>
+      <longitude>82.661390304565</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>26000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/18-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/19-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/20-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/21-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/22-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/23-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1f/1ffedd79-a334-473a-b243-6ac1ddffa8a9/12-full.jpg</image>
+    <description>Супер предложение квартира в прекрасном загородном ЖК с чистым свежим воздухом! В предчистовой отделке, с видом на реку, шикарное месторасположение с прекрасной инфраструктурой на территории есть магазины, спрортзалы, детский сад ! охрана комплекса круглосуточно!Возможен обмен на авто с вашей доплатой, или на квартиру в Алмате.</description>
+    <area>
+      <value>65</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2018</built-year>
+    <building-name>Riviera Residence</building-name>
   </offer>
   <offer internal-id="674369558">
     <type>продажа</type>
@@ -4595,6 +4646,52 @@ ____
     <ceiling-height>2.77</ceiling-height>
     <built-year>1954</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1012814713">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012814713</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T01:10:47+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Ново-Ахмирова, 6</address>
+      <latitude>49.936480278461</latitude>
+      <longitude>82.499313205641</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>20500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/19-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/20-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/21-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/22-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/23-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/24-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/25-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/f2/f2f4912c-1b1e-4c87-9a54-d6de5c465c6b/26-full.jpg</image>
+    <renovation>требует ремонта</renovation>
+    <description>В квартире установлены новые чугунные радиаторы, поменяны стояки, новая чугунная ванная, рядом находятся гаражи, возможна покупка гаража рядом с домом не дорого, во дворе много парковочных мест, возле соседнего дома новая детская площадка. Очень тихий район, школа в 200 метрах от дома. могу скинуть видео по запросу. Никаких риэлторов, продажа от собственника</description>
+    <area>
+      <value>60</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1972</built-year>
   </offer>
   <offer internal-id="1012843446">
     <type>продажа</type>

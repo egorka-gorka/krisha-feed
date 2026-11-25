@@ -1,6 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T22:12:56+03:00</generation-date>
+  <generation-date>2026-11-25T22:18:03+03:00</generation-date>
+  <offer internal-id="663534509">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/663534509</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T22:14:38+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Казбек би, 34</address>
+      <latitude>49.898297</latitude>
+      <longitude>82.608777</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>44000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/18-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/19-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/20-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/21-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/22/22c984b9-b57d-4f63-8a32-0d816001e0c2/22-full.jpg</image>
+    <description>Продам 3-х комнатную уютную квартиру, в районе КШТ. Сделан свежий ремонт : делали все для себя! Все коммуникации: новая сантехника и трубы, счётчики на горячую и холодную воду стоят, интернет, натяжные потолки. Окна тройной стеклопакет и балкон застеклённый. Дверь металлическая. квартира полностью готова к проживанию. Полность мебелерованая. находится в очень удобным месте, в шаговой доступности школы, детские сады, больницы и магазины отличная транспортная развязка- остановка возле дома. Подъезд чистый, хорошие соседи. Хорошая аура. Кирпичный дом, качество фасадов и других материалов надёжны. Дом теплый зимой. Торг уместен .</description>
+    <area>
+      <value>80</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>10</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2006</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
   <offer internal-id="674369558">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -438,7 +488,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/696641278</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:09:55+03:00</last-update-date>
+    <last-update-date>2026-11-25T22:16:21+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -478,7 +528,26 @@
     <image>https://kzala2-photos-kr.kcdn.kz/webp/27/27e9c434-505d-4144-b0cc-93cccab4d5d7/20-full.jpg</image>
     <image>https://kzala2-photos-kr.kcdn.kz/webp/27/27e9c434-505d-4144-b0cc-93cccab4d5d7/21-full.jpg</image>
     <image>https://kzala2-photos-kr.kcdn.kz/webp/27/27e9c434-505d-4144-b0cc-93cccab4d5d7/23-full.jpg</image>
-    <description>панельный дом, 1967 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел совмещенный, телефон: есть возможность подключения, меблирована полностью, Уважаемые агенты/риэлторы! Прошу не тратить время на звонки с предложениями. Без малого 60 кв. м. по хорошей цене в одном из лу…</description>
+    <description>Пластиковые окна, не угловая, кладовка, счётчики, тихий двор.
+
+Уважаемые агенты/риэлторы! Прошу не тратить время на звонки с предложениями.
+____
+Без малого 60 кв. м. по хорошей цене в одном из лучших районов города (бывшая ул. Дзержинского).
+Во всех комнатах пластиковые окна, балкон остеклен.
+
+Квартира солнечная и светлая, комнаты смежно-раздельные, на две стороны (распашонка). Перепланировок не было.
+Крыша покрыта в июне 2026 года.
+
+Квартира не угловая, двор тихий, хорошие соседи, в подъезде тихо и чисто. Рядом парковка.
+Есть вместительная кладовая комната 2, 5 кв. м со стеллажами и вешалкой. Стоят счетчики.
+Мебель можно оставить, квартира готова к проживанию.
+***
+Высоко развита инфраструктура: в шаговой доступности автобусные остановки, продуктовые и хозяйственные магазины, парикмахерские, аптеки, кафе, аллея для прогулок, набережная Ульбы, детские сады №96, Карлыгаш, Шуак, «Страна чудес», сад-ясли №99, три школы на любой вкус: школа-лицей №43, школа-гимназия № 10, школа-гимназия №12.
+Рядом ВКГТУ (12 минут пешком), ВКГУ (15 минут).
+Из района удобно добраться в любую часть города как на общественном, так и на личном транспорте.
+Есть где погулять - рядом набережная Ульбы, до Стрелки 15 минут пешком.
+
+Торг при осмотре возможен.</description>
     <area>
       <value>58</value>
       <unit>кв.м</unit>
@@ -609,6 +678,56 @@
     <balcony>лоджия</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1986</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1000186495">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1000186495</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T22:18:03+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Молдагулова 15/9, 15/9</address>
+      <latitude>49.889085949009</latitude>
+      <longitude>82.663038947597</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>24500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/25-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/26-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/27-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/28-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/29-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/30-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/31-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/32-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/33-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/5c/5c4343c8-614f-4491-ac9b-79b096acf8c4/34-full.jpg</image>
+    <description>кирпичный дом, 2012 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.8м., санузел раздельный, телефон: есть возможность подключения, интернет оптика, меблирована полностью, Отличная квартира тихи район мебель и бытовая техника останется полностью. Без долгов и обременений можно в ипотеку</description>
+    <area>
+      <value>55.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2012</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1002331893">

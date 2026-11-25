@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-25T23:18:52+03:00</generation-date>
+  <generation-date>2026-11-25T23:23:59+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1228,6 +1228,46 @@ ____
     <built-year>1983</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1002180845">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1002180845</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T23:20:35+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Сатпаева, 55</address>
+      <latitude>49.924190321691</latitude>
+      <longitude>82.629730490163</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>35000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7a/7a170dd1-fa3c-467f-b5b1-105bf907d598/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7a/7a170dd1-fa3c-467f-b5b1-105bf907d598/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7a/7a170dd1-fa3c-467f-b5b1-105bf907d598/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7a/7a170dd1-fa3c-467f-b5b1-105bf907d598/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7a/7a170dd1-fa3c-467f-b5b1-105bf907d598/5-full.jpg</image>
+    <description>2021 г.п., Продам квартиру</description>
+    <area>
+      <value>73</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>8</floor>
+    <floors-total>16</floors-total>
+    <built-year>2021</built-year>
+  </offer>
   <offer internal-id="1002331893">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -2217,6 +2257,56 @@ ____
     <built-year>1978</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1008914272">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1008914272</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T23:22:17+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Космическая, 21</address>
+      <latitude>49.964506</latitude>
+      <longitude>82.609226</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>45000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88d4efc9-e7b0-4474-be15-0c9d984d18eb/10-full.jpg</image>
+    <description>кирпичный дом, 1988 г.п., потолки 2.5м., санузел раздельный, интернет проводной, меблирована полностью, Продается 4 комнатная уютная полностью меблированная квартира. Все что необходимо для комфортной жизни рядом</description>
+    <area>
+      <value>86</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>6</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1008933442">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -2536,6 +2626,80 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1962</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1010123312">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1010123312</url>
+    <newobject-id />
+    <last-update-date>2026-11-25T23:23:59+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>И.Есенберлина, 11/4</address>
+      <latitude>49.894010285409</latitude>
+      <longitude>82.593976415086</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>62000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/29-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/30-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/31-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/32-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/33-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/34-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/35-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f4/f490a110-9a0a-49ab-b099-4924eb613ab1/36-full.jpg</image>
+    <description>жил. комплекс Brick Town, кирпичный дом, 2024 г.п., состояние: свежий ремонт, потолки 2.7м., Продается 3х комнатная квартира</description>
+    <area>
+      <value>97</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
+    <floors-total>6</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2024</built-year>
+    <building-name>Brick Town</building-name>
   </offer>
   <offer internal-id="1010380501">
     <type>продажа</type>

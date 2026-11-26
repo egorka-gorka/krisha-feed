@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T10:44:06+03:00</generation-date>
+  <generation-date>2026-11-26T10:45:37+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -17840,6 +17840,73 @@ ____
     <built-year>2025</built-year>
     <building-name>Оазис</building-name>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1017332682">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017332682</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T10:45:37+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Протозанова 53, 78</address>
+      <latitude>49.953535</latitude>
+      <longitude>82.620293</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>16500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/16/16183e0a-60dc-4679-95c7-a5d6e055b19d/15-full.jpg</image>
+    <description>Перевести
+
+Заезжай и живи!
+
+Если вы мечтаете жить в гуще городских событий, но при этом возвращаться в атмосферу абсолютного спокойствия и домашнего тепла, этот дом идеальный выбор!
+
+центр города. Вся инфраструктура в шаговой доступности: школы, детские сады, супермаркеты, тц, парки для прогулок, аптеки, рестораны и остановки транспорта. При этом сам дом расположен на тихой улице, скрытой от городского шума!
+
+Центр города. Вы экономите время на дорогу - всё необходимое находится буквально под рукой. Быстрый выезд на главные улицы!
+
+Улица Чехова, Кайсенова, Ауеззова и прочее БУКВАЛЬНО в шаговой доступности!
+
+Зимой тепло, летом прохладно!</description>
+    <area>
+      <value>47</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1960</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1017334061">
     <type>продажа</type>

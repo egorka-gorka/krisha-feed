@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T13:50:19+03:00</generation-date>
+  <generation-date>2026-11-26T13:55:08+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -9266,6 +9266,70 @@ ____
     <built-year>2009</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1013236588">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013236588</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:51:31+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>есенберлина, 19</address>
+      <latitude>49.901204</latitude>
+      <longitude>82.602426</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>27500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/7c/7cc9c149-568c-4ee3-87ce-571d37b2dad2/15-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, счётчики.
+
+Продается уютная 2-комнатная квартира с хорошим ремонтом. Светлая, теплая и комфортная для проживания. Удобная планировка, просторные комнаты и кухня. Квартира полностью готова к заселению, дополнительных вложений не требуется.
+
+Чистый подъезд, благоустроенный двор, спокойный район. В шаговой доступности магазины, школы, детские сады, остановки общественного транспорта и другие необходимые объекты инфраструктуры.
+
+Также имеется гараж, при покупке квартиры и гаража - цена договорная
+
+Рассмотрим варианты обмена на квартиру в Астане.
+Продажа в связи с переездом.</description>
+    <area>
+      <value>66</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2017</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1013309374">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -10853,6 +10917,62 @@ ____
     <built-year>1975</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1014578254">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014578254</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:52:44+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бурова 27, 2</address>
+      <latitude>49.954341</latitude>
+      <longitude>82.638152</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>23350000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/19-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cc/cc3a2115-f98e-4658-81db-41b149c8bff3/11-full.jpg</image>
+    <description>Пластиковые окна, не угловая, комнаты изолированы, кухня-студия, встроенная кухня, тихий двор.
+
+Продам 2-комнатную квартиру в хорошем состоянии. 4-й этаж из 5. Застеклённый балкон. Частично остаётся мебель. Тихие и доброжелательные соседи. Просторный двор. Квартира не находится в залоге, документы в порядке. В шаговой доступности детский сад, школа и магазины.</description>
+    <area>
+      <value>60.8</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1970</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1014658437">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -10986,6 +11106,56 @@ ____
     <building-type>монолит</building-type>
     <built-year>2017</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1014663168">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014663168</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:53:56+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бурова, 29</address>
+      <latitude>49.952695</latitude>
+      <longitude>82.642554</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>18500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/00/005620e0-f3dd-4536-85d8-ab3b766c6397/10-full.jpg</image>
+    <description>панельный дом, 1964 г.п., состояние: свежий ремонт, потолки 2.5м., санузел совмещенный, интернет проводной, меблирована полностью, Продаю 2-х комнатную квартиру. 3 этаж, с ремонтом, с мебелью. Балкон обшитый, кондиционер, соседи дружные. Торг уместен</description>
+    <area>
+      <value>46</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1964</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1014699714">
     <type>продажа</type>
@@ -11486,6 +11656,94 @@ ____
     <balcony>лоджия</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>2020</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1014890750">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014890750</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:55:08+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бульвар Гагарина, 32</address>
+      <latitude>49.966928</latitude>
+      <longitude>82.575944</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15100000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/a4/a4442e89-3018-4893-af61-ea32aa13b0c8/18-full.jpg</image>
+    <description>Улучшенная, кухня-студия.
+
+Отличный вариант для жизни или сдачи в аренду!
+
+Бульвар Гагарина, 32
+
+Площадь — 35, 5 м²
+Жилая комната — 17, 5 м²
+Кухня — 7 м²
+Балкон
+5 этаж из 6
+Дом 1984 года постройки
+
+Главное преимущество — шикарная локация!
+
+Остановка — рядом с домом
+Магазин Mango — рядом
+Университеты — в шаговой доступности
+Ивушка
+Парк Самал — рядом для прогулок и отдыха
+
+Мебель остаётся, поэтому можно сразу заехать и жить или сдавать квартиру без дополнительных больших затрат.
+
+Удобный район
+Развитая инфраструктура
+Всё необходимое рядом
+Хороший вариант для студентов, молодой семьи или под аренду
+
+Звоните/пишите для просмотра!
+
+Квартира в отличном месте</description>
+    <area>
+      <value>35.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>6</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1984</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1014969274">

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T09:42:15+03:00</generation-date>
+  <generation-date>2026-11-26T09:45:18+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -737,6 +737,67 @@
     <balcony>балкон</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1967</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="684996492">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/684996492</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T09:45:18+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>К. Сатпаева, 84/4</address>
+      <latitude>49.921229</latitude>
+      <longitude>82.620734</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>39000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/28fbb5d2-eadd-4c11-a153-4cdf4255eee0/20-full.jpg</image>
+    <description>Пластиковые окна, комнаты изолированы, встроенная кухня, новая сантехника, счётчики, тихий двор.
+
+Продам двухкомнатную квартиру в ЖК «Премьера». Высота потолков 3м. Ламинат kronopol, теплый пол. Есть 1 балкон, 1 лоджия-остеклены-внутренняя отделка штукатурка, на полу кафель, кондиционер. В спальне-гардеробная. Кухня со встроенной техникой: варочная поверхность, духовка, микроволновка, вытяжка, посудомойка.
+Дом хорошо отапливается, проблем с водоснабжением (счетчики установлены) и электричеством нет, мощная вентиляция, чистый и просторный подъезд, имеется подъёмник для маломобильных гр.
+В доме есть лифт. Во дворе и подъездах установлена система видеонаблюдения, шлагбаум, водомат. В подъезде для жильцов есть помещение для хранения колясок, велосипедов и др.</description>
+    <area>
+      <value>63.8</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>Премьера</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="686869411">

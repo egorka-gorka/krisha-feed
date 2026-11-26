@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T12:16:30+03:00</generation-date>
+  <generation-date>2026-11-26T13:09:15+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -2139,6 +2139,67 @@ ____
     <balcony>лоджия</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1986</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="760595168">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/760595168</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:09:15+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Космическая, 12</address>
+      <latitude>49.963701</latitude>
+      <longitude>82.609936</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>19700000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ba/bafcce66-6a1c-4e02-94d1-943bd5c9ad51/11-full.jpg</image>
+    <description>Пластиковые окна, кладовка, счётчики, тихий двор, кондиционер.
+
+Продам 4-х комнатную квартиру с мебелью. Уютная, светлая, теплая, в хорошем состоянии! Выполнен косметический ремонт.
+Во всех комнатах пластиковые окна и современные радиаторы. Счётчики горячей, холодной воды. Пластиковые трубы.
+В подъезде по 4 квартиры.
+Кровля отремонтирована в октябре 2024 года.
+Инфраструктура развита, в шаговой доступности все самое необходимое: школы, садики, университеты, колледжи, библиотеки, поликлиники, больницы, торговые дома, рынок, места общепита, сквер на Комендантке, автовокзал, Дворец Спорта, магазины у дома, аптеки, автобусные и трамвайные остановки.
+Школы-лицеи 11, 34, школа 9 на русском и школы 16, 43- на казахском языке обучения. Валеологический сад-школа для одаренных детей. Детские сады: "Шуак", "Ромашка", "Азамат", 70 садик.
+Двор с большим количеством парковочных мест облагорожен, детская площадка, установлены столбы дневного освещения, имеется видеонаблюдение.
+Квартира без долгов и обременений, документы в порядке. Возможно оформить в ипотеку.
+За дополнительной информацией обращайтесь по телефону. Я собственник квартиры!</description>
+    <area>
+      <value>58.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1971</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="760644370">

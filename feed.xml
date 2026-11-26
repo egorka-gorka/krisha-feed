@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T06:44:06+03:00</generation-date>
+  <generation-date>2026-11-26T06:47:08+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1509,6 +1509,56 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1986</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="760975920">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/760975920</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T06:47:08+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Патанина, 13</address>
+      <latitude>49.958504149073</latitude>
+      <longitude>82.605397571936</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>20000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57b053a2-ef9f-4f6a-a536-608c6a1f70fa/12-full.jpg</image>
+    <description>1968 г.п., санузел совмещенный, меблирована частично, Продам 2 КВ новый ремонт вся инфраструктура свежий ремонт сантехника вся новая, электро проводка новая очень хороший вид с окна балкон застеклён почти вся мебель остаётся звоните пишите. торг</description>
+    <area>
+      <value>48</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <balcony>балкон</balcony>
+    <built-year>1968</built-year>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="761539706">
     <type>продажа</type>

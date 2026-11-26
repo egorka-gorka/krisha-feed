@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T09:10:41+03:00</generation-date>
+  <generation-date>2026-11-26T09:16:45+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -167,6 +167,53 @@
     <ceiling-height>2.5</ceiling-height>
     <built-year>1983</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="668235158">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/668235158</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T09:16:45+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Көкжал Барақ, 2</address>
+      <latitude>49.894415</latitude>
+      <longitude>82.601168</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>16500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/88/88724ec7-0895-4caa-9746-15a3437c3c20/11-full.jpg</image>
+    <description>кирпичный дом, 2014 г.п., состояние: свежий ремонт, санузел раздельный, Бір бөлмелі пәтер сатылады. Көкжал Барақ көшесі 2</description>
+    <area>
+      <value>38</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <built-year>2014</built-year>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="671248925">
     <type>продажа</type>
@@ -18807,5 +18854,118 @@ ____
     <balcony>лоджия</balcony>
     <built-year>1978</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1017746021">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017746021</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T09:12:12+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Илияса Есенберлина, 76</address>
+      <latitude>49.919691908769</latitude>
+      <longitude>82.615360139951</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>29300000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/97/97b7b491-dcf4-4704-aabf-d836f20a8c5b/10-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, кухня-студия, встроенная кухня, новая сантехника, счётчики, тихий двор.
+
+Продаётся уютная, современная квартира в перспективном районе Усть-Каменогорска.
+
+Адрес: ул. Есенберлина, 76
+▪ Площадь — 55 м²
+▪ Этаж — 10
+▪ Просторная кухня-гостиная и отдельная спальня
+▪ Свежий евроремонт, после ремонта никто не проживал
+▪ Прекрасный вид из окон
+▪ Вся мебель и бытовая техника остаются новым владельцам
+
+Квартира светлая, тёплая и полностью готова к проживанию. Интерьер продуман для комфортной жизни. Не требует дополнительных вложений — заезжай и живи!
+
+Район активно развивается. В шаговой доступности НИШ, Maxi Mall, Fresh Market, спортивные комплексы, бассейн и школы.
+
+Отличный вариант как для собственного проживания, так и для инвестиций.
+
+Продажа от собственника.</description>
+    <area>
+      <value>55</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>10</floor>
+    <floors-total>10</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>Satti City 2</building-name>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1017747981">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017747981</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T09:13:43+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Каныша Сатпаева, 15</address>
+      <latitude>49.901939942214</latitude>
+      <longitude>82.626213020672</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>68000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/89/895226dd-d25b-4356-857d-d558f219a8b4/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/89/895226dd-d25b-4356-857d-d558f219a8b4/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/89/895226dd-d25b-4356-857d-d558f219a8b4/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/89/895226dd-d25b-4356-857d-d558f219a8b4/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/89/895226dd-d25b-4356-857d-d558f219a8b4/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/89/895226dd-d25b-4356-857d-d558f219a8b4/6-full.jpg</image>
+    <description>Продается 3-х комнатная квартира на КШТ, на 1-м этаже 6-ти этажного дома (9 подъездов) под ПРОДУКТОВЫЙ МАГАЗИН. В квартире сделан капитальный ремонт, произведена перепланировка и оформляются документы под магазин. Помещение пустое. Осталось завезти товар и оборудование.</description>
+    <area>
+      <value>70</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>6</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1987</built-year>
   </offer>
 </realty-feed>

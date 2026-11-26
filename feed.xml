@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T13:13:49+03:00</generation-date>
+  <generation-date>2026-11-26T13:18:24+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1417,6 +1417,56 @@
     <built-year>2007</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="693941671">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/693941671</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:15:21+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Н.Назарбаева, 83/3</address>
+      <latitude>49.981493</latitude>
+      <longitude>82.572997</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>11500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/58/586ad4f8-7536-45ab-aa1d-50f23f077a4e/8-full.jpg</image>
+    <description>Пластиковые окна, счётчики, тихий двор.
+
+Продадим уютную квартиру. Дом гостиничного типа, не общага! дом находится в спальном районе, с прекрасным видом из окна. квартира солнечная и теплая. установлен кондиционер. сделан хороший ремонт, натяжные потолки, качественные обои, ленолеум, в ванной заменены все трубы, так же установлен бойлер на 120 литров, на случай отключения горячей воды летом, установлены новые радиаторы отопления. в квартире остается вся мебель. кроме матраца с кровати и бытовой техники. окна пластиковые, лоджия застекленная, утепленная. даже в самые лютые морозы дверь в квартиру не закрывали. лифт работает. крыша не бежит, делали ремонт. продаем, потому что хотим расшириться. от квартиры не избавляемся, любим ее всей душой. для молодой семьи самое то. спокойный и тихий двор. рядом школы, сады, оптовый рынок Береке, фитнес зал и прочая инфраструктура. в любую точку города можно спокойно уехать. Дом находится между остановкой Адем и Электротовары. минимальный торг.</description>
+    <area>
+      <value>30</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>1981</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="694163970">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1672,6 +1722,57 @@
     <ceiling-height>2.5</ceiling-height>
     <built-year>1961</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="695957924">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/695957924</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:16:52+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Казыбек би</address>
+      <latitude>49.895378</latitude>
+      <longitude>82.614805</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>52000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/1d/1d299dce-8b11-4e0e-a918-153657f4f271/11-full.jpg</image>
+    <description>Не угловая, улучшенная, комнаты изолированы, встроенная кухня, кладовка, счётчики, кондиционер.
+
+Продам 4-х комнатную квартиру, в центре КШТ, рядом имеется все необходимое : школы (с русским и государственным языками), детские сады, остановка, магазины, ТД. Квартира очень теплая, зимой даже с выключенными батареями можно обойтись, светлая, просторная, для большой семьи. Соседи спокойные, двор просторный. Квартира не в залоге, можно оформить в ипотеку, все документы в порядке!</description>
+    <area>
+      <value>98.8</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>7</floor>
+    <floors-total>10</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2019</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="696017442">
     <type>продажа</type>
@@ -3145,6 +3246,57 @@ ____
     <building-type>кирпичный</building-type>
     <ceiling-height>3</ceiling-height>
     <built-year>1958</built-year>
+  </offer>
+  <offer internal-id="1002015381">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1002015381</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:18:24+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>базова, 2/2</address>
+      <latitude>49.926452397904</latitude>
+      <longitude>82.626751450133</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>23500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/ee/eef5f7db-6c0f-48c0-b211-8176cd951239/10-full.jpg</image>
+    <description>жил. комплекс Green Leaf, монолитный дом, 2023 г.п., состояние: свежий ремонт, потолки 2.8м., санузел раздельный, интернет ADSL, меблирована полностью, Чистая. уютная квартира в новом ЖК</description>
+    <area>
+      <value>40.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>12</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>Green Leaf</building-name>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="1002180845">
     <type>продажа</type>

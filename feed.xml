@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T08:51:16+03:00</generation-date>
+  <generation-date>2026-11-26T08:55:49+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -3741,6 +3741,50 @@ ____
     <built-year>1970</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1008433637">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1008433637</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T08:54:18+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Альфараби, 36</address>
+      <latitude>49.892291</latitude>
+      <longitude>82.585708</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>25000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/67/671708c8-8c82-4885-8d5d-c37f18bc6b3c/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/67/671708c8-8c82-4885-8d5d-c37f18bc6b3c/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/67/671708c8-8c82-4885-8d5d-c37f18bc6b3c/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/67/671708c8-8c82-4885-8d5d-c37f18bc6b3c/7-full.jpg</image>
+    <description>монолитный дом, 2018 г.п., потолки 2.5м., санузел раздельный, интернет через TV кабель, меблирована частично, Продам 2х квартиру по адресу Альфараби 36 6 этаж из 9 Ремонт свежий Мебель новая Полы в комнатах ламинат, в прихожей и кухне керамогранит</description>
+    <area>
+      <value>65</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2018</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
   <offer internal-id="1008626862">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -4453,6 +4497,46 @@ ____
     <building-type>кирпичный</building-type>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1989</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1009988945">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1009988945</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T08:55:49+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Назарбаева, 83/1</address>
+      <latitude>49.983016</latitude>
+      <longitude>82.573428</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>7500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7c/7ce3033f-a79f-4e76-8a96-c16ad6e24a7d/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7c/7ce3033f-a79f-4e76-8a96-c16ad6e24a7d/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7c/7ce3033f-a79f-4e76-8a96-c16ad6e24a7d/3-full.jpg</image>
+    <description>1980 г.п., состояние: не новый, но аккуратный ремонт, санузел совмещенный, меблирована полностью, Комната очень тёплая, светлая, соседи хорошие, видеонаблюдение. лифт работает, рядом кск. Свой сан. узел. Обращаться на</description>
+    <area>
+      <value>14.2</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <built-year>1980</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1010123312">

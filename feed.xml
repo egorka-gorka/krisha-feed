@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T14:24:50+03:00</generation-date>
+  <generation-date>2026-11-26T14:45:45+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -880,6 +880,62 @@
     <ceiling-height>2</ceiling-height>
     <built-year>1987</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="678887856">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/678887856</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T14:45:45+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Карбышева, 26</address>
+      <latitude>49.960635</latitude>
+      <longitude>82.582816</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>21000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/18-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/19-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/20-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/21-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/22-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/23-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/24-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/25-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/26-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/27-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/28-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/29-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/4a/4afa37a9-bd04-49e2-a174-8a5b584bf9ac/30-full.jpg</image>
+    <description>Тихий двор.
+
+Улучшенная двух комнатная квартира, район парка "Самал", по близости расположены магазин "Ивушка", рынок "Дос-Нар", супермаркет "Сити-Центр, парк " Металлург ", средняя школа-15, областная специализированная IT-лицей, детский сад-ясли N-100, детский сад-ясли " Еркетай ", детский сад " Золотая рыбка ", детский сад школа N-14, студ. городок, ВКГУ, ВКГТУ, медицинский колледж, удобная транспортная развязка, во дворе расположены продуктовые магазины " Вита ", " Береке ", " Золушка ", " Шаман ", " Вкус-Маркет". Подъезд чистый, соседи доброжелательные. После капитального ремонта, окна пластиковые, поставлены трёхслойные стекла, входная дверь новая, батарей отопления поставлены новые, в ванной новый кафель, сантехника обновлена, стены вытянуты, пол подровнян наливным полом, постелены новый линолеум, розетки и выключатели новые. Без долгов и обременений, документы в порядке.</description>
+    <area>
+      <value>50.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1980</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="682106589">
     <type>продажа</type>

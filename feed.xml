@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T13:09:15+03:00</generation-date>
+  <generation-date>2026-11-26T13:13:49+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -51,6 +51,70 @@
     <balcony>лоджия</balcony>
     <ceiling-height>2</ceiling-height>
     <built-year>2009</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="662818192">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/662818192</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:13:49+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Сатпаева, 58</address>
+      <latitude>49.906281</latitude>
+      <longitude>82.621345</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>16500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/18-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/19-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/20-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/21-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/22-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/04/047d70ad-78d3-4023-b1bf-f62a03955916/23-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, новая сантехника, счётчики, тихий двор, кондиционер.
+
+Продаётся 1, 5 в экологическом и развитом районе КШТ. Квартира угловая, очень тёплая, очень хороший ремонт, натяжные потолки, вся сантехника новая, радиаторы новые, кондиционер, очень хорошие пластиковые окна. Балкон остеклён дорогим профилем немецким. Тёплая, светлая квартира, одни хозяева. В квартире останется только кухонный гарнитур! Квартира продаётся без мебели! Рядом школа, детский сад, поликлиника, ЦОН, охраняемая стоянка, супермаркеты, аптеки. Спальный район. Подходит под ипотеку. Заходите и живите! Агентства прошу не беспокоить! Торга нет! Цена окончательная.</description>
+    <area>
+      <value>36</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1985</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="663534509">
@@ -6842,6 +6906,58 @@ ____
     <built-year>1975</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1011757157">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1011757157</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:10:47+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бажова, 544</address>
+      <latitude>50.020693</latitude>
+      <longitude>82.50954</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>11500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/e5/e5f476c3-faf3-42e9-ae90-74e560c4b7d4/10-full.jpg</image>
+    <description>Пластиковые окна, не угловая, кухня-студия, встроенная кухня, новая сантехника, тихий двор, кондиционер.
+
+Двор тихий, ночью нет никакого шума, всегда есть где оставить авто, есть гаражный кооператив, рядом автобусные остановки. Автобусы всегда пустые приходят, так как остановка почти конечная. Зимой дорогу чистят в первую очередь, до аэропорта пешком 5 минут. В соседнем доме есть магазин и аптека. На Самале есть садики и школы, без пробок. До центра города на машине 15 минут. Каменная столешница, встроенная плита и духовка gorenje, профессиональная вытяжка, дорогая сантехника, балкон понорамный, стекленный в пол, все створки открываются, удобно мыть. кондиционер, новый ремонт, имеется технический этаж-6. Мебель по желанию, все новое. вложений не требует, продаю в связи с переездом в Алмату, с продажей не тороплюсь. Хорошая аура)</description>
+    <area>
+      <value>30.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1986</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1011804587">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -9313,6 +9429,77 @@ ____
     <balcony>балкон</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>2006</built-year>
+  </offer>
+  <offer internal-id="1014392517">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014392517</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T13:12:18+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Славского</address>
+      <latitude>49.942806</latitude>
+      <longitude>82.617868</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>25500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/18-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/25/258f471c-7186-4e69-a0af-3f0bc89224c3/19-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, новая сантехника, счётчики, тихий двор.
+
+Продаётся 2-комнатная квартира с отличным расположением и видом на Иртыш!
+
+Площадь — 57 м²
+9 этаж из 14
+Дом 1979 года
+
+Квартира светлая, просторная, с хорошей планировкой и прекрасным видом на Иртыш и набережную.
+
+В квартире уже выполнена часть ремонта:
+• натяжные потолки;
+• кафель в санузлах.
+
+Остальное пространство можно оформить полностью под себя — без необходимости переделывать дорогой чужой ремонт.
+
+Главное преимущество квартиры — её расположение. Удобная локация, набережная и красивый вид из окон — то, что невозможно заменить ремонтом.
+
+Отличный вариант как для собственного проживания, так и для тех, кто ищет квартиру в хорошей локации с перспективой сделать интерьер по своему вкусу.
+Кв в залоге!
+
+Цена: 24 000 000₸
+
+По всем вопросам и для просмотра — пишите/звоните.</description>
+    <area>
+      <value>57</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1979</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1014420980">
     <type>продажа</type>

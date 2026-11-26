@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T07:14:11+03:00</generation-date>
+  <generation-date>2026-11-26T07:17:13+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -362,6 +362,57 @@
     <floors-total>5</floors-total>
     <building-type>панельный</building-type>
     <built-year>1987</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="678069608">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/678069608</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T07:15:42+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Ст.Коршунова</address>
+      <latitude>50.022842007478</latitude>
+      <longitude>82.772690617843</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>9500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a5/a50ae285-be00-4172-9a3d-a717b3ecb013/12-full.jpg</image>
+    <description>кирпичный дом, 1960 г.п., потолки 2.8м., санузел совмещенный, Продам квартиру. Квартира уютная, чистая, солнечная сторона. Продаётся с мебелью. 2 этаж кирпичный дом. Отапление центральное, пластиковые окна, натежные потолки</description>
+    <area>
+      <value>58</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>2</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>1960</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="678222135">
@@ -1124,6 +1175,62 @@
     <balcony>балкон</balcony>
     <built-year>1989</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="695892903">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/695892903</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T07:17:13+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Назарбаева, 55/1</address>
+      <latitude>49.975439</latitude>
+      <longitude>82.584325</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>13000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/6390c6e7-1eae-46f1-b632-06a73fc192ab/14-full.jpg</image>
+    <description>Пластиковые окна, новая сантехника, счётчики, тихий двор.
+
+солнечная сторона, квартира тёплая, очень удобно, комфортно. дом после модернизации, крыша новая, во дворе детская площадка, парковка. рядом школа, детский сад, поликлиника. удобное расположение к автобусам, и трамвай недалеко. Удобно за продуктами, оптовка Береке, Торговый дом Валентина, ДКМ, ярмарки по субботам.</description>
+    <area>
+      <value>31</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>4</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1961</built-year>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="696017442">
     <type>продажа</type>

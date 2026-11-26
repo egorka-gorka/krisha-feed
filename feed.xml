@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T08:40:35+03:00</generation-date>
+  <generation-date>2026-11-26T08:45:09+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -7037,6 +7037,73 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>2004</built-year>
   </offer>
+  <offer internal-id="1014075603">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014075603</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T08:42:07+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Кокжал барака, 7/1</address>
+      <latitude>49.894943</latitude>
+      <longitude>82.60787</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>22500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a0/a0dbee9e-f5ce-4a44-b485-35d0633f1a6d/9-full.jpg</image>
+    <description>Продаётся просторная и светлая 1-комнатная квартира 43 м²
+
+ул. Кокжал Барака | 3 этаж из 5
+Отличный вариант для комфортного проживания или выгодной инвестиции!
+Предлагается уютная 1-комнатная квартира общей площадью 43 м² в доме 2012 года постройки. Квартира расположена на комфортном 3 этаже 5-этажного кирпичного дома, который отличается хорошей тепло- и шумоизоляцией.
+Квартира светлая и просторная, с удобной планировкой и большими окнами, благодаря которым комнаты наполнены естественным светом в течение всего дня. Пространство позволяет комфортно организовать как зону отдыха, так и рабочее место.
+Дом расположен в хорошем районе с развитой инфраструктурой. Всё необходимое для комфортной жизни находится в шаговой доступности:
+Школы и детские сады
+Магазины и супермаркеты
+Аптеки и медицинские учреждения
+Остановки общественного транспорта
+Детские и спортивные площадки
+Кафе и объекты бытового обслуживания
+Удобная транспортная развязка обеспечивает быстрый доступ к основным районам города.
+Светлая и просторная квартира
+Тихий и благоустроенный район
+Документы готовы к сделке
+Разумный торг приветствуется.
+Звоните или пишите для получения дополнительной информации и организации просмотра. Возможно, именно эта квартира станет вашим новым уютным домом!</description>
+    <area>
+      <value>43</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.75</ceiling-height>
+    <built-year>2012</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1014083479">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -11530,6 +11597,68 @@ ____
     <built-year>1998</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1016444783">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016444783</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T08:43:38+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Утепова</address>
+      <latitude>49.899829</latitude>
+      <longitude>82.615344</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>32000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ffd9c16b-7696-4c50-a379-d949156c37d1/30-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, новая сантехника, кладовка, счётчики, тихий двор, удобно под коммерцию.
+
+Солнечная строна и спальня, детская, также кухня и гостиная. Сделан капитальный ремонт. Окна пластиковые новые, ламинат новый, новые батареи, новые двери межкомнатные и входная. Трубы гофрированные, новые. Новые люстры во всех комнатах. Кухонный гарнитур новый 2, 5метра +кухонныйстол, стулья+новая мойка. Зимой тепло очень. Рядом 3школы, 3садика, Пицца, Тд Достық, Айгерим. 3остановки в 7минутах от дома. Можно под бизнес, местоположение очень удобное. Двор тихий, в сентябре установили новую игровую площадку.</description>
+    <area>
+      <value>70</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1987</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
   <offer internal-id="1016457036">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -15297,7 +15426,7 @@ ____
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1017506943</url>
     <newobject-id />
-    <last-update-date>2026-11-23T16:39:54+03:00</last-update-date>
+    <last-update-date>2026-11-26T08:45:09+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -15313,7 +15442,7 @@ ____
       <url />
     </sales-agent>
     <price>
-      <value>41000000</value>
+      <value>40000000</value>
       <currency>KZT</currency>
     </price>
     <image>https://alaps-photos-kr.kcdn.kz/webp/42/42e576b8-3751-4235-837e-ab9d0660511e/1-full.jpg</image>
@@ -15328,7 +15457,7 @@ ____
     <image>https://alaps-photos-kr.kcdn.kz/webp/42/42e576b8-3751-4235-837e-ab9d0660511e/10-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/42/42e576b8-3751-4235-837e-ab9d0660511e/11-full.jpg</image>
     <image>https://alaps-photos-kr.kcdn.kz/webp/42/42e576b8-3751-4235-837e-ab9d0660511e/12-full.jpg</image>
-    <description>квартира очень тёплая, светлая, свободная планировка, переделала в 3х комнатную, локация топовая, предчистовая отделка, поставлен новый балконный блок, поставлены перегородки из гипсокартона. стены вытянуты, удобно тем, что можно сделать любой дизайн именно под себя, входная дверь новая. квартира просторная, установлено реле напряжения.</description>
+    <description>квартира очень тёплая, светлая, свободная планировка, переделала в 3х комнатную, локация топовая, предчистовая отделка, поставлен новый балконный блок, поставлены перегородки из гипсокартона. стены вытянуты, удобно тем, что можно сделать любой дизайн именно под себя, входная дверь новая. квартира просторная, установлено реле напряжения. Реальному покупателю, реальный торг.</description>
     <area>
       <value>78.6</value>
       <unit>кв.м</unit>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T14:22:17+03:00</generation-date>
+  <generation-date>2026-11-26T14:24:50+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -20382,6 +20382,67 @@ ____
     <built-year>1978</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1017169327">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017169327</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T14:23:29+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Серикбаева</address>
+      <latitude>49.95728</latitude>
+      <longitude>82.582331</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>4000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/41/41c99356-966e-4f27-a538-929c9b772303/1-full.jpg</image>
+    <description>Идеальный вариант прямо у Шульбинского водохранилища!
+
+ВНИМАНИЕ: ДОМ НАХОДИТСЯ В ПОСЕЛКЕ ШУЛЬБИНСК (нижние коттеджи Баженово, бывший пос. Гидростроителей).
+
+Рассматриваю ОБМЕН БЕЗ ДОПЛАТЫ на комнату в общежитии города Усть-Каменогорск (рассмотрю любые районы). Также возможна чистая ПРОДАЖА за 4 000 000 тенге (есть рассрочка с первоначальным взносом, реальному покупателю — торг при осмотре).
+
+Предлагаю к обмену уютный, полностью благоустроенный 3-комнатный дом (полдома). Общая площадь вместе с верандой составляет 70 кв. м. Расположен в живописном месте в шаговой доступности от соснового бора и водохранилища. Здесь абсолютно чистый, целебный воздух, полностью отсутствуют заводы и вредные производства — настоящий рай для здоровья, а также любителей рыбалки, охоты, тишины и сбора грибов.
+
+Жилые комнаты небольшие, компактные и очень экономные в отоплении.
+
+Ремонт обычный, косметический (не евроремонт) — в доме деревянные окна и полы, на стенах поклеены обои, на потолке — потолочная плитка. Всё чисто и пригодно для жизни.
+
+Фасад дома качественно обновлен и оштукатурен декоративной «шубой».
+
+К дому прилегают просторная веранда (входит в общую площадь) и удобный навес.
+
+Все удобства внутри: Санузел и душ находятся прямо в доме. Центральное водоснабжение (установлен счетчик), канализация — септик.
+
+Абсолютная готовность к зиме: Печное отопление, в августе полностью обновили всю отопительную систему. Крыша надежная, перекрыта профлистом около 5 лет назад.
+
+Постройки во дворе: На участке есть баня, летний душ и отдельное строение под мастерскую.
+
+Свой ухоженный участок (6 соток) : Земля при доме полностью обустроена, отлично растут помидоры, огурцы, зелень и картофель.
+Дополнительное поле под посадку: Через дорогу есть еще один участок (10 соток от акимата) для выращивания картофеля.
+Отличный шанс сменить загазованный город и тесную комнату на благоустроенный дом с собственной землей на чистом воздухе! Пожалуйста, прочитайте объявление внимательно перед звонком. Фото ДОМА на WA.</description>
+    <area>
+      <value>70</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>1</floor>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1980</built-year>
+  </offer>
   <offer internal-id="1017190872">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -20841,6 +20902,58 @@ ____
     <balcony>балкон</balcony>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1963</built-year>
+  </offer>
+  <offer internal-id="1017270074">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017270074</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T14:24:50+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Жибек Жолы, 13</address>
+      <latitude>49.930508</latitude>
+      <longitude>82.61114</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>23000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/68/6813bcad-94fd-42b4-b8c1-d5fa482d0bad/9-full.jpg</image>
+    <description>Пластиковые окна, не угловая, комнаты изолированы, встроенная кухня, новая сантехника, кладовка, счётчики, тихий двор, кондиционер.
+
+Квартира очень светлая, теплая, солнечная сторона, не угловая, в шаговой доступности детские сады, музыкальная школа «Каракат», магнум, рынок Алтай, большой парк, мечеть, аптека, детский бассейн, новый район, воздух свежий, проветривается. Парковочных мест много, автобусные остановки рядом. : Жанна, сот номер звоните, пишите в любое время. торг есть</description>
+    <area>
+      <value>46</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>10</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.65</ceiling-height>
+    <built-year>2018</built-year>
+    <building-name>Ertis City</building-name>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="1017317900">
     <type>продажа</type>

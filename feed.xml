@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-26T10:28:51+03:00</generation-date>
+  <generation-date>2026-11-26T10:33:36+03:00</generation-date>
   <offer internal-id="661138532">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -9452,6 +9452,86 @@ ____
     <built-year>1962</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1014661467">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014661467</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T10:30:22+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Казыбек би, 50</address>
+      <latitude>49.900966</latitude>
+      <longitude>82.600001</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>25000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/4f/4f71090a-2428-4348-910b-bd9691003bb3/25-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, новая сантехника, счётчики, тихий двор, удобно под коммерцию.
+
+Продаётся 2-комнатная квартира — ул. Казыбек би, 50
+
+Светлая, уютная квартира площадью 60 м² со свежим ремонтом.
+
+Преимущества:
+Солнечная сторона, не угловая
+8 этаж — средний этаж, над ним жилой 9-й этаж и техэтаж
+Потолки — 2, 8 м
+Изолированные комнаты
+Кухня более 10 м²
+Раздельный санузел
+Застеклённый балкон 7 м² с выходом из зала и кухни
+Застеклённая лоджия 3 м² с выходом из спальни
+
+Свежий ремонт, новые межкомнатные двери.
+
+Квартира в ипотеке Банка ЦентрКредит. Снятие обременения возможно за один день.
+Звоните заранее чтобы посмотреть!</description>
+    <area>
+      <value>60</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <building-type>монолит</building-type>
+    <built-year>2017</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
   <offer internal-id="1014699714">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -13894,6 +13974,113 @@ ____
     <balcony>лоджия</balcony>
     <ceiling-height>2.7</ceiling-height>
     <built-year>1991</built-year>
+  </offer>
+  <offer internal-id="1016368147">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016368147</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T10:32:05+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Жастар, 37</address>
+      <latitude>49.908172</latitude>
+      <longitude>82.614041</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>22500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/04/047b35da-82b4-4f14-8e0a-7c83aab98d73/9-full.jpg</image>
+    <description>Улучшенная, комнаты изолированы, новая сантехника, тихий двор.
+
+Продаётся уютная, светлая 2-комнатная квартира по адресу: ул. Жастар, дом 37.
+
+Общая площадь — 48 м², кухня — 8 м². Дом 1990 года постройки, стены из керамзитобетонных блоков.
+
+Квартира имеет удобную планировку — распашонка, окна выходят на две стороны дома. Комнаты изолированные, санузел раздельный. Имеются два балкона.
+
+В квартире выполнен свежий ремонт: натяжные потолки, аккуратные обои, на полу — линолеум. Установлена новая входная дверь. Квартира чистая, тёплая и ухоженная — можно заехать и жить без дополнительных вложений.</description>
+    <area>
+      <value>47.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>6</floors-total>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1990</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1016380555">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016380555</url>
+    <newobject-id />
+    <last-update-date>2026-11-26T10:33:36+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бульвар Гагарина, 34</address>
+      <latitude>49.967322</latitude>
+      <longitude>82.575468</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>13600000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/14/1439d041-e3ac-4368-8a17-555234a45eac/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/14/1439d041-e3ac-4368-8a17-555234a45eac/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/14/1439d041-e3ac-4368-8a17-555234a45eac/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/14/1439d041-e3ac-4368-8a17-555234a45eac/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/14/1439d041-e3ac-4368-8a17-555234a45eac/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/14/1439d041-e3ac-4368-8a17-555234a45eac/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/14/1439d041-e3ac-4368-8a17-555234a45eac/7-full.jpg</image>
+    <description>Продаётся 1, 5-комнатная квартира по адресу: бульвар Гагарина, 34.
+
+Площадь — 36, 3 м². Дом 1985 года постройки. В квартире выполнен полный косметический ремонт: натяжные потолки, пластиковые окна, новые двери и батареи. Балкон застеклён деревянными рамами.
+
+Квартира подходит под ипотеку в любом банке.
+
+Цена — 13 800 000 ₸.</description>
+    <area>
+      <value>36.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1985</built-year>
   </offer>
   <offer internal-id="1016425698">
     <type>продажа</type>

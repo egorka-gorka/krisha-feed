@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-27T13:59:59+03:00</generation-date>
+  <generation-date>2026-11-27T15:20:58+03:00</generation-date>
   <offer internal-id="47489069">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -590,6 +590,112 @@
     <built-year>1981</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="670922842">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/670922842</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:35:04+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Мызы, 47</address>
+      <latitude>49.960513</latitude>
+      <longitude>82.633975</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>38900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/38-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/35-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/31-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/32-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/29-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/30-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/36-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ef/ef831966-12f5-4690-b9fe-435d2f8bcd25/37-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, новая сантехника, счётчики, тихий двор, кондиционер.
+
+Просторная 4-комнатная квартира с капитальным ремонтом — заезжай и живи!
+
+Продаётся уютная 4-комнатная квартира в Октябрьском районе. Полностью готова к проживанию — никаких дополнительных вложений не потребуется!
+
+Преимущества квартиры:
+Качественный капитальный ремонт.
+Медная электропроводка, современные дизайнерские выключатели и розетки.
+Новые светильники по всей квартире.
+Шумоизоляция пола и прочный паркетный ламинат.
+Заменена система отопления: цельнотянутые трубы и биметаллические радиаторы.
+Энергоэффективные 5-камерные окна с двухкамерными стеклопакетами.
+Панорамное остекление лоджии (окна в пол).
+Просторная гардеробная.
+Удобная и продуманная планировка, светлые комнаты.
+
+О доме и районе:
+• Ухоженный подъезд и благоустроенная придомовая территория.
+• В соседнем доме новая поликлиника.
+• Рядом три детские площадки.
+• Набережная Ульбы — отличное место для прогулок, пробежек и отдыха.
+• Магазины, школы, детские сады и остановки — всё в шаговой доступности.
+
+Юридически чистая сделка:
+
+Один взрослый собственник.
+Без обременений и долгов.
+Быстрый выход на сделку.
+
+Квартира станет отличным выбором как для большой семьи, так и для выгодной инвестиции.
+
+Торг возможен.
+
+Звоните или пишите — с удовольствием отвечу на все вопросы и организую просмотр!</description>
+    <area>
+      <value>78.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1981</built-year>
+  </offer>
   <offer internal-id="671248925">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -640,6 +746,115 @@
     <ceiling-height>3</ceiling-height>
     <built-year>2018</built-year>
     <building-name>Riviera Residence</building-name>
+  </offer>
+  <offer internal-id="671700521">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/671700521</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:52:25+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Красина, 11</address>
+      <latitude>49.958398</latitude>
+      <longitude>82.620482</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>33500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c6/c67d6cb8-3bad-4033-a56e-e534f303e9c9/18-full.jpg</image>
+    <description>3-х комнатная квартира - 65 кв. метра, расположена в тихом р-не «Тополиная роща» в центре Усть-Каменогорска (р-н автовокзала, Дв. Спорта) - Ул. Красина 11. Во дворе оборудована детская площадка. Рядом находится рынок «Заречный», за домом охраняемая автостоянка.
+4/9 этаж, домофон, лифт, Интернет, пластиковые окна, одна застекленная лоджия (лоджа смотрит во вдор) взаде дома красивый вид на Ульбинский мост.
+В квартире в октябре 2015г выполнены обновления интерьера, установлена новая сантехника. Квартира очень светлая, очень теплая даже жарка очень. Продаем кв связи с переездом в другой город.</description>
+    <area>
+      <value>65</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>9</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2004</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="671825727">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/671825727</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:36:05+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Славского 20/б</address>
+      <latitude>49.944285081674</latitude>
+      <longitude>82.613628939462</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>55000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/3c/3c627cdf-1f79-438c-9bee-871afe1236a7/11-full.jpg</image>
+    <description>кирпичный дом, 2021 г.п., состояние: черновая отделка, потолки 3м., санузел совмещенный, Риэлторам просьба не беспокоить. продажа от собственника</description>
+    <area>
+      <value>108</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2021</built-year>
   </offer>
   <offer internal-id="671957118">
     <type>продажа</type>
@@ -869,7 +1084,7 @@
     <category>квартира</category>
     <url>https://krisha.kz/a/show/672927434</url>
     <newobject-id />
-    <last-update-date>2026-11-26T07:14:11+03:00</last-update-date>
+    <last-update-date>2026-11-27T15:07:11+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -914,6 +1129,63 @@
     <ceiling-height>3</ceiling-height>
     <built-year>2016</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="673521378">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/673521378</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:53:07+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Свободы, 9</address>
+      <latitude>50.013017</latitude>
+      <longitude>82.68225</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>18800000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/80/802d1c99-61a0-457b-8864-9ee6d80642f1/17-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, встроенная кухня, новая сантехника, счётчики, тихий двор.
+
+квартиру, уютную с хорошим ремонтом, на площадке по 2 квартиры, не угловая, частично меблирована. торг уместен</description>
+    <area>
+      <value>70</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <built-year>1993</built-year>
+    <floor-covering>паркет</floor-covering>
   </offer>
   <offer internal-id="673685942">
     <type>продажа</type>
@@ -1579,6 +1851,61 @@
     <built-year>1980</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="679267931">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/679267931</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:37:09+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Тохтарова, 47</address>
+      <latitude>49.947351</latitude>
+      <longitude>82.622737</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>18900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a4/a4464762-4246-4bdd-b88f-1f99e358698c/18-full.jpg</image>
+    <description>Пластиковые окна, кухня-студия, новая сантехника, кладовка, счётчики, тихий двор, удобно под коммерцию.
+
+Продам 3хкомнатную квартиру, с отличными функциональными характеристиками, расположенную по адресу Тохтарова, 47. Перепланировка узаконена. Квартира угловая, дом кирпичный, 1/3, после капитального ремонта (пласт. окна, душевая, гардеробная, медная проводка, паркетный ламинат на полу). Квартира светлая и тёплая, адекватные соседи. Есть подсобное помещение в подвале дома. Возможно использовать для коммерческих целей. Район тихий и благополучный, оазис спокойствия среди делового центра Усть-Каменогорска. Большая и огороженная придомовая территория, есть возможность установить металлический гараж.
+Рядом находятся Центральная площадь, Арбат, парк Кирова, Диагностический центр, клиника Евромед, банки, кинотеатры и магазины. отличная транспортная развязка. Светильники и стиральная машина в подарок. Разумный торг уместен.</description>
+    <area>
+      <value>40</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <building-type>кирпичный</building-type>
+    <built-year>1962</built-year>
+  </offer>
   <offer internal-id="679347071">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -1656,6 +1983,60 @@
     <building-type>кирпичный</building-type>
     <balcony>лоджия</balcony>
     <built-year>1988</built-year>
+  </offer>
+  <offer internal-id="680690205">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/680690205</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:38:10+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Тохтарова, 47</address>
+      <latitude>49.947351</latitude>
+      <longitude>82.622737</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>18900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ff/ff10e0ba-e93b-471a-b597-2cdeeb3a3979/13-full.jpg</image>
+    <description>Пластиковые окна, новая сантехника, кладовка, счётчики, удобно под коммерцию.
+
+Продам светлую и теплую квартиру в центре города, после капитального ремонта, 9 функциональных зон, 4 спальных места, частично мебелированная, есть гардеробная. Квартира перепланирована в 3х, перепланировка узаконена, можно использовать для коммерческих целей, район тихий и экологически благополучный, рядом находятся 2 парковые зоны, удачная транспортная развязка, всё необходимое для комфортной жизни в пешей доступности. Стиральная машина и светильники в подарок. торг уместен.</description>
+    <area>
+      <value>40</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1962</built-year>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="681667028">
     <type>продажа</type>
@@ -1943,6 +2324,57 @@ Cчётчики горячей и холодной воды.
     <building-type>кирпичный</building-type>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1987</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="685638983">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/685638983</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:53:50+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Астана, 10</address>
+      <latitude>49.955190234532</latitude>
+      <longitude>82.610150175265</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2c/2c88e06a-b03b-4d8d-912d-a5d20260930e/10-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, комнаты изолированы, новая сантехника, тихий двор, удобно под коммерцию.
+
+Продам двухкомнатную квартиру в центре города, в районе Дворца спорта, рядом гостиница ;Шайна Ривер;, отделение Каспи-банка, много магазинов, парикмахерские, аптеки, кафе, автобусная остановка, тихий район, на квартире все трубы заменены, рядом садик, спорт комплекс. Квартира очень теплая, светлая, влаги нету хотя 1-ый этаж.</description>
+    <area>
+      <value>42</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1969</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="686869411">
@@ -2444,6 +2876,105 @@ Cчётчики горячей и холодной воды.
     <built-year>1975</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="689723275">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/689723275</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:54:32+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Мызы, 47</address>
+      <latitude>49.960554</latitude>
+      <longitude>82.633975</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>38900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/29-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9b25e6c4-25a9-4eb9-b62c-91c193df3739/15-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, комнаты изолированы, кухня-студия, новая сантехника, кладовка, счётчики, тихий двор, кондиционер.
+
+Просторная 4-комнатная квартира с капитальным ремонтом — заезжай и живи!
+
+Продаётся уютная 4-комнатная квартира в Октябрьском районе. Полностью готова к проживанию — никаких дополнительных вложений не потребуется!
+
+Преимущества квартиры:
+Качественный капитальный ремонт.
+Медная электропроводка, современные дизайнерские выключатели и розетки.
+Новые светильники по всей квартире.
+Шумоизоляция пола и прочный паркетный ламинат.
+Заменена система отопления: цельнотянутые трубы и биметаллические радиаторы.
+Энергоэффективные 5-камерные окна с двухкамерными стеклопакетами.
+Панорамное остекление лоджии (окна в пол).
+Просторная гардеробная.
+Удобная и продуманная планировка, светлые комнаты.
+
+О доме и районе:
+• Ухоженный подъезд и благоустроенная придомовая территория.
+• В соседнем доме новая поликлиника.
+• Рядом три детские площадки.
+• Набережная Ульбы — отличное место для прогулок, пробежек и отдыха.
+• Магазины, школы, детские сады и остановки — всё в шаговой доступности.
+
+Юридически чистая сделка:
+
+Один взрослый собственник.
+Без обременений и долгов.
+Быстрый выход на сделку.
+
+Квартира станет отличным выбором как для большой семьи, так и для выгодной инвестиции.
+
+Торг возможен.
+
+Звоните или пишите — с удовольствием отвечу на все вопросы и организую просмотр!</description>
+    <area>
+      <value>78.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <built-year>1981</built-year>
+  </offer>
   <offer internal-id="689926222">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -2811,6 +3342,55 @@ Cчётчики горячей и холодной воды.
     <ceiling-height>2.8</ceiling-height>
     <built-year>2007</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="692742098">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/692742098</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:39:11+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Сатпаева, 55/12</address>
+      <latitude>49.92670025458</latitude>
+      <longitude>82.626800100583</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>33400000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a6/a6235cbb-2991-4088-a5d3-50414c2583e4/8-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, кухня-студия, встроенная кухня, новая сантехника, счётчики, тихий двор, кондиционер.
+
+Новая отличная квартира-студия с отдельной спальней со встроенными шкафами. Кухня студия. Ремонт сделан профессионалами. Бытовую технику, мебель и стройматериалы выбирали самые качественные. Очень теплая. Подъехать к дому можно с двух широких автомагистралей. Два лифта. Удобные подъездные площадки. На воду установлены мощные аквафильтры</description>
+    <area>
+      <value>54</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>12</floor>
+    <floors-total>16</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>лоджия</balcony>
+    <built-year>2023</built-year>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="693202885">
     <type>продажа</type>
@@ -3229,6 +3809,52 @@ Cчётчики горячей и холодной воды.
     <building-type>панельный</building-type>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1980</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="694825293">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/694825293</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:55:08+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Нуржау, 19</address>
+      <latitude>49.873995</latitude>
+      <longitude>82.48534</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>25000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c9/c942f991-4cf2-473a-82fd-1d5603826213/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c9/c942f991-4cf2-473a-82fd-1d5603826213/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c9/c942f991-4cf2-473a-82fd-1d5603826213/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c9/c942f991-4cf2-473a-82fd-1d5603826213/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c9/c942f991-4cf2-473a-82fd-1d5603826213/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/c9/c942f991-4cf2-473a-82fd-1d5603826213/6-full.jpg</image>
+    <description>панельный дом, 1990 г.п., потолки 2.5м., санузел раздельный, телефон: есть возможность подключения, интернет ADSL, меблирована частично, Продам хорошую квартиру 3х комнатную, можно оформить через ипотеку, остальные вопросы по телефону</description>
+    <area>
+      <value>65</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1990</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="695022529">
@@ -5204,57 +5830,6 @@ ____
     <built-year>1968</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
-  <offer internal-id="761035201">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <url>https://krisha.kz/a/show/761035201</url>
-    <newobject-id />
-    <last-update-date>2026-11-26T08:17:52+03:00</last-update-date>
-    <location>
-      <country>Казахстан</country>
-      <region>Восточно-Казахстанская область</region>
-      <locality-name>Усть-Каменогорск</locality-name>
-      <address>Сатпаева, 6</address>
-      <latitude>49.898796</latitude>
-      <longitude>82.621884</longitude>
-    </location>
-    <sales-agent>
-      <phone />
-      <category>владелец</category>
-      <agency-id />
-      <url />
-    </sales-agent>
-    <price>
-      <value>27500000</value>
-      <currency>KZT</currency>
-    </price>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/1-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/2-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/3-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/4-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/5-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/6-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/7-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/8-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/9-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/10-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/11-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/12-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cf/cf982dc2-cd4d-415a-9290-c8cef3b9a889/13-full.jpg</image>
-    <description>кирпичный дом, 1990 г.п., состояние: свежий ремонт, потолки 2.5м., санузел раздельный, интернет ADSL, меблирована полностью, Удобно расположена, надежный дом, хорошие соседи, все рядом, мебель частично остается, документы в порядке, не в залоге, перепланировка узаконенна</description>
-    <area>
-      <value>69</value>
-      <unit>кв.м</unit>
-    </area>
-    <rooms>3</rooms>
-    <bathroom-unit>раздельный</bathroom-unit>
-    <floor>9</floor>
-    <floors-total>9</floors-total>
-    <building-type>кирпичный</building-type>
-    <ceiling-height>2.5</ceiling-height>
-    <built-year>1990</built-year>
-  </offer>
   <offer internal-id="761045196">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -6167,6 +6742,161 @@ ____
     <built-year>1991</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1000481489">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1000481489</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:55:51+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Кожедуба, 54</address>
+      <latitude>49.942215</latitude>
+      <longitude>82.662658</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>14600000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/20/204889c8-c5fe-4047-8877-dbf30422f382/18-full.jpg</image>
+    <description>Пластиковые окна, не угловая, кухня-студия, счётчики, тихий двор, кондиционер.
+
+Продам уютную квартиру студию с прекрасным видом на город, расположенную в одном из самых чистых районов города. Тихий двор, спокойные соседи. Очень теплая и светлая квартира
+Цена окончательная</description>
+    <area>
+      <value>37</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>6</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1994</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1000494225">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1000494225</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:41:14+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>30гвардейский дивизии, 20</address>
+      <latitude>49.961753</latitude>
+      <longitude>82.596847</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/0a/0a3710b6-eaec-468c-822c-7c8c7885a10e/14-full.jpg</image>
+    <description>1969 г.п., потолки 2.5м., санузел совмещенный, интернет через TV кабель, С ремонтом</description>
+    <area>
+      <value>44</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1969</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1000533199">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1000533199</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:42:16+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Крылова, 45</address>
+      <latitude>49.944812</latitude>
+      <longitude>82.614823</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>23000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/632ce5e9-ba2a-40cb-acba-9a2a08548ddd/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/632ce5e9-ba2a-40cb-acba-9a2a08548ddd/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/63/632ce5e9-ba2a-40cb-acba-9a2a08548ddd/3-full.jpg</image>
+    <description>Продам уютную, очень тёплую квартиру. Светлая и тихая. Натяжные потолки, пластиковые окна, зашитый пластиком утеплённый балкон. Вблизи все необходимое для удобной жизни: ресторан, школа, детсад, поликлиника, магазины и казпочта.</description>
+    <area>
+      <value>48</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1967</built-year>
+  </offer>
   <offer internal-id="1000592891">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -6270,6 +7000,67 @@ ____
     <ceiling-height>2.7</ceiling-height>
     <built-year>2014</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1000719620">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1000719620</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:43:17+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Жибек Жолы, 9</address>
+      <latitude>49.930119317524</latitude>
+      <longitude>82.614737119775</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>27000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/5785a10a-dd15-47fa-b6ce-34ead1c06955/18-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, встроенная кухня, кладовка, счётчики, тихий двор, кондиционер.
+
+Продам шикарную квартиру. Большая кухня. Зал. Спальня. Есть 2 кладовые комнаты со встроенными полками. Квартира в теневой стороне. Теплая. Уютная. Большие санузлы. Рядом с домом садик. Магнум 24/7 супермаркет. Все вопросы по телефону. Срочно. В залоге в бцк банке 19.5 млн</description>
+    <area>
+      <value>66.8</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>8</floor>
+    <floors-total>10</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2020</built-year>
+    <building-name>Ertis City</building-name>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="1000835687">
     <type>продажа</type>
@@ -7562,6 +8353,52 @@ ____
     <built-year>1972</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1004304857">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1004304857</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:56:33+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Пр. Назарбаева, 54</address>
+      <latitude>49.969825</latitude>
+      <longitude>82.593991</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>35000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/68/68830f6b-32e9-4bf2-8140-4c67aa752223/9-full.jpg</image>
+    <description>Ремонт косметический, двор тихий с хорошей детской площадкой имеется вся инфраструктура в шаговой доступности, ремонт крыши, подвала установлены общедомовой счётчик на тепло, в квартире имеются счётчики воды, долгов, обременений нет. Тел. риелторов просьба не беспокоить</description>
+    <area>
+      <value>69.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>4</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.8</ceiling-height>
+    <built-year>1959</built-year>
+  </offer>
   <offer internal-id="1004385878">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -7741,6 +8578,77 @@ ____
     <built-year>1960</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1004745019">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1004745019</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:44:19+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Сатпаева, 14</address>
+      <latitude>49.902086</latitude>
+      <longitude>82.623761</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>30000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/8c/8cedc1c1-8ed6-4b34-a032-e7aa0b319756/28-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, встроенная кухня, тихий двор.
+
+Продается 3х комнатная квартира в центре района КШТ. Крыша идеальная. Просторная, теплая квартира со свежим ремонтом. Имеется лоджия и балкон. Тихий двор, в доме расположено библиотека им. Оралхана Бокея. В шаговом доступности: продуктовые магазины, школы, садики, банкетные залы, автосалоны, казпочта и один из самых главных автобусная остановка.
+
+РИЕЛТОРЫ И ВСЯКИЕ КОМПАНИЙ НЕ БЕСПОКОЙТЕ!</description>
+    <area>
+      <value>70</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <built-year>1978</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1004870461">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -7860,7 +8768,7 @@ ____
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1005107510</url>
     <newobject-id />
-    <last-update-date>2026-11-26T08:22:42+03:00</last-update-date>
+    <last-update-date>2026-11-27T15:12:09+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -9692,13 +10600,56 @@ ____
     <built-year>2010</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1008654895">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1008654895</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:45:20+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Островского, 34/3</address>
+      <latitude>49.899375259462</latitude>
+      <longitude>82.683308755818</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>13900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57f1eac4-6cf8-4a92-87b7-5e5e9291d166/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57f1eac4-6cf8-4a92-87b7-5e5e9291d166/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57f1eac4-6cf8-4a92-87b7-5e5e9291d166/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/57/57f1eac4-6cf8-4a92-87b7-5e5e9291d166/5-full.jpg</image>
+    <renovation>требует ремонта</renovation>
+    <description>пол утеплён керамзитом и сделана стяжка, все трубы заменены и батареи, окна новые трёх слойный стеклопакет качественный профиль, необходим ремонт, квартира очень теплая. Рядом больница, школа, магазины, остановка, хороший торг</description>
+    <area>
+      <value>51</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>6</floors-total>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1995</built-year>
+  </offer>
   <offer internal-id="1008724115">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1008724115</url>
     <newobject-id />
-    <last-update-date>2026-11-26T20:46:07+03:00</last-update-date>
+    <last-update-date>2026-11-27T15:20:58+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -11752,6 +12703,66 @@ ____
     <built-year>1972</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1010914921">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1010914921</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:46:03+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Михаэлиса, 18/1</address>
+      <latitude>49.967316</latitude>
+      <longitude>82.606558</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>18000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b4/b432da12-b510-4cf4-a20c-7a1cb2e9ffe2/15-full.jpg</image>
+    <description>Срочно!Продам квартиру светлую и теплую в хорошем районе. Удобная планировка. В квартире сделан аккуратный ремонт.
+Преимущества: пластиковые окна, хорошие соседи, есть балкон, удобный этаж, чистый подъезд.
+Рядом находятся школы и садики …больница, рынок и торговые дома!
+Улица не шумная и все находится в шаговой доступности !
+Двор - есть парковка и детская площадка.
+Прошу риэлторов не беспокоить!
+Подходит под ипотеку (Отбасы Банк и др)</description>
+    <area>
+      <value>44.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1977</built-year>
+  </offer>
   <offer internal-id="1010956060">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -12398,6 +13409,77 @@ ____
     <building-name>DOSTAR-CITY</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1011346869">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1011346869</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:46:45+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Славского, 24</address>
+      <latitude>49.94436</latitude>
+      <longitude>82.60813</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>18144000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7e/7e57e10e-004d-42b5-ac9b-f11ffac92cb2/20-full.jpg</image>
+    <description>Пластиковые окна, не угловая, кухня-студия, встроенная кухня, новая сантехника, кладовка, счётчики, тихий двор, кондиционер.
+
+Продаётся 1 комнатная квартира-студия после капитального ремонта, новое абсолютно все. Окна, батареи, трубы, сантехника, электрика, пол, потолок, мебель, входная дверь с электронным замком, балкон.
+
+Готовый бизнес под ключ. Можно использовать под посуточную сдачу или для себя, кто любит комфорт и уют.
+
+Окна выходят на набережную Иртыша с видом на реку.
+
+Солнечная, тёплая, даже на балконе зимой тепло. Стены с соседями шумоизолированы. Новая мебель и декор все уже подобраны для вас.
+
+Удобная инфраструктура, лучший район.
+
+Риелторов просьба не беспокоить.</description>
+    <area>
+      <value>31</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1971</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1011476093">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -12576,6 +13658,59 @@ ____
     <ceiling-height>2.8</ceiling-height>
     <built-year>2024</built-year>
     <building-name>Avenue</building-name>
+  </offer>
+  <offer internal-id="1011564339">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1011564339</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:57:58+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Крылова, 87/1</address>
+      <latitude>49.9476</latitude>
+      <longitude>82.607151</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>34000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/13/1320ef48-aca0-484c-a4fa-e1d37f5ef28e/19-full.jpg</image>
+    <description>кирпичный дом, 1996 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., Продам трехкомнатную квартиру. Очень теплая. Лоджия большая. Рядом школа, больница, магазины, аптеки, остановка</description>
+    <area>
+      <value>69</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1996</built-year>
   </offer>
   <offer internal-id="1011599543">
     <type>продажа</type>
@@ -13406,6 +14541,68 @@ ____
     <built-year>1986</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1012061996">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012061996</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:58:40+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Энтузиастов, 7</address>
+      <latitude>49.895123</latitude>
+      <longitude>82.660655</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>31000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/5b/5ba604a0-80b7-4e91-a2ed-4c83a85f5465/20-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, встроенная кухня, новая сантехника, кладовка, счётчики, тихий двор.
+
+Продается светлая просторная 3х комн. Квартира с ремонтом, встроенной мебелью. Окна выходят во двор и на улицу что обеспечивает отличную циркуляцию воздуха. Красивый вид с окна на Иртыш и горы. Идеальная планировка для тех, кто любит естественный свет. Тихий район, рядом нет шумных новостроек. В шаговой доступности школа, больница и магазины. Во дворе большое парковочное место для авто, новая игровая площадка. Экологически чистый и тихий район. Рядом аллея для пешей прогулки. Эта квартира создана для тех, кто ценит покой и качество жизни. Звоните, чтобы увидеть этот вид своими глазами.</description>
+    <area>
+      <value>62</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>4</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1993</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
   <offer internal-id="1012064372">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -13649,6 +14846,53 @@ ____
     <ceiling-height>2.7</ceiling-height>
     <built-year>2018</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1012153284">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012153284</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:59:23+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Просп. Каныша Сатпаева, 52</address>
+      <latitude>49.906018168489</latitude>
+      <longitude>82.622649342396</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f9/f9f0bfee-548c-4625-8f5f-e70169caff5c/8-full.jpg</image>
+    <description>1985 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел совмещенный, меблирована полностью, Продам 1, 5 5/5 34 кв м Балкон 1985 год постройки. Меблированна Квартира в хорошем состоянии Пишите, договоримся на осмотр квартиры Лучше писать, телефон могу не взять!</description>
+    <area>
+      <value>34</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1985</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1012179674">
     <type>продажа</type>
@@ -14107,6 +15351,56 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1970</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1012398590">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012398590</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:00:06+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Аль-Фараби, 18</address>
+      <latitude>49.88878</latitude>
+      <longitude>82.605579</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>37000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/2e/2e48c68c-ca9a-4930-a2a1-0a93c56bc3af/9-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, встроенная кухня, кладовка.
+
+Квартира уютная, теплая. Удобное расположение, школы 46 и 48, детский сад, дзюдо центр находятся рядом, к концу года планируется открытие воллейбольного центра! Остановка в шаговой доступности. Не в залоге, документы в порядке! Реальному покупателю возможен небольшой торг!</description>
+    <area>
+      <value>83</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>2021</built-year>
   </offer>
   <offer internal-id="1012565213">
     <type>продажа</type>
@@ -15013,6 +16307,64 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1996</built-year>
   </offer>
+  <offer internal-id="1013126734">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013126734</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:47:28+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Новотров, 4</address>
+      <latitude>49.947797</latitude>
+      <longitude>82.648069</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>36000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/50/5054316b-2767-425d-8c1b-6e32593f03f3/20-full.jpg</image>
+    <description>Пластиковые окна, не угловая, кухня-студия, кладовка, тихий двор, кондиционер, удобно под коммерцию.
+
+срочно продается квартира, хороший район</description>
+    <area>
+      <value>84</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>1</floor>
+    <building-type>панельный</building-type>
+    <built-year>1985</built-year>
+    <floor-covering>паркет</floor-covering>
+  </offer>
   <offer internal-id="1013165973">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -15593,6 +16945,49 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1991</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1013464560">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013464560</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:48:10+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Есенберлина, 28/1</address>
+      <latitude>49.9092196755</latitude>
+      <longitude>82.609749921664</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>71000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bc13704-0e03-4d4a-ad28-8fd198d6c799/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bc13704-0e03-4d4a-ad28-8fd198d6c799/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bc13704-0e03-4d4a-ad28-8fd198d6c799/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9b/9bc13704-0e03-4d4a-ad28-8fd198d6c799/4-full.jpg</image>
+    <description>жил. комплекс Prime Home, монолитный дом, 2024 г.п., потолки 3.3м., санузел 2 с/у и более, Есть несколько готовых вариантов планировок Рассмотрим обмен на дом Риелторов просьба не беспокоить</description>
+    <area>
+      <value>146</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <floor>11</floor>
+    <floors-total>13</floors-total>
+    <building-type>монолит</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>3.3</ceiling-height>
+    <built-year>2024</built-year>
+    <building-name>Prime Home</building-name>
   </offer>
   <offer internal-id="1013474666">
     <type>продажа</type>
@@ -16773,6 +18168,74 @@ ____
     <built-year>1991</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1014154712">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014154712</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:00:49+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бажова, 347/3</address>
+      <latitude>50.011952</latitude>
+      <longitude>82.54143</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>17000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/eb/eb821933-0e9f-4daa-b899-27fc05a3ae07/10-full.jpg</image>
+    <description>Пластиковые окна, не угловая, тихий двор.
+
+Продается светлая и уютная 2-комнатная квартира
+• Квартира очень теплая и уютная, с удобной планировкой-окна выходит на две стороны. Балкон и лоджия полностью застеклены пластиковыми
+окнами. На балконе удобный шкаф для хранения. Квартира не угловая. Большая парковка.
+О квартире
+Аккуратный ремонт заходите и живите
+Пластиковые окна
+На полу- линолеум
+Большая лоджия
+Аккуратный и ухоженный подъезд
+Частично меблировано (остается кухня, стол, диван, кресло, прихожая, стиральная машина, холодильник)
+Большая парковка
+В шаговой доступности:
+Рядом школа 27 и детский сад о Остановка в 100 метрах от дома, автобусы:
+12, 7, 39, 2, 351, 9.
+• Подходит под ипотеку
+
+Цена окончательно!
+Ниже рынока</description>
+    <area>
+      <value>57</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>6</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2013</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1014155657">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -16863,6 +18326,80 @@ ____
     <building-type>панельный</building-type>
     <balcony>балкон</balcony>
     <built-year>1981</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1014217853">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014217853</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:01:31+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бориса Александрова, 1</address>
+      <latitude>49.959569</latitude>
+      <longitude>82.618955</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>9100000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9a/9a0c1e2f-2923-49dd-9ca4-e1014c8bae1a/9-full.jpg</image>
+    <description>Продаётся уютная 1-комнатная квартира — «Заходи и живи!»
+
+Идеальный вариант как для собственного комфортного проживания, так и для выгодной сдачи в аренду!
+
+Главные преимущества:
+
+Полная комплектация: Остаётся вся мебель и техника (включая стиральную машину и холодильник) — никаких дополнительных вложений и хлопот с переездом!
+
+Живописное место: В шаговой доступности красивая набережная — прекрасное место для прогулок и утренних пробежек.
+
+Развитая инфраструктура (всё в пешей доступности):
+
+Медицина и здоровье: Первая городская больница, медицинский центр «Пульс», а также стоматологии «Concise» и «Asteria».
+
+Транспорт: Автовокзал, а также удобные остановки автобусов и трамваев прямо рядом с домом.
+
+Магазины и рынки: Круглосуточный продуктовый магазин NarMarket, развлекательный центр Kids Boom во дворе. В шаговой доступности ТД «Даниель», «Тамерлан», «Технодом», «Старт», «Глобус» и рынок «Заречный».
+
+Образование: Колледж сферы обслуживания и детский сад №62.
+
+Досуг и сервис: Кафе и рестораны (от кавказской кухни до суши и пиццы), а также автосервисы, шиномонтаж и АЗС.
+
+Почему стоит выбрать именно эту квартиру? Вы покупаете готовое жилье в одном из самых удобных районов города, где всё необходимое — от клиник до крупных магазинов — находится буквально у порога.
+
+Звоните или пишите, чтобы записаться на просмотр!
+АГЕНТСТВА НЕ БЕСПОКОИТЬ</description>
+    <area>
+      <value>33.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>9</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1014275379">
@@ -18470,6 +20007,78 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1984</built-year>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1014844709">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014844709</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:27:33+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Нова ахмирова, 3</address>
+      <latitude>49.93673835179</latitude>
+      <longitude>82.500016389582</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>16500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/f7/f749fea2-5215-4ae1-979c-000a991fbd4d/13-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, тихий двор.
+
+СРОЧНО ПРОДАЁТСЯ! 3-КОМНАТНАЯ КВАРТИРА
+Нова Ахмирова, 3
+Просторная 3-комнатная квартира 60 м² на 4 этаже из 5.
+Квартира не угловая, очень тёплая и светлая, с удобной планировкой.
+3 комнаты
+Пластиковые окна
+Застеклённый балкон
+Раздельный санузел
+Косметический ремонт
+Линолеум
+Вся мебель остаётся — можно сразу заезжать и жить
+Дом кирпичный
+Домофон, интернет
+Тихий двор
+Всё необходимое рядом: остановка, школы, детские сады, магазины.
+Подходит под ипотеку.
+Цена обсуждается с реальным покупателем.
+Звоните, квартира действительно уютная и тёплая. Хороший вариант для семьи!</description>
+    <area>
+      <value>60</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1974</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1014887141">
     <type>продажа</type>
@@ -21028,6 +22637,77 @@ ____
     <building-type>панельный</building-type>
     <built-year>1968</built-year>
     <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1015582440">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015582440</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:48:52+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Есенберлина, 94</address>
+      <latitude>49.921075166444</latitude>
+      <longitude>82.61877424088</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>47000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/18/18746a2b-adc5-4c63-a430-45948828a5f1/22-full.jpg</image>
+    <description>СРОЧНО ПРОДАМ 2-КОМНАТНУЮ КВАРТИРУ С ШИКАРНЫМ РЕМОНТОМ!
+
+ЖК Viva Park, район КШТ (Тенисный центр)
+
+• Площадь: 74, 4 м²
+• Этаж: 3 из 10
+• Удобная планировка — распашонка
+• Дизайнерский ремонт, выполненный с особым вниманием к деталям
+• Светлая, просторная и уютная квартира
+
+Все документы в полном порядке, готовы к сделке.
+
+Квартира для тех, кто ценит комфорт, качество и эстетику. Заезжай и живи — никаких дополнительных вложений!</description>
+    <area>
+      <value>74</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>3</floor>
+    <floors-total>9</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2024</built-year>
+    <building-name>Viva Park</building-name>
   </offer>
   <offer internal-id="1015583632">
     <type>продажа</type>
@@ -24107,6 +25787,55 @@ ____
     <building-name>Riviera Residence</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1016289593">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016289593</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:02:13+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Микояна, 12</address>
+      <latitude>49.971952</latitude>
+      <longitude>82.579519</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>12000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/26/26353036-44b0-4507-bce9-ef6673769bb6/8-full.jpg</image>
+    <description>Продается однокомнатная квартира, на комфортном 3 этаже в пятиэтажном кирпичном доме, вся квартира на солнечную сторону, окна пластик, балкон застеклен, квартира теплая, не угловая! На первом этаже дома продуктовый магазин. Так же на одной площадке продаем трехкомнатную квартиру.
+Разумный торг!</description>
+    <area>
+      <value>30</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1973</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1016306184">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -24298,20 +26027,20 @@ ____
     <built-year>2009</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
-  <offer internal-id="1016319254">
+  <offer internal-id="1016317812">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <url>https://krisha.kz/a/show/1016319254</url>
+    <url>https://krisha.kz/a/show/1016317812</url>
     <newobject-id />
-    <last-update-date>2026-11-26T08:33:25+03:00</last-update-date>
+    <last-update-date>2026-11-27T14:49:35+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
       <locality-name>Усть-Каменогорск</locality-name>
-      <address>Геологическая, 2</address>
-      <latitude>49.933999</latitude>
-      <longitude>82.669728</longitude>
+      <address>Сатпаева, 60</address>
+      <latitude>49.905765</latitude>
+      <longitude>82.621362</longitude>
     </location>
     <sales-agent>
       <phone />
@@ -24320,43 +26049,36 @@ ____
       <url />
     </sales-agent>
     <price>
-      <value>13500000</value>
+      <value>24000000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/1-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/2-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/3-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/4-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/5-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/6-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/7-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/8-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/9-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/10-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/11-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/12-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/13-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/14-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/15-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/16-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/17-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/18-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/19-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/20-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/44/448ec849-a95e-41df-8e9d-62a52909d129/21-full.jpg</image>
-    <description>кирпичный дом, 1983 г.п., потолки 2.5м., санузел совмещенный, меблирована частично, Продам 1, 5 комнатную квартиру. Торг уместен</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f054fd9-e98a-485b-a460-53b1ca027e7d/12-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, встроенная кухня, счётчики, тихий двор.
+
+Продам 2х комнатную квартиру, улучшенной планировки. По адресу Сатпаева 60.Первый подъезд. Квартира не угловая.3 этаж из 5. В доме находится магазин Айлин. Рядом школа №24, хоккейный модуль. Магазин Fix Price, Magnum.Площадь квартиры 47, 8.Пластиковые окна, лоджия три метра застекленная. В квартире остается встроенная кухня, в коридоре шкаф купе и угловой шкаф. Квартира теплая. Реальному покупателю хороший торг.</description>
     <area>
-      <value>32</value>
+      <value>47.8</value>
       <unit>кв.м</unit>
     </area>
-    <rooms>1</rooms>
-    <bathroom-unit>совмещенный</bathroom-unit>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
     <floor>3</floor>
     <floors-total>5</floors-total>
-    <building-type>кирпичный</building-type>
-    <balcony>балкон</balcony>
+    <building-type>панельный</building-type>
+    <balcony>лоджия</balcony>
     <ceiling-height>2.5</ceiling-height>
-    <built-year>1983</built-year>
+    <built-year>1984</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1016353800">
@@ -24757,6 +26479,99 @@ ____
     <floors-total>5</floors-total>
     <building-type>панельный</building-type>
     <built-year>1964</built-year>
+  </offer>
+  <offer internal-id="1016431296">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016431296</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:02:56+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Казахстан, 72</address>
+      <latitude>49.950875</latitude>
+      <longitude>82.631774</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>20600000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cc/cc9df0c7-5c8e-4ec9-8f95-97c8dc532950/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cc/cc9df0c7-5c8e-4ec9-8f95-97c8dc532950/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cc/cc9df0c7-5c8e-4ec9-8f95-97c8dc532950/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cc/cc9df0c7-5c8e-4ec9-8f95-97c8dc532950/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cc/cc9df0c7-5c8e-4ec9-8f95-97c8dc532950/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cc/cc9df0c7-5c8e-4ec9-8f95-97c8dc532950/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cc/cc9df0c7-5c8e-4ec9-8f95-97c8dc532950/17-full.jpg</image>
+    <description>Риэлторам не беспокоить. Продам 1 комн кв, в центре города. В среднем подъезде, средний этаж. Окна во двор, парковка внизу. В подъезде сделан ремонт, два лифта работают, парковка под окнами, окна во двор, где зелень. Общедомовой счетчик тепла. Обмен только на речной или стрелку с видом на р. Иртыш не 1й этаж.</description>
+    <area>
+      <value>33</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>12</floor>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1984</built-year>
+  </offer>
+  <offer internal-id="1016433921">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016433921</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:03:38+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Назарбаева, 18</address>
+      <latitude>49.959603</latitude>
+      <longitude>82.606756</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>17500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/ad/ad6813f4-754f-4203-8e03-f5cf4532a7a6/11-full.jpg</image>
+    <description>В залоге , кирпичный дом, 1961 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел совмещенный, меблирована частично, В хорошем состоянии</description>
+    <area>
+      <value>45</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1961</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1016444783">
     <type>продажа</type>
@@ -26643,6 +28458,106 @@ ____
     <built-year>1959</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1016792950">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016792950</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:04:21+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Кожедуба</address>
+      <latitude>49.941626905341</latitude>
+      <longitude>82.663640695707</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>11500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d246ccf9-f868-41ce-8499-e3714140dee6/9-full.jpg</image>
+    <description>панельный дом, 1985 г.п., 1 комнатная квартира, пластиковые окна, экологически чистый район, средний этаж, зимой очень тепло. Документы в порядке, можно в ипотеку</description>
+    <area>
+      <value>33.6</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <built-year>1985</built-year>
+  </offer>
+  <offer internal-id="1016796909">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016796909</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:28:35+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Есенберлина, 8/2</address>
+      <latitude>49.890204005105</latitude>
+      <longitude>82.600026729185</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>33000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1fcc6763-94d4-4217-acb1-b14a0712e3f2/13-full.jpg</image>
+    <description>Пластиковые окна, встроенная кухня, тихий двор.
+
+Продам светлую, теплую 4-х комнатную квартиру. Встроенная мебель остается в квартире. В шаговой доступности магазины, аптека, школа, садик, останока. Стоит в залоге в отбасы банке. Остаток 3 500 000. С залога снимается быстро.</description>
+    <area>
+      <value>78</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>2016</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1016816681">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -27149,6 +29064,52 @@ ____
     <building-name>Ertis City</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1016893521">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016893521</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:29:57+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бажова, 333/3</address>
+      <latitude>50.009943</latitude>
+      <longitude>82.549973</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>19000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8cd74f9-2831-45e5-b7df-a07172592bed/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8cd74f9-2831-45e5-b7df-a07172592bed/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8cd74f9-2831-45e5-b7df-a07172592bed/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8cd74f9-2831-45e5-b7df-a07172592bed/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8cd74f9-2831-45e5-b7df-a07172592bed/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8cd74f9-2831-45e5-b7df-a07172592bed/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8cd74f9-2831-45e5-b7df-a07172592bed/7-full.jpg</image>
+    <description>Продам 2х комнатную квартиру улучшенной планировки на 3 этаже в 5 этажном кирпичном доме по улице Бажова 333/3. Квартира светлая, теплая, сделан хороший ремонт, частично меблирована. Оставляем шкаф-купе, кухонный гарнитур. Общая площадь 47, 3 кв. м. Кухня 9кв. м. Большая лоджия 6кв. м. Железная дверь. В шаговой доступности СШ 27, автобусная остановка. Хорошие соседи, тихий двор.</description>
+    <area>
+      <value>47.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1980</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1016896027">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -27356,6 +29317,52 @@ ____
     <built-year>2023</built-year>
     <building-name>Novy Bereg</building-name>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1016934326">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016934326</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:30:58+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>жастар, 16</address>
+      <latitude>49.905463</latitude>
+      <longitude>82.615452</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>28000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9d/9de2f4c6-75d9-498b-a413-e156f63080c5/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/9d/9de2f4c6-75d9-498b-a413-e156f63080c5/2-full.jpg</image>
+    <renovation>требует ремонта</renovation>
+    <description>Пластиковые окна, не угловая.
+
+Продам 3-х комнатную квартиру на 4 этаже 5 дома КШТ ул. Жастар (Комсомольская) 16 Тёплый дом, тихий двор и хорошие соседи. Остановка, магазин, больница, рынок рядом. ИПОТЕКА В ЛЮБОМ БАНКЕ. Цена 28 млн. тг.
+Звоните, пишите</description>
+    <area>
+      <value>69</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1990</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1016950675">
     <type>продажа</type>
@@ -27664,6 +29671,73 @@ ____
     <floors-total>5</floors-total>
     <building-type>панельный</building-type>
     <built-year>1974</built-year>
+  </offer>
+  <offer internal-id="1017007968">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017007968</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:50:17+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Илияса Есенберлина, 66</address>
+      <latitude>49.917891466672</latitude>
+      <longitude>82.615713623462</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>27500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/b8/b87272ac-842f-4dff-bdee-c63aee81ebaf/10-full.jpg</image>
+    <description>Пластиковые окна, кухня-студия, встроенная кухня, новая сантехника, тихий двор, кондиционер.
+
+Продаётся евро 2-комнатная квартира в новом ЖК — 51 м²!
+
+Современная квартира после свежего ремонта, полностью готовая к заселению!
+
+Общая площадь — 51 м²
+9 этаж из 10
+Просторная кухня-студия
+Отдельная изолированная комната
+Утеплённый балкон
+Вся мебель и бытовая техника остаются новым владельцам!
+
+Никаких дополнительных вложений — заезжайте и живите!
+
+Развитая инфраструктура: рядом ТРЦ Maxi Mall, школы, детские сады, аптеки и магазины. Всё необходимое для комфортной жизни в шаговой доступности.
+Продаю в связи с переездом. Звоните или пишите .</description>
+    <area>
+      <value>51</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>9</floor>
+    <floors-total>10</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.9</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>SANA</building-name>
+    <floor-covering>ламинат</floor-covering>
   </offer>
   <offer internal-id="1017026131">
     <type>продажа</type>
@@ -29124,6 +31198,56 @@ ____
     <built-year>2024</built-year>
     <building-name>Deluxe Town</building-name>
   </offer>
+  <offer internal-id="1017205404">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017205404</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:32:00+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Островского, 10</address>
+      <latitude>49.892146</latitude>
+      <longitude>82.695752</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>18000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/86/8664eed1-1ca6-464e-9493-dc3aeb6837dd/10-full.jpg</image>
+    <description>Продам 2 х комнатную квартиру БЕЗ посредников.
+Хорошая СКИДКА за НАЛИЧНЫЙ расчет!
+Квартира очень тёплая и светлая, площадь 47, 3 кВ санузел раздельный.
+Прямо за домом находится садик и 13 школа, очень удобно и безопасно для детей. В шаговой доступности автобусная остановки. Очень удобно под сдачу в аренду. Обращаться по телефону, Жазира</description>
+    <area>
+      <value>48.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1996</built-year>
+  </offer>
   <offer internal-id="1017220040">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -30172,6 +32296,54 @@ ____
     <built-year>2023</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1017396315">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017396315</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:51:00+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Льва Толстого, 7</address>
+      <latitude>49.948249</latitude>
+      <longitude>82.651339</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>19000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/28/2831d964-78f9-4a9c-bf0b-30c035008158/14-full.jpg</image>
+    <description>В залоге , панельный дом, 1988 г.п., состояние: не новый, но аккуратный ремонт, потолки 2.5м., санузел раздельный, интернет проводной, меблирована полностью, Продам квартиру. Пишите звоните. Она в залоге. Либо закроем залог и можно в ипотеку</description>
+    <area>
+      <value>50</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1017404478">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -30568,6 +32740,66 @@ ____
     <building-type>панельный</building-type>
     <ceiling-height>2.5</ceiling-height>
     <built-year>1986</built-year>
+  </offer>
+  <offer internal-id="1017466024">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017466024</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:33:01+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Оралхан Бокея, 25</address>
+      <latitude>49.899231</latitude>
+      <longitude>82.613646</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>21500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/66/665589c0-b273-4aef-93e3-9f417ef2b6a9/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/66/665589c0-b273-4aef-93e3-9f417ef2b6a9/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/66/665589c0-b273-4aef-93e3-9f417ef2b6a9/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/66/665589c0-b273-4aef-93e3-9f417ef2b6a9/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/66/665589c0-b273-4aef-93e3-9f417ef2b6a9/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/66/665589c0-b273-4aef-93e3-9f417ef2b6a9/22-full.jpg</image>
+    <description>Не угловая, комнаты изолированы, тихий двор.
+
+‼СРОЧНО ПРОДАЕМ‼
+
+Продаётся уютная 2-комнатная квартира в удобном районе. Квартира распашонка, не угловая — окна выходят на две стороны, благодаря чему квартира светлая и хорошо проветривается. Тихий и безопасный двор.
+
+Инфраструктура:
+- Средняя школа Nº26, школа «НурОрда», лицей Nº44.
+- ТД «Океан», «Достык», «Айгерим»
+- детский сад;
+- детская областная больница;
+- стоматология;
+- аптеки;
+- остановки общественного транспорта.
+
+Удобное расположение для комфортного проживания. Всё необходимое — рядом.</description>
+    <area>
+      <value>54</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
   </offer>
   <offer internal-id="1017482241">
     <type>продажа</type>
@@ -32430,6 +34662,78 @@ ____
     <ceiling-height>2.5</ceiling-height>
     <built-year>1992</built-year>
   </offer>
+  <offer internal-id="1017613096">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017613096</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T15:05:46+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>О Бокея</address>
+      <latitude>49.900577</latitude>
+      <longitude>82.611867</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>23000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1d/1d2e4b8d-3570-4683-8dcf-a1196f076aa8/21-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, кухня-студия, новая сантехника, кладовка, счётчики, тихий двор, кондиционер, удобно под коммерцию.
+
+Продается абсолютно новая, светлая 1-комнатная квартира (34 м², 5/5 этаж, панельный дом) с премиальным дизайнерским ремонтом в самом востребованном районе города — КШТ (ул. Утепова, 31). После ремонта в квартире еще никто не жил!
+
+Видео обзор от дизайнера https://www.gram.com/reel/DfmowviuBok/?avpt=MXZkdTVlZG8yMTVneg==
+
+Последний этаж гарантирует полную тишину без соседей сверху и максимум света в двух больших окнах. Это готовый высокодоходный бизнес для посуточной аренды с высоким чеком или идеальное пространство для жизни. Квартира полностью укомплектована для приема гостей с первого дня — без вложений и ожидания.
+Фишки интерьера и комплектация (все как на фото) :
+• Спальная зона: парящая кровать с LED-подсветкой, акцентная стена с фактурной 3D-скалой и раскладной диван (всего 4 спальных места).
+• Дизайнерский санузел: инсталляция, раковина-чаша, чугунная ванна, подсветка ниш, фитостена вокруг зеркала и фен.
+• Кухня и техника: гарнитур с варочной панелью, мини-холодильником, вытяжкой, СВЧ и чайником; кондиционер, Smart TV на кронштейне и вместительный шкаф в прихожей со встроенной нишей под стиральную машину. Вся мебель и техника новые и остаются.
+• Надежность и продуманность: новая разводка электрики и труб, трековое освещение, застекленный балкон, часть зон хранения с контролем доступа для удобства хозяина.
+Преимущества локации (по данным 2ГИС) :
+• Всё у дома и высокий трафик: аптеки, магазины, кафе и кофейни в соседних зданиях. Рядом школы, сады, медцентры городского и областного значения, спорткомплексы, рынки и деловые объекты — стабильный спрос у гостей города и командировочных.
+• Удобная логистика: рядом остановки, быстрый выезд в центр и любую часть города.
+Документы в порядке, без обременений. Звоните, чтобы записаться на просмотр и оценить уровень ремонта вживую!</description>
+    <area>
+      <value>35</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
+  </offer>
   <offer internal-id="1017615291">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -32475,6 +34779,80 @@ ____
     <building-type>кирпичный</building-type>
     <balcony>балкон</balcony>
     <built-year>1963</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
+  <offer internal-id="1017616524">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017616524</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:34:02+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Михаэлиса, 1</address>
+      <latitude>49.964128883572</latitude>
+      <longitude>82.613251124339</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>16300000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd2234f7-d203-40e5-8dea-4b74d939dd43/24-full.jpg</image>
+    <description>продаётся уютная светлая 2-комнатная квартира — 45, 4 кв. м
+В этой квартире чувствуешь себя легко: много света, продуманная планировка и очень тёплая, домашняя атмосфера.
+
+Состояние:
+
+Аккуратная, чистая, готова к проживанию. Хорошие полы, утеплены особи фанерой, везде линолеум, пластиковые окна с решетками от выполнения детей, свежая отделка. Можно заезжать без дополнительных вложений.
+
+Расположение:
+
+Удобный район — всё под рукой:
+
+Остановки общественного транспорта — рядом
+
+Магазины, аптеки, школа, детский сад — в шаговой доступности
+
+Зелёный, тихий двор
+
+Большая стоянка, новая детская площадка
+
+Документы: полный порядок, Возможна ипотека в любом банке
+
+Звоните, договоримся о просмотре в любое удобное время.</description>
+    <area>
+      <value>45.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <balcony>балкон</balcony>
+    <built-year>1971</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1017616765">
@@ -34945,5 +37323,82 @@ ____
     <building-type>панельный</building-type>
     <ceiling-height>2</ceiling-height>
     <built-year>1964</built-year>
+  </offer>
+  <offer internal-id="1017786492">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017786492</url>
+    <newobject-id />
+    <last-update-date>2026-11-27T14:51:42+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>30 Гвардейская Дивизия, 28</address>
+      <latitude>49.961612724471</latitude>
+      <longitude>82.592862398384</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>4500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/59/59caf81f-3428-4479-baad-85f6f6072e9f/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/59/59caf81f-3428-4479-baad-85f6f6072e9f/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/59/59caf81f-3428-4479-baad-85f6f6072e9f/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/59/59caf81f-3428-4479-baad-85f6f6072e9f/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/59/59caf81f-3428-4479-baad-85f6f6072e9f/5-full.jpg</image>
+    <description>ПРОДАМ КОМНАТУ ПОСЛЕ РЕМОНТА!
+
+Усть-Каменогорск, ул. 30-й Гвардейской Дивизии, дом 28, кв. 18А.
+
+Цена: 4 500 000 тенге.
+
+Продаётся комната после ремонта, расположенная на 3-м этаже 5-этажного дома.
+
+Характеристики по документам:
+
+Жилая площадь комнаты — 8, 70 м².
+
+Общая площадь — 16, 56 м².
+
+Одна комната.
+В собственность также входят доли мест общего пользования:
+
+1/3 кухни;
+
+1/3 ванной комнаты;
+
+1/3 туалета;
+
+1/3 коридора.
+
+Документы:
+
+Право собственности зарегистрировано.
+
+Имеется договор купли-продажи.
+
+Документы оформлены.
+
+Комната после ремонта — можно заехать и пользоваться без необходимости делать ремонт.
+
+По вопросам и для организации просмотра пишите или звоните по указанному номеру.
+
+Просьба внимательно читать объявление! Площадь, этаж, стоимость и доли в местах общего пользования указаны выше. Если вас устраивают условия, будем рады договориться о просмотре.</description>
+    <area>
+      <value>17</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <built-year>1972</built-year>
   </offer>
 </realty-feed>

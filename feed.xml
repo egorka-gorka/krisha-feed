@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-27T20:36:29+03:00</generation-date>
+  <generation-date>2026-11-27T20:41:36+03:00</generation-date>
   <offer internal-id="47489069">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -12926,7 +12926,7 @@ ____
     <category>квартира</category>
     <url>https://krisha.kz/a/show/1010412599</url>
     <newobject-id />
-    <last-update-date>2026-11-26T15:11:16+03:00</last-update-date>
+    <last-update-date>2026-11-27T20:41:36+03:00</last-update-date>
     <location>
       <country>Казахстан</country>
       <region>Восточно-Казахстанская область</region>
@@ -12945,17 +12945,17 @@ ____
       <value>20900000</value>
       <currency>KZT</currency>
     </price>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/1-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/2-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/3-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/4-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/5-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/6-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/7-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/8-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/9-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/10-full.jpg</image>
-    <image>https://alaps-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/cd/cd13a794-3784-4514-97cf-649bca086bf6/11-full.jpg</image>
     <description>кирпичный дом, 1967 г.п., потолки 2.5м., санузел совмещенный, телефон: отдельный, меблирована полностью, 3 комнатная квартира в центре города на 1 этаже. Удобная как для проживания так и для бизнеса</description>
     <area>
       <value>60</value>

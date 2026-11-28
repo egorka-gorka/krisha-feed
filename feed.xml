@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-28T20:31:29+03:00</generation-date>
+  <generation-date>2026-11-28T20:36:36+03:00</generation-date>
   <offer internal-id="47489069">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -27454,6 +27454,46 @@ ____
     <building-name>Riviera Residence</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1015912981">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015912981</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:32:30+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Казахстан, 161</address>
+      <latitude>49.962014</latitude>
+      <longitude>82.638709</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>6500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/8c/8c69b6db-cc1a-4924-8487-558fee6742a4/1-full.jpg</image>
+    <description>Продам комнату в данный момент она в ремонте если доделаю цена вырастит санузел почти сделан проведены трубы куплен туалет душевой поддон раковина пластиковые окна межкомнатная дверь холодильник новая входная дверь полы выровнены ламинат куплен и подложка стены просто окрашены не выравнивались из работ осталось сделать натяжной потолок
+Уборка и модно заезжать
+Продаю в связи с неожиданным переездом в РФ</description>
+    <area>
+      <value>18</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1975</built-year>
+  </offer>
   <offer internal-id="1015921611">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -29078,6 +29118,81 @@ ____
     <balcony>балкон</balcony>
     <ceiling-height>3</ceiling-height>
     <built-year>1948</built-year>
+  </offer>
+  <offer internal-id="1016188665">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016188665</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:33:31+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бажова, 44</address>
+      <latitude>49.977096</latitude>
+      <longitude>82.604869</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>13900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/14-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/20-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/50-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/21-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/51-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/52-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/25-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/26-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/27-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/28-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/38-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/35-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/34-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/33-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/36-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/37-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/39-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/40-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/43-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/44-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/48-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/15-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/16-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/17-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/37/37cd5c37-8f37-462e-9c14-4b693ad51d80/19-full.jpg</image>
+    <description>Пластиковые окна, улучшенная, комнаты изолированы, новая сантехника, кладовка, счётчики, тихий двор.
+
+Продам 2х кометную квартиру, в хорошем состоянии, пластиковые окна, тепло, светло, хорошо! Соседи все отличные! Рядом продуктовый магазин, гостиница, больница, остановка, парковка перед окнами, решетки на окнах, везде ведется видео наблюдение, окна выходят во двор, часть мебели остается, канализация и проводка заменено! Квартира светлая, большая и теплая! Двери бронированные! Интернет вайфай дома! Причина продажи с вези с расширением! Риелторов прошу не беспокоить!</description>
+    <area>
+      <value>61.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>2</floors-total>
+    <building-type>кирпичный</building-type>
+    <ceiling-height>3.2</ceiling-height>
+    <built-year>1951</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1016188686">
     <type>продажа</type>
@@ -31998,6 +32113,47 @@ ____
     <building-name>Ertis City</building-name>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1016707098">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1016707098</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:34:33+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Бажова</address>
+      <latitude>50.008675</latitude>
+      <longitude>82.551078</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>4500000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/24/241f181d-212a-4ccf-bcd2-97a4a62d7c39/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/24/241f181d-212a-4ccf-bcd2-97a4a62d7c39/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/24/241f181d-212a-4ccf-bcd2-97a4a62d7c39/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/24/241f181d-212a-4ccf-bcd2-97a4a62d7c39/4-full.jpg</image>
+    <description>Продам комнату в малосемейке на 3 этаже, секционные. Общ пл.25.кв. м., жилой площад 18 кв. 2 туалет, 2 ванна на 4 хозяина, соседи тихие. Дом панельный, сверху технический этаж. Во дворе школа -27., и садик. Остановка рядом с домом. Номер хозяина</description>
+    <area>
+      <value>25</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1981</built-year>
+  </offer>
   <offer internal-id="1016716598">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -34482,6 +34638,72 @@ ____
     <built-year>1981</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1017068735">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017068735</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:35:34+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Протозанова, 25</address>
+      <latitude>49.956213</latitude>
+      <longitude>82.628684</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>17900000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/1-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/2-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/3-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/4-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/5-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/6-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/7-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/8-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/9-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/10-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/11-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/12-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/13-full.jpg</image>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/23/23770ae0-a139-4ee0-b910-dca7a796a7e1/14-full.jpg</image>
+    <description>Пластиковые окна, тихий двор.
+
+Продается 2-х комнатная квартира, свежий ремонт, рядом 36 школа, центральный рынок, набережная по улице Протозанова, тихий двор. Реальному покупателю торг, подходит в ипотеку без первоначального взноса, помощь в оформлении ипотеки.
+Преимущества квартиры:
+1) Выполнен свежий ремонт, дополнительных вложений не требуется — можно сразу заехать и проживать.
+Установлены пластиковые окна, обеспечивающие хорошую тепло- и шумоизоляцию.
+2) Полностью заменена электропроводка на новую, с использованием медного кабеля.
+3) Заменены радиаторы отопления.
+4) Установлены новые межкомнатные двери.
+5) Сантехнические коммуникации находятся в хорошем состоянии.
+6) Квартира ухоженная, в хорошем жилом состоянии.
+Все основные ремонтные работы выполнены, дополнительных затрат на обустройство не требуется.
+Важно в общую площадь не включен балкон .</description>
+    <area>
+      <value>42</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1967</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1017102317">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -35967,6 +36189,58 @@ ____
     <built-year>2018</built-year>
     <building-name>Ertis City</building-name>
     <floor-covering>ламинат</floor-covering>
+  </offer>
+  <offer internal-id="1017274174">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1017274174</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:36:36+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Буровая, 2</address>
+      <latitude>49.952649</latitude>
+      <longitude>82.674094</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>4700000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://kzala2-photos-kr.kcdn.kz/webp/3a/3adf3c72-b199-4109-b431-fe764cea667b/1-full.jpg</image>
+    <renovation>требует ремонта</renovation>
+    <description>Пластиковые окна, не угловая, счётчики, тихий двор.
+
+Продам однокомнатную квартиру в г. Риддер или обменяю на Усть-Каменогорск. По адресу 4 район Буровая 2. Продаётся тёплая однокомнатная квартира площадью 33 квадратных метра.
+В кирпичном доме 1974 года постройки, этаж 5/5. Преимущество квартиры:
+Пластиковые окна.
+Полностью замена система отопления.
+Имеется балкон, оформленный в собственность.
+Установлены счётчики на газ и воду.
+Крыша не протекает, кровельные покрытие обновлялось.
+Рассмотрим обмен на зимнюю дачу в городе Усть - Каменогорск (район Новой согры, п. Мирного и Защиты). Обязательно наличие воды, прописки и удобного расположения относительно остановки.
+Также рассмотрим обмен квартиры в Усть-Каменогорске. Обмен без доплаты с нашей стороны. Рассмотрим квартиры без ремонта, а также задолженности. Возможны разные районы.
+Квартиры с печным отоплением не предлагать.
+Обмен на автомобиль не интересует.</description>
+    <area>
+      <value>33</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>1</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <built-year>1974</built-year>
   </offer>
   <offer internal-id="1017289856">
     <type>продажа</type>

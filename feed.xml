@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-28T20:52:41+03:00</generation-date>
+  <generation-date>2026-11-28T20:57:48+03:00</generation-date>
   <offer internal-id="47489069">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -16352,6 +16352,58 @@ ____
     <built-year>1975</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1011753430">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1011753430</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:53:42+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>жастар, 14</address>
+      <latitude>49.90439</latitude>
+      <longitude>82.61547</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>36000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/1-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/2-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/3-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/4-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/5-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/6-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/7-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/8-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/9-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/80/8023a63a-3a98-4659-8bef-f455aa4249fc/10-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, встроенная кухня, новая сантехника, счётчики, тихий двор.
+
+Продается 3-х комнатная квартира. На 5 этаже. 6 этажного дома. В квартире натяжные потолки, пол ламинат, новая сантехника,счётчики,пластиковые окна, двойная новая дверь, двери деревянные.Хорошие соседи. все в шаговой доступности ЦОН,магазины, школы ,сады. Автобусная остановка за домом. Мебель остаётся по договоренности</description>
+    <area>
+      <value>70</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>6</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1989</built-year>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
   <offer internal-id="1011757157">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -22251,6 +22303,61 @@ ____
     <built-year>2014</built-year>
     <floor-covering>ламинат</floor-covering>
   </offer>
+  <offer internal-id="1014475055">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1014475055</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:54:44+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Геологическая, 18</address>
+      <latitude>49.931129</latitude>
+      <longitude>82.675342</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>15000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/1-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/2-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/3-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/4-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/5-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/6-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/7-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/8-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/9-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/10-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/11-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/12-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/13-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/14-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/0e/0eb3e0e2-ac72-4ad7-b5ca-068c9b76f32f/15-full.jpg</image>
+    <description>Продам квартиру в экологическом чистом районе. Сделан косметический ремонт, натяжные потолки, пластиковые окна проводной интернет. В 5-ти минутах школа, магазины, аптека в шаговой доступности, остановка рядом с домом. так же РАССМОТРИМ ОБМЕН НА ЧАСТНЫЙ ДОМ В РАЙОНЕ АБЛАКЕТКА. либо равный по цене либо доплата с вашей стороны. По всем вопросам .</description>
+    <area>
+      <value>43</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>2</rooms>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>2</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1961</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1014509695">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -26362,6 +26469,55 @@ ____
     <built-year>1961</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1015538850">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015538850</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:55:45+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Илияса Есенберлина, 14</address>
+      <latitude>49.902295147214</latitude>
+      <longitude>82.605163270998</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>65000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/1-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/2-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/3-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/4-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/5-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/6-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/7-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/8-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/22/22c4d4f3-7156-4bdf-be8a-fbaa334111a6/9-full.jpg</image>
+    <description>Продам 3х комнатную квартиру на кшт. Свежий дизайнерский ремонт. Интернет, телефон все подключен. Квартира полностью меблированная. Мебель и техника вся новая.</description>
+    <area>
+      <value>93</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>3</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>10</floors-total>
+    <building-type>монолит</building-type>
+    <ceiling-height>2.75</ceiling-height>
+    <built-year>2023</built-year>
+    <building-name>Коктем</building-name>
+    <floor-covering>ламинат</floor-covering>
+  </offer>
   <offer internal-id="1015546179">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -26802,6 +26958,64 @@ ____
     <built-year>1985</built-year>
     <floor-covering>линолеум</floor-covering>
   </offer>
+  <offer internal-id="1015611424">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015611424</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:56:47+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Казыбек Би, 28</address>
+      <latitude>49.899017</latitude>
+      <longitude>82.611005</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>42000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/1-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/2-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/3-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/4-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/5-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/6-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/7-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/8-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/9-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/10-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/49/497c2a57-e2e3-484c-a91e-96c0d12e0640/11-full.jpg</image>
+    <description>Продаю 4-ех комнатную квартиру квартиру в спокойном, тихом районе КШТ. Возможен торг, агентства и риелторов, просьба не беспокоить!
+
+удобное расположение;
+* развитая инфраструктура в шаговой доступности;
+* рядом магазины, аптеки, остановки общественного транспорта;
+* спокойный и удобный для проживания район;
+* квартира светлая и комфортная;
+* хорошие транспортные развязки.</description>
+    <area>
+      <value>82.3</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>панельный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1989</built-year>
+    <floor-covering>линолеум</floor-covering>
+  </offer>
   <offer internal-id="1015614954">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -27169,6 +27383,78 @@ ____
     <building-type>монолит</building-type>
     <ceiling-height>2.5</ceiling-height>
     <built-year>2021</built-year>
+  </offer>
+  <offer internal-id="1015727977">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015727977</url>
+    <newobject-id />
+    <last-update-date>2026-11-28T20:57:48+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Абая пр</address>
+      <latitude>49.963457</latitude>
+      <longitude>82.614185</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <category>владелец</category>
+      <agency-id />
+      <url />
+    </sales-agent>
+    <price>
+      <value>35000000</value>
+      <currency>KZT</currency>
+    </price>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/1-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/2-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/3-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/4-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/5-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/6-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/7-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/8-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/9-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/10-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/11-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/12-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/13-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/14-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/15-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/16-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/17-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/18-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/19-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/20-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/21-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/22-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/23-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/24-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/25-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/26-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/27-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/28-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/29-full.jpg</image>
+    <image>https://atrkt-photos-kr.kcdn.kz/webp/78/7882be52-da15-4ac0-926b-bea4268ed982/30-full.jpg</image>
+    <description>Пластиковые окна, не угловая, улучшенная, комнаты изолированы, новая сантехника, счётчики, тихий двор, кондиционер.
+
+4х комнатная квартира, улучшенная, в центре города, уютная, ухоженная, просторная, светлая, хорошие соседи. Комнаты изолированные. Лоджия застеклена. Тихий двор с новой детской площадкой, асфальт новый, парковка. Развитая инфраструктура, рядом много магазинов, рынки, аптеки, школы, детские сады, парикмахерские, остановки автобусов и трамваев. В 5 минутах пешком городская поликлиника, больница. Продается собственником, без агентов, без обмена! Не в залоге, без долгов. Хороший ремонт, сантехника, трубы, батареи новые. Счётчики холодной и горячей воды. Окна пластиковые. Установлен кондиционер. Современные красивые межкомнатные двери. Входные двери двойные, железная и деревянная. Новым хозяевам остаётся большой диван, два кресла, большая стенка в гостиной, шкаф трёх дверный с антресолями, стол раздвижной полированный, вместительная прихожая сделанная на заказ, хороший кухонный гарнитур тоже делали на заказ. Есть все основное для комфортного проживания, заезжай и живи!</description>
+    <area>
+      <value>74</value>
+      <unit>кв.м</unit>
+    </area>
+    <rooms>4</rooms>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <floor>4</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <balcony>лоджия</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1973</built-year>
+    <floor-covering>линолеум</floor-covering>
   </offer>
   <offer internal-id="1015731003">
     <type>продажа</type>
